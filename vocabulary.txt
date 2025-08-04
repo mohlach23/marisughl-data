@@ -2352,6 +2352,7 @@ versions: ⵜⵓⵏⵖⵉⵍⵉⵏ
 very: ⴱⴰⵀⵔⴰ
 vibration: ⴰⵏⴷⵓⴷⵉ
 vibrations: ⵉⵏⴷⵓⴷⵉⵢⵏ
+vehicle: ⵜⴰⵎⵙⵙⵓⴷⵓⵜ
 video: ⴰⴼⵉⴷⵢⵓ
 videos: ⵉⴼⵉⴷⵢⵓⵜⵏ
 village: ⴰⵙⵓⵏ
@@ -2438,4 +2439,5 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
