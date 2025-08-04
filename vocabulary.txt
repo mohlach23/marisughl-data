@@ -311,8 +311,8 @@ chain: ⴰⵙⴷⴷⵉ
 chains: ⵉⵙⴷⴷⵉⵜⵏ
 chair: ⴰⵙⵖⵉⵎ
 chairs: ⵉⵙⵖⵉⵎⵏ
-challenge: ⴰⵏⴰⵥⴰⵔ
-challenges: ⵉⵏⴰⵥⴰⵔⵏ
+challenge: ⴰⵏⴰⵥⴰⵕ
+challenges: ⵉⵏⴰⵥⴰⵕⵏ
 change: ⴰⵙⵏⴼⵍ
 changing: ⴰⵙⵏⴼⵍ
 channel: ⵜⴰⴱⴰⴷⵓⵜ
@@ -2439,5 +2439,6 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
