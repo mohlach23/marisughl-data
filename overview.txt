@@ -215,3 +215,9 @@ Examples:
 - ⵏⵜⵜⴰ ⴷ ⴰⵔⴳⴰⵣ. = He is a man.
 
 ▪Tamazight generally follows: V-S-O, but sometimes we use: S-V-O
+
+•If we have:
+Interrogative pronoun or particles before a verb with object pronouns (direct and indirect)
+We follow this order:
+Interrogative pronoun / particles - indirect object pronouns - direct object pronouns - verb
+
