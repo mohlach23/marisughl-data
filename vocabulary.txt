@@ -1,7 +1,7 @@
 DNA: ⵙⵎⴽ
 English:  ⵜⴰⵏⴳⵍⵉⵣⵜ
 Maris: ⵎⴰⵔⵉⵙ
-Marissughl:  ⵎⴰⵔⵉⵙⵙⵓⵖⵍ
+Marisughl:  ⵎⴰⵔⵉⵙⵓⵖⵍ
 Mohamed:  ⵎⵓⵃⵎⵎⴰⴷ
 abilities:  ⵜⵉⵣⵎⵎⴰⵔ
 ability:  ⵜⴰⵣⵎⵔⵜ
@@ -698,6 +698,7 @@ enigma: ⵜⵉⵏⵥⵥⵕⵜ
 enough: ⵢⵓⴷⴰⵏ
 entities: ⵉⵢⵓⵏⵏ
 entity: ⴰⵢⵓⵏ
+enemies: ⵉⵛⵏⴳⴰ
 entropy: ⴰⵏⵜⵓⵜⵔ
 environment: ⵜⴰⵡⵏⵏⴰⴹⵜ
 episode: ⵜⴰⵅⵔⵙⵜ
@@ -2437,3 +2438,4 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
