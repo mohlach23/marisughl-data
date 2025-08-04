@@ -1,0 +1,217 @@
+TAMAZIGHT LANGUAGE
+
+▪Tifinagh Alphabet (33 letters):
+I will classify them based on the shape to remember it easily:
+- ⴰ(a), ⴱ(b), ⵛ(sh), ⵀ(h), ⵙ(s), ⵚ(ṣ), ⵔ(r), ⵕ(ṛ), ⵓ(o/au), ⴻ(silent letter, used to separate three or four similar consonants)
+- ⴷ(d), ⴳ(g), ⴳⵯ(gʷ), ⴽ(k), ⴽⵯ(kʷ), ⵇ(q), ⵃ(ḥ), ⵉ(i), ⵢ(y), ⵅ(kh), ⵣ(z), ⵥ(ẓ), ⵖ(gh), ⵄ(ɛ or 'A' in 'Ali')
+- ⴹ(ḍ), ⵟ(ṭ), ⴼ(f), ⵎ(m), ⵡ(w), ⵊ(j), ⵜ(t), ⵏ(n), ⵍ(l)
+
+- 4 vowels (one of them is schwa which is silent)
+- 2 semi-consonants (ⵡ: w, ⵢ: y)
+- 27 consonants (two of them are labiovelar: ⴽⵯ [kʷ], ⴳⵯ [gʷ])
+- Gemination: double consonants or semi-consonants (ⵙⵙ: ss, ⵏⵏ: nn, ⴷⴷ: dd, ⵢⵢ: yy)
+- Emphasis: we have 5: ⴹ (ḍ), ⵟ (ṭ), ⵚ (ṣ), ⵕ (ṛ), ⵥ (ẓ)
+
+PARTS OF SPEECH IN TAMAZIGHT:
+▪NOUNS 
+-names of people, place, thing
+-conjugation: Gender: Masculine or Feminine, Number: Singular or Plural, State: Free or Constructed
+▪DETERMINANTS 
+-come before or after the noun
+-Types: possessive, demonstrative, numeral, indefinite, absence
+▪PRONOUNS 
+-replace nouns
+-Types: direct object pronouns, indirect object pronouns, autonomous, affixes of prepositions, demonstrative, possessive, interrogative, undefined
+▪VERBS 
+-action words
+-conjugation: each verb has four forms and each one is used to shape one tense or more by adding affixes to determine the person mark
+▪ADJECTIVES 
+-describe nouns
+-conjugation: same as nouns
+▪ADVERBS 
+-describe verb, adjective or adverb
+-Types: place, time, quantity, manner
+▪PREPOSITIONS & COMPLEX PREPOSITIONS
+-relationship between words
+-conjugation: when a pronoun comes after it
+▪PARTICLES 
+-Types: negation, aspect, future, orientation, predicative
+▪CONJUNCTIONS 
+-connecting words
+▪Presentative (ⵀⴰ ⵎⴰⵙⵉⵏ! = Here is Masin!)
+▪Quantifier (ⵜⵓⴳⵜⵜ ⵏ/ⴰⵟⵟⴰⵚ ⵏ = a lot of)
+▪Vocative (ⴰ: ⴰ ⵉⵎⵎⵉ! = Mom!)
+
+NOUN
+Types:
+•Common - names in general like ⵜⴰⵔⴱⴰⵜ (girl), ⴰⵙⵍⵎⴰⴷ (teacher).
+•Feminine - names that start with 'ⵜ (t)' and may end with it, like ⵜⵓⴷⵔⵜ (life), ⵜⴰⴹⵚⴰ (laughter), ⵜⵉⴳⵎⵎⵉ (house)
+•Masculine - the majority of nouns that don't start or end with 'ⵜ (t)', like ⴰⵔⴳⴰⵣ (man), ⵓⵍ (heart), ⵉⵜⵔⵉ (star)
+•Proper - specific names like ⵎⴰⵙⵉⵏ (Masin).
+•Concrete - exist physically like ⵜⴰⴷⴰⴱⵓⵜ (table).
+•Compound - two or more compound words like ⵉⴱⵔⴳⵎⵎⵉ(palace) [Explanation: ⵉⴱⵔ(ⴰⴱⵔ: super) + ⴳⵎⵎⵉ(<-- ⵜⵉⴳⵎⵎⵉ: house)].
+•Countable - having singular/plural form like ⵓⴷⵎ (face)--->ⵓⴷⵎⴰⵡⵏ (faces).
+•Uncountable - substances, liquids & abstract. like ⴰⵎⴰⵏ (water)
+•Abstract - no physical existence or emotion like ⵜⵓⵎⵔⵜ (happiness). 
+•Collective - set or group like ⵜⴰⵔⴰⴱⴱⵓⵜ (team).
+
+Functions of noun:
+ⵉⴼⴽⴰ[V] ⵓⵔⴳⴰⵣ ⵜⴰⵙⴰⵔⵓⵜ ⵉ[PREP] ⵓⵔⴱⴰ. = The man gave the key to the boy.
+-subject: ⵓⵔⴳⴰⵣ: the construct state of 'ⴰⵔⴳⴰⵣ' (because it is a subject)
+-direct object: ⵜⴰⵙⴰⵔⵓⵜ
+-indirect object: ⵓⵔⴱⴰ: the construct state of 'ⴰⵔⴱⴰ' (because it came after a preposition)
+
+Noun State Conjugation:
+-The free state: is the normal state of every noun
+-The construct state: when a noun is suject, or comes after a presposition or a numeral determinant.
+-- The transformations in the noun is according to its beginning:
+* The masculine noun: ⴰ -> ⵓ/ⵡⴰ, ⵓ -> ⵡⵓ, ⵉ -> ⵢⵉ
+Ex: ⴰⵔⴳⴰⵣ -> ⵓⵔⴳⴰⵣ, ⴰⵢⴷⵉ -> ⵡⴰⵢⴷⵉ, ⵓⵍ -> ⵡⵓⵍ, ⵉⵜⵔⵉ -> ⵢⵉⵜⵔⵉ
+* The feminine noun: ⵜⴰ -> ⵜ, ⵜⵓ -> ⵜⵓ, ⵜⵉ -> ⵜ
+Ex: ⵜⴰⵔⴱⴰⵜ -> ⵜⵔⴱⴰⵜ, ⵜⵓⴷⵔⵜ -> ⵜⵓⴷⵔⵜ, ⵜⵉⵡⵉⵙⵉ -> ⵜⵡⵉⵙⵉ
+
+DETERMINANT
+•Possessive ⵉⵏⵓ(my), ⵏⵏⴽ(your, for mas. sing.), ⵏⵏⵎ(your, for fem. sing.), ⵏⵏⵙ(his/her/its), ⵏⵏⵖ(our), ⵏⵏⵓⵏ(your, for mas. plur.), ⵏⵏⵓⵏⵜ(your, for fem. plur.), ⵏⵏⵙⵏ(their, mas. plur.), ⵏⵏⵙⵏⵜ(their, fem. plur.)
+•Demonstrative ⴰⴷ(this, these), ⴰⵏⵏ(that, those)
+•Numeral [ⵢⴰⵏ(1), ⵙⵉⵏ(2), ⴽⵕⴰⴹ(3), ⴽⴽⵓⵥ(4), ⵙⵎⵎⵓⵙ(5), ⵚⴹⵉⵚ(6), ⵙⴰ(7), ⵜⴰⵎ(8), ⵢⵥⴰ(9), ⵎⵔⴰⵡ(10), ...] + noun
+•Indefinite ⵢⴰⵏ(works like: a), ⴽⵔⴰ ⵏ(some), ⵢⴰⴹⵏ(other), ⵉⵎⵉⴽⴽ ⵏ(few), ⵎⵏⵏⴰⵡ(many), ⴰⴽⴽⵯ(all)
+•Of Absence ⵍⵍⵉ(that/those, absent but known)
+
+Examples:
+- ⴰⴷⵍⵉⵙ ⵉⵏⵓ = my book
+- ⴰⴷⵍⵉⵙ ⴰⴷ = this book
+- ⵙⵉⵏ ⵢⵉⴷⵍⵉⵙⵏ = two books
+- ⵢⴰⵏ ⵓⴷⵍⵉⵙ = a book/ one book
+- ⴰⴷⵍⵉⵙ ⵍⵍⵉ ⵥⵕⵉⵖ = the book that I saw
+
+PRONOUN
+•Interrogative 
+ⵎⴰⵏⵡⴰ/ⵎⴰⵏⵜⴰ(Who), ⵎⴰⵏⵉ(Where), ⵎⴰ ⵖⴼ(Why), ⵎⴰⵏⴰⴳⵓ(When), ⵎⴰ(What), ⵎⴰⵜⵜⴰ(Which), ⵎⴰⵏⵎⴽ(How), ⵎⵏⵛⵜ(How much)
+•Possessive 
+ⵡⵉⵏⵓ(Mine), ⵡⵉⵏⵏⴽ(Yours, mas., sing.), ⵡⵉⵏⵏⵎ(Yours, fem., sing.), ⵡⵉⵏⵏⵙ(His/hers/its), ⵡⵉⵏⵏⵖ(Ours), ⵡⵉⵏⵏⵓⵏ(Yours, mas., plur.), ⵡⵉⵏⵏⵓⵏⵜ(Yours, fem., plur.), ⵡⵉⵏⵏⵙⵏ(Theirs, mas.), ⵡⵉⵏⵏⵙⵏⵜ(Theirs, fem.)
+•Demonstrative 
+ⵡⴰⴷ/ⵜⴰⴷ(this), ⵡⴰⵏⵏ/ⵜⴰⵏⵏ(that), ⵡⵉⴷ/ⵜⵉⴷ(these), ⵡⵉⵏⵏ/ⵜⵉⵏⵏ(those)
+•Indefinite 
+ⵡⴰⵢⵢⴰⴹ(the other/another one), ⵡⵉⵢⵢⴰⴹ(the others), ⵡⴰⵏⵏⴰ/ⵜⴰⵏⵏⴰ(each one)
+•Autonomous 
+Singular(ⵏⴽⴽⵉ(I), ⴽⵢⵢⵉ/ⴽⵎⵎⵉ(you), ⵏⵜⵜⴰ(he), ⵏⵜⵜⴰⵜ(she)) Plural(ⵏⴽⴽⵯⵏⵉ(We), ⴽⵯⵏⵏⵉ/ⴽⵯⵏⵏⵉⵏⵜⵉ(you), ⵏⵜⵜⵏⵉ/ⵏⵜⵜⵏⵜⵉ(they))
+•Direct object pronouns 
+ⵉⵢ(me), ⴽ/ⴽⵎ(you, mas./fem.), ⵜ(him), ⵜⵜ(her), ⴰⵖ(us), ⴽⵯⵏ/ⴽⵯⵏⵜ(you, Plur., mas./fem.), ⵜⵏ/ⵜⵏⵜ(them, mas./fem.)
+•Indirect object pronouns 
+ⵉⵢⵉ(me), ⴰⴽ/ⴰⵎ(you, mas./fem.), ⴰⵙ(him/her), ⴰⵖ(us), ⴰⵡⵏ/ⴰⵡⵏⵜ(you, Plur., mas./fem.), ⴰⵙⵏ/ⴰⵙⵏⵜ(them, mas./fem.)
+•Affixes of prepositions
+ⵉ(me), ⴽ/ⵎ(you, mas./fem.), ⵙ(him/her), ⵖ(us), ⵡⵏ/ⵡⵏⵜ(you, Plur., mas./fem.), ⵙⵏ/ⵙⵏⵜ(them, mas./fem.)
+
+Examples:
+- ⵎⴰ ⵉⵎⵙⴰⵔⵏ? = what happened?
+- ⵎⴰⵏⴰⴳⵓ ⵉⴷⴷⴰ? = when did he go?
+- ⵉⴳⴰ ⵡⵉⵏⵓ. = it is mine.
+- ⵡⴰⴷ ⵓⵔ ⵉⴳⵉ ⵡⵉⵏⵓ. = This isn't mine.
+- ⴼⴽ ⵉⵢⵉ ⵡⵉⵢⵢⴰⴹ. = Give me another one.
+- ⵉⴷⴷⴰ ⴷⵉⵙ. = He went with him. (Here we used: PREP + Suffix: ⴷ[PREP] + ⵙ -> ⴷⵉⵙ)
+- ⵏⵜⵜⴰ ⵏⵖ ⴷ ⴽⵢⵢⵉ? = He or you?
+- ⵥⵕⵉⵖ ⴽ. = I saw you.
+
+VERB
+Each Amazigh verb has four forms (some of them can be same):
+- Aorist (the basic form of each verb): used for imperative and future
+- Accomplished: used for past
+- Negative accomplished: used for negative past
+- Unaccomplished: used for continuous imperative/future and the present
+
+To form the tenses with those forms we use affixes:
+For imperative:
+-ⴰⵜ, -ⴰⵎⵜ (you, plural)
+For the rest:
+-ⵖ(I), ⵜ-ⵜ(you, sing.), ⵉ-(he/it), ⵜ-(she/it), ⵏ-(we), ⵜ-ⵎ(you, mas., plur.), ⵜ-ⵎⵜ(you, fem., plur.), -ⵏ(they, mas., plur.), -ⵏⵜ(they, fem., plur.)
+
+Examples:
+The verb: ⵙⴽⵔ (do)
+- Aorist: ⵙⴽⵔ
+- Accomplished: ⵙⴽⵔ
+- Negative accomplished: ⵙⴽⵉⵔ
+- Unaccomplished: ⵙⴽⴰⵔ
+
+- ⵙⴽⵔⵖ (ⵙⴽⵔ + ⵖ) ⵜⴰⵡⵓⵔⵉ ⵉⵏⵓ. = I did my work.
+- ⵙⴽⵔ ⵜⴰⵡⵓⵔⵉ ⵏⵏⴽ! = Do your work!
+- ⵔⴰⴷ ⵉⵙⴽⵔ (ⵉ + ⵙⴽⵔ) ⵜⴰⵡⵓⵔⵉ ⵏⵏⵙ. = He will do his work.
+- ⵓⵔ ⵜⵙⴽⵉⵔⵎ (ⵜ + ⵙⴽⵉⵔ + ⵎ) ⵜⴰⵡⵓⵔⵉ ⵏⵏⵓⵏ. = You (plur.) didn't do your work.
+- ⴰⵔ ⵜⵙⴽⴰⵔ (ⵜ + ⵙⴽⴰⵔ) ⵜⴰⵡⵓⵔⵉ ⵏⵏⵙ. = She is doing her work.
+- ⴷⴰ ⵙⴽⴰⵔⵏ (ⵙⴽⴰⵔ + ⵏ) ⵜⴰⵡⵓⵔⵉ ⵏⵏⵙⵏ. = They (mas.) do their work.
+
+The verb: ⵙⵓ (drink)
+- Aorist: ⵙⵓ
+- Accomplished: ⵙⵡⵉ, ⵙⵡⴰ, (In the case we have two forms for Accomplished, we use the first with [I, singular you] then the second form with the rest)
+- Negative accomplished: ⵙⵡⵉ
+- Unaccomplished: ⵙⵙⴰ
+
+Example:
+- ⵙⵡⵉⵖ (ⵙⵡⵉ + ⵖ) ⴰⵎⴰⵏ. = I drank the water.
+- ⵜⵙⵡⵉⵜ (ⵜ + ⵙⵡⵉ + ⵜ) ⴰⵎⴰⵏ. = You drank the water.
+- ⵉⵙⵡⴰ (ⵉ + ⵙⵡⴰ) ⴰⵎⴰⵏ. = He drank the water.
+- ⵜⵙⵡⴰ (ⵜ + ⵙⵡⴰ) ⴰⵎⴰⵏ. = She drank the water.
+
+Some tenses with marks:
+- Future: ⵔⴰⴷ, ⵇⴰⴷ + verb
+- Negative past: ⵓⵔ + verb
+- Simple present: ⴷⴰ + verb
+- Continuous present: ⴰⵔ + verb
+- Negative expression in general starts with: ⵓⵔ 
+
+ADJECTIVE
+•The conjugation of the adjective is similar to the noun (Mas./Fem., Sing./Plur., Free/Constr.).
+•The adjective comes after the noun and follows it in the conjugation (Mas -> mas, Fem -> fem, Sing. -> sing., Plur. -> plur.).
+•We have to types of Adjectives: the regular adjective, the participle form (uses a verb)
+
+Examples:
+- ⵜⴰⵡⵊⵊⴰ ⵜⵓⵎⵍⵉⵍⵜ[ADJ] = The white ball.
+- ⵜⴰⵡⵊⵊⴰ ⵉⵎⵍⵍⵓⵍⵏ (ⵉ + ⵎⵍⵍⵓⵍ[to be white] + ⵏ). = The white ball.
+
+ADVERB
+•Manner How : ⵙ ⵜⴼⵙⵙⴰ (Quickly)
+•Time When : ⴰⵣⴽⴽⴰ (Tomorrow)
+•Place Where : ⵖⵉⵏⵏ (There)
+•Quantity How many/much : ⵉⵎⵉⴽⴽ (few/little)
+
+- Adverbial phrase: ⴷⴰ ⵉⵛⵜⵜⴰ ⴳ ⵡⵓⵙⵓ ⵏⵏⵙ. (He eats in his bed.)
+- Adverbial clause: ⴷⴰ ⵉⵛⵜⵜⴰ ⴰⵛⴽⵓ ⵉⵍⵍⵓⵥ ⴳ ⵢⵉⴹ. (He eats because he is hungry at night.)
+
+PREPOSITIONS
+- ⴳ (in/at), ⴷⴷⴰⵡ/ⴷⴷⵓ (below/under), ⵖⴼ (on), ⵉⴳⴳⵉ/ⴰⴼⵍⵍⴰ (above), ⴳⵔ (between), ⵙⴳ (from/since), ⵙ (to/by), ⵖⵔ (towards/to), ⵖⴼ (on/about), ⴷ/ⴰⴽⴷ (and/with), ⴷⴰⵔ/ⵖⵓⵔ (at, like 'chez' in French), ⴱⵍⴰ/ⵎⵉⵏ (without)
+
+Examples:
+- ⵉⵍⵍⴰ ⴳ ⵜⴳⵎⵎⵉ. = He is at home.
+- ⵉⵍⵍⴰ ⴳ ⴱⵕⵕⴰ. = He/it is outside.
+- ⵜⵍⵍⴰ ⴳ ⵓⴼⵍⵍⴰ ⵏ ⵜⴳⵎⵎⵉ. = She is on top of the house.
+- ⵉⴷⴷⴰ ⵙ ⵜⵉⵏⵎⵍ. = He went to school.
+- ⵉⵍⵍⴰ ⵖⴼ ⵜⴷⴰⴱⵓⵜ. = it is one the table.
+- ⵉⵙⴰⵡⵍ ⴼⵍⵍⴰⴽ. (ⴼⵍⵍⴰ + ⴽ) = He talked about you.
+- ⵓⵛⴽⴰⵏ ⴷ ⴳ ⵢⵉⴹ. = They came at night.
+- ⴷⴷⵉⵖ ⴷⵉⵙ. = I went with him.
+
+CONJUNCTIONS
+ⵏⵖ(or), ⵉⵖ/ⵉⴳ/ⵎⴽ(if), ⵎⴰⵛⵛ/ⵎⴰⵛⴰ(but), ⴰⵛⴽⵓ(because), ⴰⴼⴰⴷ/ⴱⴰⵔ/ⴱⴰⵛ(for/to ...), ⵍⵍⵉⵖ/ⵍⵍⵉⴳ(when ...), ⵍⵍⵉ ⴳ(where ...), ⴽⵓⴷⵏⵏⴰ(whenever), ⴰⵢⵍⵍⵉⵖ(until), ⵙⴳ ⵎⴰ(since), ⵎⵇⵇⴰⵔ(although)
+
+Examples:
+- ⵉⴳ ⵉⴷⴷⴰ ⵣⵉⴽⴽ ⵔⴰⴷ ⵉⵍⴽⵎ. = If he went early, he will arrive.
+- ⵜⵏⵏⴰ ⵉⵢⵉ ⵜ ⵎⴰⵛⴰ ⵜⵜⵓⵖ. = She told me but I forgot.
+- ⴷⴰ ⴳⵉⵙ ⵙⵡⵉⵏⴳⵉⵎⵖ ⵙⴳ ⵎⴰ ⵉⴷⴷⴰ. = I think about him since he went.
+- ⵛⵛⴰⵏ ⴰⵛⴽⵓ ⵍⵍⵓⵥⵏ. = They ate because they were hungry.
+- ⵜⴷⴷⴰ ⵙ ⵜⵉⵏⵎⵍ ⴰⴼⴰⴷ ⴰⴷ ⵜⵍⵎⴷ. = She went to school to learn.
+
+PARTICLES:
+•Negation: ⵓⵔ
+•Aspect: ⴷⴰ, ⴰⵔ
+•Future: ⵔⴰⴷ, ⴰⴷ
+•Orientation: ⴷ, ⵏⵏ
+•Predicative: ⴷ
+
+Examples:
+- ⵓⵔ ⵉⴷⴷⵉ. = He didn't go.
+- ⴰⵔ ⵜⵜⴰⵔⴰⵖ. = I am writing.
+- ⵔⴰⴷ ⵉⵔⴰⵡⵍ. = It will run away.
+- ⵢⵓⵛⴽⴰ ⴷ. = He came. (ⴷ: to the place where the speaker exists)
+- ⵢⵓⵛⴽⴰ ⵏⵏ. = He came. (ⵏⵏ: to the place where the listener exists)
+- ⵏⵜⵜⴰ ⴷ ⴰⵔⴳⴰⵣ. = He is a man.
+
+▪Tamazight generally follows: V-S-O, but sometimes we use: S-V-O
