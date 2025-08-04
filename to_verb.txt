@@ -85,7 +85,7 @@ change	ssnfl
 begin	ssnti
 start	ssnti
 select	sti
-choose	stri
+choose	sti
 open	ṛẓm
 close	qqn
 lock	rgl
@@ -319,4 +319,5 @@ hunt	gʷmr
 warm	ssrɣ
 cool	sskrm
 sing	irir
+
 update  sdɣi
