@@ -1321,7 +1321,7 @@ mice: ⵉⵖⵔⴷⴰⵢⵏ
 microbe: ⴰⵎⵥⵉⴷⵔ
 microorganism: ⴰⵎⵥⵉⴷⵓⵙ
 microorganisms: ⵉⵎⵥⵉⴷⵓⵙⵏ
-microprocessor: ⴰⵎⵥⵉⵙⴽⴽⴰⵔ
+microprocessor: ⴰⵎⵥⵉⵙⵎⴽⴰⵍ
 microscope: ⴰⵎⵥⵉⵥⵕⵉ
 microscopic: ⴰⵎⵥⵉⵥⵕⴰⵢ
 microsystem: ⴰⵎⵥⵉⵏⴳⵔⴰⵡ
@@ -1721,8 +1721,8 @@ process: ⵜⵉⵣⵉⴳⵣⵜ
 processed: ⵉⵜⵜⵓⵙⵎⴽⵍⵏ
 processes: ⵜⵉⵣⵉⴳⵣⵉⵏ
 processing: ⴰⵙⵎⴽⵍ
-processor: ⴰⵙⴽⴽⴰⵔ
-processors: ⵉⵙⴽⴽⴰⵔⵏ
+processor: ⴰⵙⵎⴽⴰⵍ
+processors: ⵉⵙⵎⴽⴰⵍⵏ
 produce: ⵜⵜⴼⴰⵔⴰⵙ
 produced: ⵉⵜⵜⵓⴼⴰⵔⵙⵏ
 producing: ⴰⴼⴰⵔⵙ
@@ -2439,6 +2439,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
