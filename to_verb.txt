@@ -21,7 +21,7 @@ go	in	ⴽⵛⵎ	ⴽⵛⵎ	ⴽⵛⵉⵎ	ⴽⵛⵛⵓⵎ
 go	back	ⵓⵔⵔⵉ	ⵓⵔⵔⵉ	ⵓⵔⵔⵉ	ⵜⵜⵓⵔⵔⵉⵢ
 return	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⵜⵜⴰⵖⵓⵍ
 exist	ⵉⵍⵉ	ⵍⵍⵉ|ⵍⵍⴰ	ⵍⵍⵉ	ⵜⵜⵉⵍⵉ
-have	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ|ⵍⵍⴰ	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵜⵜⵉⵍⵉ	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)
+have	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ|ⵍⵍⴰ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵜⵜⵉⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)
 read	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ
 call	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ
 want	ⵉⵔⵉ	ⵔⵉ|ⵔⴰ	ⵔⵉ	ⵜⵜⵉⵔⵉ
@@ -353,4 +353,5 @@ deny	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ
 
 For "Acc" where you find "|":
 the first part is used for "me" and singular "you", and the second part is used for the rest
+
 For "(...)", they are prepositions or particles that are used with the verb.
