@@ -45,7 +45,7 @@ PARF: particule du futur
 PARO: particule d'orientation
 PARP: particule predicative
 PAPV: particule preverbale
-PC: participe
+PC: participial (using verb as adjective, e.g. ⵉⴼⵓⵍⴽⵉⵏ / ⴼⵓⵍⴽⵉⵏⵉⵏ)
 CONJ: conjonction
 REL: relateur
 QUAN: quantificateur
@@ -53,3 +53,4 @@ INJ: interjection
 N: nom / inconnu
 
 PONC: ponctuation
+
