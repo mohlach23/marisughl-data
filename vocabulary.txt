@@ -362,8 +362,9 @@ clusters: ⵜⵉⵥⵕⵎⵉⵏ
 coast: ⴰⴼⵜⴰⵙ
 code: ⵜⴰⵏⴳⴰⵍⵜ
 coding: ⴰⵙⵏⵉⴳⵍ
-cold: ⴰⵙⵎⵎⴰⴹ
-cold: ⴰⵙⵎⵎⵉⴹ
+cold (adj): ⴰⵙⵎⵎⴰⴹ
+cold (n): ⴰⵙⵎⵎⵉⴹ
+collection (action): ⵜⵉⴳⵔⵉ
 collection: ⵜⴰⵍⴽⵏⵙⵉⵜ
 collections: ⵜⵉⵍⴽⵏⵙⵉⵢⵉⵏ
 collective: ⴰⵎⴳⵔⴰⵡ
@@ -2441,6 +2442,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
