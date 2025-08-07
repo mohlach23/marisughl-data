@@ -39,7 +39,7 @@ ADVT: adv de temps
 ADVQ: adv de quantite
 ADVM: adv de manniere
 PREP: preposition
-PREC: preposition complexe
+PREC: preposition complexe (e.g. ⵎⵏⵉⴷ ⵏ = in front of)
 PARN: particule de negation
 PARA: particule d'aspect
 PARF: particule du futur
@@ -54,5 +54,6 @@ INJ: interjection
 N: nom / inconnu
 
 PONC: ponctuation
+
 
 
