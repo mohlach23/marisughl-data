@@ -1,0 +1,54 @@
+You can use these tags instead of default ones now for me:
+
+NMS: nom, masculin, singulier
+NMSC: nom, masculin, singulier, annexion
+NMP: nom, masculin, pluriel
+NMPC: nom, masculin, pluriel, annexion
+NFS: nom, feminin, singulier
+NFSC: nom, feminin, singulier, annexion
+NFP: nom, feminin, pluriel
+NFPC: nom, feminin, pluriel, annexion
+JMS: adjectif, masculin, singulier
+JMSC: adjectif, masculin, singulier, annexion
+JMP: adjectif, masculin, pluriel
+JMPC: adjectif, masculin, pluriel, annexion
+JFS: adjectif, feminin, singulier
+JFSC: adjectif, feminin, singulier, annexion
+JFP: adjectif, feminin, pluriel
+JFPC: adjectif, feminin, pluriel, annexion
+VAO: verbe aoriste
+VAC: verbe accompli
+VNA: verbe negative accompli
+VIA: verbe inaccompli
+POD: pronom d'objet direct
+POI: pronom d'objet indirect
+PAN: pronom autonome
+PAP: pronom affixe des prepositions
+PDEM: pronom demonstratif
+PPOS: pronom possessif
+PINT: pronom interrogatif
+PIND: pronom indefini
+DETP: determinant possessif
+DETD: determinant demonstratif
+DETN: determinant numeral
+DETI: determinant indefini
+DETA: determinant absent
+ADVL: adverbe de lieu
+ADVT: adv de temps
+ADVQ: adv de quantite
+ADVM: adv de manniere
+PREP: preposition
+PREC: preposition complexe
+PARN: particule de negation
+PARA: particule d'aspect
+PARF: particule du futur
+PARO: particule d'orientation
+PARP: particule predicative
+PAPV: particule preverbale
+PC: participe
+CONJ: conjonction
+REL: relateur
+QUAN: quantificateur
+INJ: interjection
+N: nom / inconnu
+PONC: ponctuation
