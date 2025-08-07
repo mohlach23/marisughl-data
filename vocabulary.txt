@@ -1015,6 +1015,7 @@ however: ⵎⵇⵇⴰⵔ
 huge: ⴰⴱⴰⵔⴰⵔ
 human: ⴰⴼⴳⴰⵏ
 humans: ⵉⴼⴳⴰⵏⵏ
+humanity: ⵜⵉⴼⴼⵓⴳⵏⴰ
 humidity: ⴰⴳⵓⵏⴷⵓ
 humour: ⵜⴰⵇⴱⴱⴰⴹⵜ
 hundred: ⵜⵉⵎⵉⴹⵉ
@@ -2440,6 +2441,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
