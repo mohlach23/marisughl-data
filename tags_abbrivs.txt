@@ -28,6 +28,7 @@ PDEM: pronom demonstratif
 PPOS: pronom possessif
 PINT: pronom interrogatif
 PIND: pronom indefini
+PPREP: pronom prepositionnel (preposition + pronom affixe des prepositions, e.g. ⴷⴰⵔ + ⵙ = "ⴷⴰⵔⵙ")
 DETP: determinant possessif
 DETD: determinant demonstratif
 DETN: determinant numeral
@@ -53,4 +54,5 @@ INJ: interjection
 N: nom / inconnu
 
 PONC: ponctuation
+
 
