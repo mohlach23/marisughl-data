@@ -1520,6 +1520,7 @@ operating: ⴰⵙⵎⴰⵀⵍ
 operation: ⵜⴰⵎⵀⵍⵜ
 operations: ⵜⵉⵎⵀⵍⵉⵏ
 operator: ⴰⵎⴰⵀⴰⵍ
+opinion: ⵜⴰⵏⵏⴰⵢⵜ
 opportunity: ⴰⵙⵓⵍⴼ
 opposite: ⴰⵏⵎⴳⴰⵍ
 opposition: ⵜⴰⵏⵎⴳⵍⴰ
@@ -2439,6 +2440,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
