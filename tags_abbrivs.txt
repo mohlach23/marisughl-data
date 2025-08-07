@@ -1,4 +1,4 @@
-You can use these tags instead of default ones now for me:
+Use these tags:
 
 NMS: nom, masculin, singulier
 NMSC: nom, masculin, singulier, annexion
@@ -51,4 +51,5 @@ REL: relateur
 QUAN: quantificateur
 INJ: interjection
 N: nom / inconnu
+
 PONC: ponctuation
