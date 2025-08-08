@@ -23,7 +23,7 @@ return	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⵜⵜⴰⵖⵓⵍ	Trans
 exist	ⵉⵍⵉ	ⵍⵍⵉ|ⵍⵍⴰ	ⵍⵍⵉ	ⵜⵜⵉⵍⵉ	Intr
 have	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ|ⵍⵍⴰ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵜⵜⵉⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	Trans	
 read	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Trans	
-call	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Trans	
+call	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Intr	ⵉ
 want	ⵉⵔⵉ	ⵔⵉ|ⵔⴰ	ⵔⵉ	ⵜⵜⵉⵔⵉ	Trans	
 love	ⵉⵔⵉ	ⵔⵉ|ⵔⴰ	ⵔⵉ	ⵜⵜⵉⵔⵉ	Trans	
 wait	ⵇⵇⵍ	ⵇⵇⵍ	ⵇⵇⵉⵍ	ⵜⵜⵇⵇⵍ	Intr	ⵙ/...
@@ -360,4 +360,5 @@ For "(...)", they are prepositions or particles that are used with the verb.
 With 'Intr', sometimes Tamazight uses prepostions different than English, so we defined them here as possible.
 Example:
 I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with 'ⵙⵡⵉⵏⴳⵎ')
+
 
