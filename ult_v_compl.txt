@@ -1,0 +1,359 @@
+En	Aorist	Acc	Neg Ac	Unac	TRANS	PREPS
+know	ⵙⵙⵏ	ⵙⵙⵏ	ⵙⵙⵉⵏ	ⵜⵜⵙⵙⵏ	Trans	
+go	ⴷⴷⵓ	ⴷⴷⵉ|ⴷⴷⴰ	ⴷⴷⵉ	ⵜⵜⴷⴷⵓ	Intr	ⵙ
+say	ⵉⵏⵉ	ⵏⵏⵉ|ⵏⵏⴰ	ⵏⵏⵉ	ⵜⵜⵉⵏⵉ	Trans	
+do	ⵙⴽⵔ	ⵙⴽⵔ	ⵙⴽⵉ	ⵙⴽⴰⵔ	Trans	
+see	ⵥⵕ	ⵥⵕⵉ|ⵥⵕⴰ	ⵥⵕⵉ	ⵥⵕⵕⴰ	Trans	
+ask	ⵙⵇⵙⴰ	ⵙⵇⵙⴰ	ⵙⵇⵙⵉ	ⵙⴰⵇⵙⴰ	Trans	
+be	ⴳ	ⴳⵉ|ⴳⴰ	ⴳⵉ	ⵜⵜⴳⴳⴰ	Trans	
+take	ⴰⵡⵉ	ⵉⵡⵉ	ⵉⵡⵉ	ⵜⵜⴰⵡⵉ	Trans	
+come	ⴰⵛⴽ	ⵓⵛⴽⵉ|ⵓⵙⴽⴰ	ⵓⵛⴽⵉ	ⵜⵜⴰⵛⴽ	Intr	ⵙ/...
+leave	ⴼⵍ	ⴼⵍ	ⴼⵉⵍ	ⴼⴼⴰⵍ	Trans	
+tell	ⵉⵏⵉ	ⵏⵏⵉ|ⵏⵏⴰ	ⵏⵏⵉ	ⵜⵜⵉⵏⵉ	Trans	
+speak	ⵙⴰⵡⵍ	ⵙⴰⵡⵍ	ⵙⴰⵡⵉⵍ	ⵙⴰⵡⴰⵍ	Intr	ⵙ/ⵖⴼ ...
+show	ⵎⵍ	ⵎⵍⵉ|ⵎⵍⴰ	ⵎⵍⵉ	ⵎⵎⴰⵍ	Trans	
+eat	ⵛⵛ	ⵛⵛⵉ|ⵛⵛⴰ	ⵛⵛⵉ	ⵛⵜⵜⴰ	Trans	
+find	ⴰⴼ	ⵓⴼⵉ|ⵓⴼⴰ	ⵓⴼⵉ	ⵜⵜⴰⴼⴰ	Trans	
+drink	ⵙⵓ	ⵙⵡⵉ|ⵙⵡⴰ	ⵙⵡⵉ	ⵙⵙⴰ	Trans	
+enter	ⴽⵛⵎ	ⴽⵛⵎ	ⴽⵛⵉⵎ	ⴽⵛⵛⵓⵎ	Trans	
+come in	ⴽⵛⵎ	ⴽⵛⵎ	ⴽⵛⵉⵎ	ⴽⵛⵛⵓⵎ	Intr	ⵙ/...
+go in	ⴽⵛⵎ	ⴽⵛⵎ	ⴽⵛⵉⵎ	ⴽⵛⵛⵓⵎ	Intr	ⵙ/...
+go back	ⵓⵔⵔⵉ	ⵓⵔⵔⵉ	ⵓⵔⵔⵉ	ⵜⵜⵓⵔⵔⵉⵢ	Intr	ⵙ/...
+return	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⴰⵖⵓⵍ	ⵜⵜⴰⵖⵓⵍ	Trans	
+exist	ⵉⵍⵉ	ⵍⵍⵉ|ⵍⵍⴰ	ⵍⵍⵉ	ⵜⵜⵉⵍⵉ	Intr
+have	ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ|ⵍⵍⴰ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵍⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	ⵜⵜⵉⵍⵉ ⴷⴰⵔ(ⵉ/ⴽ/ⵎ...)	Trans	
+read	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Trans	
+call	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Trans	
+want	ⵉⵔⵉ	ⵔⵉ|ⵔⴰ	ⵔⵉ	ⵜⵜⵉⵔⵉ	Trans	
+love	ⵉⵔⵉ	ⵔⵉ|ⵔⴰ	ⵔⵉ	ⵜⵜⵉⵔⵉ	Trans	
+wait	ⵇⵇⵍ	ⵇⵇⵍ	ⵇⵇⵉⵍ	ⵜⵜⵇⵇⵍ	Intr	ⵙ/...
+sit down	ⴳⴰⵡⵔ	ⴳⴰⵡⵔ	ⴳⴰⵡⵉⵔ	ⵜⵜⴳⴰⵡⴰⵔ	Intr	ⵖⴼ
+hear	ⵙⵍⵍⴰ	ⵙⵍⵍⴰ	ⵙⵍⵍⵉ	ⵜⵜⵙⵍⵍⴰ	Trans	
+listen	ⵙⵙⴼⵍⴷ	ⵙⵙⴼⵍⴷ	ⵙⵙⴼⵍⵉⴷ	ⵙⵙⴼⵍⵉⴷ	Intr	ⵉ
+stay	ⵖⴰⵎⴰ	ⵖⴰⵎⴰ	ⵖⴰⵎⴰ	ⵜⵜⵖⴰⵎⴰ	Intr	ⴳ
+stop	ⴱⴷⴷ	ⴱⴷⴷ	ⴱⴷⴷⵉ	ⵜⵜⴱⴷⴰⴷ	Trans	
+stand up	ⴱⴷⴷ	ⴱⴷⴷ	ⴱⴷⴷⵉ	ⵜⵜⴱⴷⴰⴷ	Intr	ⵖⴼ/ⴳ...
+get up	ⵏⴽⵔ	ⵏⴽⵔ	ⵏⴽⵉⵔ	ⵏⴽⴽⵔ	Intr	
+put	ⵙⵔⵙ	ⵙⵔⵙ	ⵙⵔⵉⵙ	ⵙⵔⵓⵙ	Trans	
+put down	ⵙⵔⵙ	ⵙⵔⵙ	ⵙⵔⵉⵙ	ⵙⵔⵓⵙ	Trans	
+write	ⴰⵔⴰ	ⵓⵔⵉ|ⵓⵔⴰ	ⵓⵔⵉ	ⵜⵜⴰⵔⴰ	Trans	
+catch	ⴰⵎⵥ	ⵓⵎⵥ	ⵓⵎⵉⵥ	ⵜⵜⴰⵎⵥ	Trans	
+bring	ⴰⵡⵉ (ⴷ)	ⵉⵡⵉ (ⴷ)	ⵉⵡⵉ (ⴷ)	ⵜⵜⴰⵡⵉ (ⴷ)	Trans	
+kill	ⵏⵖ	ⵏⵖⵉ|ⵏⵖⴰ	ⵏⵖⵉ	ⵏⵇⵇⴰ	Trans	
+sell	ⵣⵣⵏⵣ	ⵣⵣⵏⵣⵉ|ⵣⵣⵏⵣⴰ	ⵣⵣⵏⵣⵉ	ⵣⵣⵏⵣⴰ	Trans	
+pass	ⵣⵔⵉ	ⵣⵔⵉ	ⵣⵔⵉ	ⵣⵔⴰⵢ	Trans	
+hold	ⴰⵎⵥ	ⵓⵎⵥ	ⵓⵎⵉⵥ	ⵜⵜⴰⵎⵥ	Trans	
+wash	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⵉⴷ	Trans	
+buy	ⵙⵖ	ⵙⵖⵉ|ⵙⵖⴰ	ⵙⵖⵉ	ⵙⵙⴰⵖ	Trans	
+go up	ⴰⵍⵉ	ⵓⵍⵉ	ⵓⵍⵉ	ⵜⵜⴰⵍⵉ	Intr	ⵙ/ⵖⵔ
+remove	ⴽⴽⵙ	ⴽⴽⵙ	ⴽⴽⵉⵙ	ⵜⵜⴽⴽⵙ	Trans	
+delete	ⴽⴽⵙ	ⴽⴽⵙ	ⴽⴽⵉⵙ	ⵜⵜⴽⴽⵙ	Trans	
+remember	ⴽⵯⵜⵉ	ⴽⵯⵜⵉ	ⴽⵯⵜⵉ	ⴽⵯⵜⵜⵉ	Trans	
+forget	ⵜⵜⵓ	ⵜⵜⵓ	ⵜⵜⵓ	ⵜⵜⴻⵜⵜⵓ	Trans	
+memorize	ⵃⵙⵓ	ⵃⵙⵉ|ⵃⵙⴰ	ⵃⵙⵉ	ⵃⵙⵙⵓ	Trans	
+explain	ⵙⵙⴼⵔⵓ	ⵙⵙⴼⵔⵉ|ⵙⵙⴼⵔⴰ	ⵙⵙⴼⵔⵉ	ⵙⵙⴼⵔⴰⵡ	Trans	
+mean	ⵙⵙⵓⵎⴽ	ⵙⵙⵓⵎⴽ	ⵙⵙⵓⵎⴽ	ⵜⵜⵙⵓⵎⴽ	Trans	
+share	ⴷⵔⵓ	ⴷⵔⵉ|ⴷⵔⴰ	ⴷⵔⵉ	ⴷⵔⵔⵓ	Trans	
+send	ⴰⵣⵏ	ⵓⵣⵏ	ⵓⵣⵏ	ⵜⵜⴰⵣⵏ	Trans	
+clean	ⵙⵙⵉⵣⴷⴳ	ⵙⵙⵉⵣⴷⴳ	ⵙⵙⵉⵣⴷⴳ	ⵙⵙⵉⵣⴷⵉⴳ	Trans	
+work	ⵙⵡⵓⵔⵉ	ⵙⵡⵓⵔⵉ	ⵙⵡⵓⵔⵉ	ⵙⵡⵓⵔⵉⵢ	Intr	ⵖⴼ/...
+run	ⴰⵣⵣⵍ	ⵓⵣⵣⵍ	ⵓⵣⵣⵉⵍ	ⵜⵜⴰⵣⵣⵍ	Intr	ⵙ/...
+make	ⵙⴽⵔ	ⵙⴽⵔ	ⵙⴽⵉ	ⵙⴽⴰⵔ	Trans	
+try	ⴰⵔⵎ	ⵓⵔⵎ	ⵓⵔⵉⵎ	ⵜⵜⴰⵔⵎ	Trans	
+hate	ⴽⵙⵏ	ⴽⵙⵏ	ⴽⵙⵉⵏ	ⴽⵙⵙⵏ	Trans	
+prefer	ⵙⵎⵢⵉⴼⵉ	ⵙⵎⵢⵉⴼⵉ	ⵙⵎⵢⵉⴼⵉ	ⵙⵎⵢⵉⴼⵉⵢ	Trans	
+play	ⵓⵔⴰⵔ	ⵓⵔⴰⵔ	ⵓⵔⴰⵔ	ⵜⵜⵓⵔⴰⵔ	Trans	
+win	ⵔⵣ	ⵔⵣ	ⵔⵣ	ⵔⵔⴰⵣ	Trans	
+beat	ⵏⵔⵓ	ⵏⵔⵉ|ⵏⵔⴰ	ⵏⵔⵉ	ⵜⵜⵏⵔⵓ	Trans	
+help	ⴰⵡⵙ	ⵉⵡⵙ	ⵉⵡⵙ	ⵜⵜⴰⵡⵙ	Trans	
+understand	ⵔⵎⵙ	ⵔⵎⵙ	ⵔⵎⵉⵙ	ⵜⵜⵔⵎⴰⵙ	Trans	
+look for	ⵙⵉⴳⴳⵍ	ⵙⵉⴳⴳⵍ	ⵙⵉⴳⴳⵍ	ⵙⵉⴳⴳⵉⵍ	Trans	
+search	ⵔⵣⵓ	ⵔⵣⵉ|ⴰ	ⵔⵣⵉ	ⵔⵣⵣⵓ	Trans	
+walk	ⵣⵣⵉⴳⵣ	ⵣⵣⵉⴳⵣ	ⵣⵣⵉⴳⵣ	ⵣⵣⵉⴳⵉⵣ	Intr	
+use	ⵙⵙⵎⵔⵙ	ⵙⵙⵎⵔⵙ	ⵙⵙⵎⵔⵙ	ⵙⵙⵎⵔⴰⵙ	Trans	
+wear	ⵍⵙ	ⵍⵙⵉ|ⵍⵙⴰ	ⵍⵙⵉ	ⵍⵙⵙⴰ	Trans	
+count	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵉⵏ	Trans	
+learn	ⵍⵎⴷ	ⵍⵎⴷ	ⵍⵎⵉⴷ	ⵍⵎⵎⴷ	Trans	
+teach	ⵙⵙⵍⵎⴷ	ⵙⵙⵍⵎⴷ	ⵙⵙⵍⵎⴷ	ⵙⵙⵍⵎⴰⴷ	Trans	
+pray	ⵥⵥⴰⵍⵍ	ⵥⵥⵓⵍⵍⵉ|ⵥⵥⵓⵍⵍⴰ	ⵥⵥⵓⵍⵍⵉ	ⵜⵜⵥⴰⵍⵍⴰ	Intr	
+become	ⴷⵓⵍ	ⴷⵓⵍ	ⴷⵓⵍ	ⵜⵜⴷⵓⵍ	Intr	
+think	ⵙⵡⵉⵏⴳⵎ	ⵙⵡⵉⵏⴳⵎ	ⵙⵡⵉⵏⴳⵎ	ⵙⵡⵉⵏⴳⵉⵎ	Intr	ⴳ
+set	ⵙⵔⵙ	ⵙⵔⵙ	ⵙⵔⵉⵙ	ⵙⵔⵓⵙ	Trans	
+sleep	ⴳⵏ	ⴳⵏ	ⴳⵉⵏ	ⴳⴳⴰⵏ	Intr	ⵖⴼ/ⴳ
+lose	ⵊⵍⵓ	ⵊⵍⵉ|ⵊⵍⴰ	ⵊⵍⵉ	ⵊⵍⵍⵓ	Trans	
+save	ⵙⵙⵏⵊⵎ	ⵙⵙⵏⵊⵎ	ⵙⵙⵏⵊⵉⵎ	ⵙⵙⵏⵊⴰⵎ	Trans	
+change	ⵙⵙⵏⴼⵍ	ⵙⵙⵏⴼⵍ	ⵙⵙⵏⴼⵉⵍ	ⵙⵙⵏⴼⴰⵍ	Trans	
+begin	ⵙⵙⵏⵜⵉ	ⵙⵙⵏⵜⵉ|ⵙⵙⵏⵜⴰ	ⵙⵙⵏⵜⵉ	ⵙⵙⵏⵜⴰⵢ	Trans	
+start	ⵙⵙⵏⵜⵉ	ⵙⵙⵏⵜⵉ|ⵙⵙⵏⵜⴰ	ⵙⵙⵏⵜⵉ	ⵙⵙⵏⵜⴰⵢ	Trans	
+select	ⵙⵜⵉ	ⵙⵜⵉ	ⵙⵜⵉ	ⵙⵜⴰⵢ	Trans	
+choose	ⵙⵜⵉ	ⵙⵜⵉ	ⵙⵜⵉ	ⵙⵜⴰⵢ	Trans	
+open	ⵕⵥⵎ	ⵕⵥⵎ	ⵕⵥⵉⵎ	ⵕⵥⵥⵎ	Trans	
+close	ⵇⵇⵏ	ⵇⵇⵏ	ⵇⵇⵉⵏ	ⵜⵜⵇⵇⵏ	Trans	
+lock	ⵔⴳⵍ	ⵔⴳⵍ	ⵔⴳⵉⵍ	ⵔⴳⴳⵍ	Trans	
+fall	ⴹⵕ	ⴹⵕ	ⴹⵉⵕ	ⵟⵟⴰⵕ	Intr	ⴳ/ⵖⴼ/...
+fill	ⴽⵜⵓⵔ	ⴽⵜⵓⵔ	ⴽⵜⵓⵔ	ⵜⵜⴽⵜⵓⵔ	Trans	
+laugh	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	Intr	ⵖⴼ/ⴳ
+cook	ⵙⵙⵏⵓ	ⵙⵙⵏⵡⵉ|ⵙⵙⵏⵡⴰ	ⵙⵙⵏⵡⵉ	ⵙⵙⵏⵡⴰ	Trans		
+complain	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵓⵢ	Intr	ⵖⴼ
+finish	ⴼⴹⴹⵓ	ⴼⴹⴹⵉ|ⴼⴹⴹⴰ	ⴼⴹⴹⵉ	ⵜⵜⴼⴹⴹⵓ	Trans	
+complete	ⵙⵎⴷ	ⵙⵎⴷ	ⵙⵎⵉⴷ	ⵙⵎⴰⴷ	Trans	
+cut	ⴱⴱⵉ	ⴱⴱⵉ	ⴱⴱⵉ	ⵜⵜⴱⴱⵉ	Trans	
+reverse	ⵙⴳⵔⴰⵡⵍ	ⵙⴳⵔⴰⵡⵍ	ⵙⴳⵔⴰⵡⵉⵍ	ⵙⴳⵔⴰⵡⴰⵍ	Trans	
+collect	ⴳⵔⵓ	ⴳⵔⵉ|ⴳⵔⴰ	ⴳⵔⵉ	ⴳⵔⵔⵓ	Trans	
+add	ⵔⵏⵓ	ⵔⵏⵉ|ⵔⵏⴰ	ⵔⵏⵉ	ⵔⵏⵏⵓ	Trans	
+continue	ⵙⵎⴷ	ⵙⵎⴷ	ⵙⵎⵉⴷ	ⵙⵎⴰⴷ	Trans	
+swear	ⴳⴳⴰⵍⵍ	ⴳⴳⵓⵍⵍ	ⴳⴳⵓⵍⵍⵉ	ⵜⵜⴳⴰⵍⵍⴰ	Intr	
+communicate	ⵎⵙⴰⵡⴰⵍ	ⵎⵙⴰⵡⴰⵍ	ⵎⵙⴰⵡⴰⵍ	ⵜⵜⵎⵙⴰⵡⴰⵍ	Intr	ⴷ/ⴰⴽⴷ
+discuss	ⵎⵙⴳⴷⴰⵍ	ⵎⵙⴳⴷⴰⵍ	ⵎⵙⴳⴷⴰⵍ	ⵜⵜⵎⵙⴳⴷⴰⵍ	Trans	
+test	ⴰⵔⵎ	ⵓⵔⵎ	ⵓⵔⵉⵎ	ⵜⵜⴰⵔⵎ	Trans	
+smile	ⵣⵎⵓⵎⵎⴳ	ⵣⵎⵓⵎⵎⴳ	ⵣⵎⵓⵎⵎⴳ	ⵣⵎⵓⵎⵎⵓⴳ	Intr	ⵉ/...
+draw	ⵙⵙⵓⵏⵖ	ⵙⵙⵓⵏⵖ	ⵙⵙⵓⵏⵖ	ⵙⵙⵓⵏⵓⵖ	Trans	
+paint	ⵖⵎ	ⵖⵎⵉ|ⵖⵎⴰ	ⵖⵎⵉ	ⵖⵎⵎⴰ	Trans	
+fear	ⵉⴽⵚⵓⴹ	ⴽⵚⵓⴹ	ⴽⵚⵓⴹ	ⵜⵜⵉⴽⵚⵓⴹ	Trans	
+meet	ⵎⵎⴰⵇⵇⴰⵔ	ⵎⵎⴰⵇⵇⴰⵔ	ⵎⵎⴰⵇⵇⴰⵔ	ⵜⵜⵎⴰⵇⵇⴰⵔ	Trans	
+fix	ⵙⴳⴰⴷⴷⴰ	ⵙⴳⴰⴷⴷⴰ	ⵙⴳⴰⴷⴷⴰ	ⵙⴳⴰⴷⴷⴰ	Trans	
+seem	ⵉⵔⵡⵉⵙ	ⵔⵡⴰⵙ	ⵔⵡⴰⵙ	ⵜⵜⵉⵔⵡⵉⵙ	Trans	
+jump	ⴰⴽⵯⵉ	ⵓⴽⵉ	ⵓⴽⵉ	ⵜⵜⴰⴽⵯⵉ	Intr	ⵖⴼ/...
+join	ⴷⵔⵓ	ⴷⵔⵉ|ⴷⵔⴰ	ⴷⵔⵉ	ⴷⵔⵔⵓ	Trans	
+lie	ⵙⴽⵔⴽⵙ	ⵙⴽⵔⴽⵙ	ⵙⴽⵔⴽⵙ	ⵙⴽⵔⴽⵉⵙ	Intr	ⵖⴼ/...
+live	ⴷⴷⵔ	ⴷⴷⵔ	ⴷⴷⵉⵔ	ⵜⵜⵉⴷⵉⵔ	Intr	ⴳ/...
+die	ⵎⵎⵜ	ⵎⵎⵓⵜ	ⵎⵎⵓⵜ	ⵜⵜⵎⵜⴰⵜ	Intr	ⵖⴼ/...
+fight	ⵎⵎⴰⵖ	ⵎⵎⴰⵖ	ⵎⵎⴰⵖ	ⵜⵜⵎⴰⵖ	Intr	ⴷ/ⴰⴽⴷ
+advise	ⵙⵎⵎⵜⵔ	ⵙⵎⵎⵜⵔ	ⵙⵎⵎⵜⵔ	ⵙⵎⵎⵜⴰⵔ	Trans	
+fly	ⴰⵢⵍⵍ	ⵓⵢⵍⵍ	ⵓⵢⵍⵍ	ⵜⵜⴰⵢⵍⴰⵍ	Intr	ⵖⴼ/ⵙ/...
+follow	ⴹⴼⵕ	ⴹⴼⵕ	ⴹⴼⵉⵕ	ⴹⴼⴼⵕ	Trans	
+get	ⴰⵎⵥ	ⵓⵎⵥ	ⵓⵎⵉⵥ	ⵜⵜⴰⵎⵥ	Trans	
+forgive	ⵙⵙⵓⵔⴼ	ⵙⵙⵓⵔⴼ	ⵙⵙⵓⵔⴼ	ⵙⵙⵓⵔⵓⴼ	Intr	ⵉ
+escape	ⵔⵡⵍ	ⵔⵡⵍ	ⵔⵡⵉⵍ	ⵔⴳⴳⵯⵍ	Intr	ⵉ
+form	ⵙⵙⵉⵍⵖ	ⵙⵙⵉⵍⵖ	ⵙⵙⵉⵍⵖ	ⵙⵙⵉⵍⵉⵖ	Trans	
+give	ⴼⴽ	ⴼⴽⵉ|ⴼⴽⴰ	ⴼⴽⵉ	ⴰⴽⴽⴰ	Trans	
+happen	ⵎⵙⴰⵔ	ⵎⵙⴰⵔ	ⵎⵙⵉⵔ	ⵜⵜⵎⵙⴰⵔ	Intr	
+harm	ⴽⵯⵎⵉ	ⴽⵯⵎⵉ	ⴽⵯⵎⵉ	ⴽⵯⵎⵎⵉ	Trans	
+smoke	ⴽⵎⵉ	ⴽⵎⵉ	ⴽⵎⵉ	ⴽⵎⵎⵉ	Trans	
+heal	ⵙⵓⵊⵊⵉ	ⵙⵓⵊⵊⵉ	ⵙⵓⵊⵊⵉ	ⵙⵓⵊⵊⵉⵢ	Trans	
+hide	ⵙⵙⵏⵜⵍ	ⵙⵙⵏⵜⵍ	ⵙⵙⵏⵜⵍ	ⵙⵙⵏⵜⴰⵍ	Trans	
+increase	ⵙⵏⵔⵏⵉ	ⵙⵏⵔⵏⵉ	ⵙⵏⵔⵏⵉ	ⵙⵏⵔⵏⴰⵢ	Trans	
+decrease	ⵙⵏⵓⵙⵔⵓ	ⵙⵏⵓⵙⵔⵓ	ⵙⵏⵓⵙⵔⵓ	ⵙⵏⵓⵙⵔⵓ	Trans	
+hope	ⵏⵏⵓⵔⵣ	ⵏⵏⵓⵔⵣ	ⵏⵏⵓⵔⵣ	ⵜⵜⵏⵓⵔⵓⵣ	Intr	
+invite	ⵖⵔ	ⵖⵔⵉ|ⵖⵔⴰ	ⵖⵔⵉ	ⴰⵇⵇⵔⴰ	Trans	
+look at	ⵙⵎⵓⵇⵇⵍ	ⵙⵎⵓⵇⵇⵍ	ⵙⵎⵓⵇⵇⵍ	ⵙⵎⵓⵇⵇⵓⵍ	Intr	ⴳ
+mention	ⴱⴷⵔ	ⴱⴷⵔ	ⴱⴷⵉⵔ	ⴰⴷⴷⵔ	Trans	
+move	ⵎⵎⴰⵙⵙ	ⵎⵎⵓⵙⵙ	ⵎⵎⵓⵙⵙ	ⵜⵜⵎⵓⵙⵙⵓ	Intr	ⴳ
+move (something)	ⵙⵎⴰⵙⵙ	ⵙⵎⵓⵙⵙ	ⵙⵎⵓⵙⵙ	ⵙⵎⵓⵙⵙⵓ	Trans	
+need	ⴰⵙⵔ	ⵓⵙⵔ	ⵓⵙⵉⵔ	ⵜⵜⴰⵙⵔ	Trans	
+obtain	ⴰⵎⵥ	ⵓⵎⵥ	ⵓⵎⵉⵥ	ⵜⵜⴰⵎⵥ	Trans	
+pay	ⴼⵔⵓ	ⴼⵔⵉ|ⴼⵔⴰ	ⴼⵔⵉ	ⴼⵔⵔⵓ	Trans	
+raise	ⴰⵍⵍ	ⵓⵍⵍ	ⵓⵍⵍ	ⵜⵜⴰⵍⵍ	Trans	
+repeat	ⴰⵍⵙ	ⵓⵍⵙ	ⵓⵍⵉⵙ	ⵜⵜⴰⵍⵙ	Trans	
+solve	ⴼⵙⵉ	ⴼⵙⵉ	ⴼⵙⵉ	ⴼⵙⵙⵉ	Trans	
+resolve	ⴼⵙⵉ	ⴼⵙⵉ	ⴼⵙⵉ	ⴼⵙⵙⵉ	Trans	
+respect	ⵣⵔⴽ	ⵣⵔⴽ	ⵣⵔⵉⴽ	ⵣⵔⵔⴽ	Trans	
+steal	ⴰⴽⵔ	ⵓⴽⵔ	ⵓⴽⵔ	ⵜⵜⴰⴽⵔ	Trans	
+succeed	ⵎⵓⵔⵙ	ⵎⵓⵔⵙ	ⵎⵓⵔⵙ	ⵜⵜⵎⵓⵔⵓⵙ	Intr	ⴳ
+study	ⵣⵔⵓ	ⵣⵔⵉ|ⵣⵔⴰ	ⵣⵔⵉ	ⵣⵔⵔⵓ	Trans	
+suppose	ⵓⵔⴷⵓ	ⵓⵔⴷⵉ|ⵓⵔⴷⴰ	ⵓⵔⴷⵉ	ⵜⵜⵓⵔⴷⵓ	Trans	
+swim	ⵛⵛⴼ	ⵛⵛⴼ	ⵛⵛⵉⴼ	ⵜⵜⵛⵛⴼ	Intr	ⴳ/...
+turn (self)	ⵙⵙⵓⵜⵍ	ⵙⵙⵓⵜⵍ	ⵙⵙⵓⵜⵍ	ⵙⵙⵓⵜⵓⵍ	Intr	ⵉ
+visit	ⵔⵣⴼ/ⴽⴽ (ⴷ)	ⵔⵣⴼ/ⴽⴽⵉ|ⴽⴽⴰ (ⴷ)	ⵔⵣⵉⴼ/ⴽⴽⵉ (ⴷ)	ⵜⵜⵔⵣⴰⴼ/ⵜⵜⴽⴽⴰ (ⴷ)	Trans	
+wish	ⵙⵙⵉⵜⵎ	ⵙⵙⵉⵜⵎ	ⵙⵙⵉⵜⵎ	ⵙⵙⵉⵜⵉⵎ	Trans	
+worry	ⵏⵏⵓⵖⵊⴼ	ⵏⵏⵓⵖⵊⴼ	ⵏⵏⵓⵖⵊⴼ	ⵜⵜⵏⵓⵖⵊⴼ	Intr	ⵖⴼ
+determine	ⵙⵓⵜⵜⵓ	ⵙⵓⵜⵜⵓ	ⵙⵓⵜⵜⵓ	ⵙⵓⵜⵜⵓ	Trans	
+analyze	ⵚⵍⴹ	ⵚⵍⴹ	ⵚⵍⵉⴹ	ⵜⵜⵚⵍⴰⴹ	Trans	
+feel	ⵙⵢⴰⴼⴰ	ⵙⵢⴰⴼⴰ	ⵙⵢⴰⴼⴰ	ⵙⵢⴰⴼⴰ	Intr	ⵙ	
+measure	ⵙⵖⵍ	ⵙⵖⵍ	ⵙⵖⵉⵍ	ⵙⵖⴰⵍ	Trans	
+be aware	ⴼⵔⴽ	ⴼⵔⴽ	ⴼⵔⵉⴽ	ⴼⴼⵔⴽ	Intr	ⵉ
+observe	ⵙⵏⵉⵖⵙ	ⵙⵏⵉⵖⵙ	ⵙⵏⵉⵖⵙ	ⵙⵏⵉⵖⵉⵙ	Trans	
+expect	ⴹⴽⴹ	ⴹⴽⴹ	ⴹⴽⵉⴹ	ⵜⵜⴹⴽⴰⴹ	Trans	
+erase	ⵙⵙⴼⴹ	ⵙⵙⴼⴹ	ⵙⵙⴼⵉⴹ	ⵙⵙⴼⵓⴹ	Trans	
+enjoy	ⴼⵊⵊⵉⵊ	ⴼⵊⵊⵉⵊ	ⴼⵊⵊⵉⵊ	ⵜⵜⴼⵊⵊⵉⵊ	Intr	ⵙ/ⴷ/ⴰⴽⴷ
+divide	ⴱⴹⵓ	ⴱⴹⵉ|ⴱⴹⴰ	ⴱⴹⵉ	ⴰⵟⵟⵓ	Trans	
+separate	ⵙⵏⴳⵉⵔⵉ	ⵙⵏⴳⴰⵔⴰ	ⵙⵏⴳⴰⵔⴰ	ⵙⵏⴳⵉⵔⵉ	Trans	
+destroy	ⵏⴷⵍ/ⵔⴷⵍ	ⵏⴷⵍ/ⵔⴷⵍ	ⵏⴷⵉⵍ/ⵔⴷⵉⵍ	ⵔⴷⴷⵍ	Trans	
+build	ⵥⴽⵓ	ⵥⴽⵉ|ⵥⴽⴰ	ⵥⴽⵉ	ⵜⵜⵥⴽⵓ	Trans	
+refuse	ⴰⴳⵯⵉ	ⵓⴳⵯⵉ	ⵓⴳⵯⵉ	ⵜⵜⴰⴳⵯⵉ	Trans	
+describe	ⴳⵍⵎ	ⴳⵍⵎ	ⴳⵍⵉⵎ	ⴳⵍⵍⵎ	Trans	
+deserve	ⴰⴽⵍⵓⵍ	ⵓⴽⵍⴰⵍ	ⵓⴽⵍⴰⵍ	ⵜⵜⵓⴽⵍⴰⵍ	Trans	
+cry	ⴰⵍⵍ	ⴰⵍⵍ	ⴰⵍⵍ	ⴰⵍⵍⴰ	Intr	ⵖⴼ
+cover	ⴷⵍ	ⴷⵍ	ⴷⵉⵍ	ⴷⴷⴰⵍ	Trans	
+relax	ⵏⵏⵓⵍⵡⵓ	ⵏⵏⵓⵍⵡⵉ|ⵏⵏⵓⵍⵡⴰ	ⵏⵏⵓⵍⵡⵉ	ⵜⵜⵏⵓⵍⵡⵓ	Intr	
+cough	ⵓⵙⵓ	ⵓⵙⵓ	ⵓⵙⵓ	ⵜⵜⵓⵙⵓ	Intr	
+confirm	ⵙⵙⵍⴽⵏ	ⵙⵙⵍⴽⵏ	ⵙⵙⵍⴽⵉⵏ	ⵙⵙⵍⴽⴰⵏ	Trans	
+classify	ⵙⵉⵙⵎⵍ	ⵙⵉⵙⵎⵍ	ⵙⵉⵙⵎⵍ	ⵙⵉⵙⵎⵉⵍ	Trans	
+verify	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵉⵜ	Trans	
+cancel	ⵙⵙⵔ	ⵙⵙⵔ	ⵙⵙⵉⵔ	ⵙⵙⴰⵔ	Trans	
+burn	ⵙⵙⴽⵎⴹ	ⵙⵙⴽⵎⴹ	ⵙⵙⴽⵎⴹ	ⵙⵙⴽⵎⴰⴹ	Trans	
+brush	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⴷ	ⵙⵙⵉⵔⵉⴷ	Trans	
+break	ⵕⵥ	ⵕⵥⵉ|ⵕⵥⴰ	ⵕⵣⵉ	ⵜⵜⵕⵥⵥⴰ	Trans	
+believe	ⴼⵍⵙ	ⴼⵍⵙ	ⴼⵍⵉⵙ	ⵜⵜⴼⵍⴰⵙ	Trans	
+trust	ⴼⵍⵙ ⴳ	ⴼⵍⵙ ⴳ	ⴼⵍⵉⵙ ⴳ	ⵜⵜⴼⵍⴰⵙ ⴳ	Intr	
+attack	ⵥⴹⵎ	ⵥⴹⵎ	ⵥⴹⵉⵎ	ⵜⵜⵥⴹⴰⵎ	Trans	
+avoid	ⴰⵏⴼ	ⵓⵏⴼ	ⵓⵏⵉⴼ	ⵜⵜⴰⵏⴼ	Trans	
+appear	ⵓⵎⴰⵏ	ⵓⵎⴰⵏ	ⵓⵎⴰⵏ	ⵜⵜⵓⵎⴰⵏ	Intr	
+agree	ⵎⵙⴰⵙⴰ	ⵎⵙⴰⵙⴰ	ⵎⵙⴰⵙⴰ	ⵜⵜⵎⵙⴰⵙⴰ	Intr	ⴷ/ⴰⴽⴷ/ⵖⴼ...
+appreciate	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⵓⴳ	Trans	
+admit	ⵙⵙⵉⴽⵣ	ⵙⵙⵉⴽⵣ	ⵙⵙⵉⴽⵣ	ⵙⵙⵉⴽⵉⵣ	Trans	
+achieve	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵜ	ⵙⵙⵉⴷⵉⵜ	Trans	
+access	ⵍⴽⵎ	ⵍⴽⵎ	ⵍⴽⵉⵎ	ⵍⴽⴽⵎ	Trans	
+arrive	ⵍⴽⵎ	ⵍⴽⵎ	ⵍⴽⵉⵎ	ⵍⴽⴽⵎ	Intr	
+accept	ⴷⴳⴳⵉ	ⴷⴳⴳⵉ	ⴷⴳⴳⵉ	ⵜⵜⴷⴳⴳⵉ	Trans	
+hurry	ⵖⴰⵡⵍ	ⵖⴰⵡⵍ	ⵖⴰⵡⵍ	ⵜⵜⵖⴰⵡⴰⵍ	Intr	ⵙ/...
+watch	ⴰⵏⵏⴰⵢ	ⴰⵏⵏⴰⵢ	ⴰⵏⵏⴰⵢ	ⵜⵜⴰⵏⵏⴰⵢ	Trans	
+scream	ⵙⵖⵢⵢⵓ	ⵙⵖⵢⵢⵉ|ⵙⵖⵢⵢⴰ	ⵙⵖⵓⵢⵢⵓ	Intr	ⵖⴼ
+be sick	ⴰⴹⵏ	ⵓⴹⵏ	ⵓⴹⵏ	ⵜⵜⴰⴹⵏ	Intr	
+be present	ⵎⵎⴳⵏⵜ	ⵎⵎⴳⵏⵜ	ⵎⵎⴳⵏⵜ	ⵜⵜⵎⵎⴳⵏⵜ	Intr	ⴳ
+introduce	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴰⴷ	Trans	
+require	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵓⵔ	Trans	
+manage	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ	Trans	
+grow (self)	ⵉⵎⵖⵓⵔ	ⵎⵇⵇⵓⵔ	ⵎⵇⵇⵓⵔ	ⵜⵜⵉⵎⵖⵓⵔ	Intr	ⴳ
+grow (something)	ⵙⵙⵉⵎⵖⵓⵔ	ⵙⵎⵖⵓⵔ	ⵙⵙⵎⵖⵓⵔ	ⵙⵙⵉⵎⵖⵓⵔ	Trans	
+develop	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⴰⵢ	Trans	
+define	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⴰⵍ	Trans	
+decide	ⵖⵜⵙ	ⵖⵜⵙ	ⵖⵜⵉⵙ	ⵖⵜⵜⵙ	Trans	
+create	ⵙⵏⵓⵍⴼⵓ	ⵙⵏⵓⵍⴼⵉ|ⵙⵏⵓⵍⴼⴰ	ⵙⵏⵓⵍⴼⵉ	ⵙⵏⵓⵍⴼⵓ	Trans	
+invent	ⵙⵏⵓⵍⴼⵓ	ⵙⵏⵓⵍⴼⵉ|ⵙⵏⵓⵍⴼⴰ	ⵙⵏⵓⵍⴼⵉ	ⵙⵏⵓⵍⴼⵓ	Trans	
+apply	ⵙⵏⵙ	ⵙⵏⵙ	ⵙⵏⵉⵙ	ⵙⵏⴰⵙ	Trans	
+answer	ⵔⴰⵔ	ⵔⵓⵔ	ⵔⵓⵔⵉ	ⵜⵜⵔⴰⵔⴰ	Intr	ⵖⴼ/ⵉ
+focus (self)	ⵏⵏⵓⵎⵎⵙ	ⵏⵏⵓⵎⵎⵙ	ⵏⵏⵓⵎⵎⵙ	ⵜⵜⵏⵓⵎⵎⵓⵙ	Intr	ⵖⴼ
+conclude	ⵙⵙⴼⵍⵓ	ⵙⵙⴼⵍⵉ|ⵙⵙⴼⵍⴰ	ⵙⵙⴼⵍⵉ	ⵙⵙⴼⵍⴰⵡ	Trans	
+plan	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵉⵙ	Trans	
+clarify	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ	Trans	
+simplify	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴰⵔ	Trans	
+imagine	ⵙⵓⴳⵏ	ⵙⵓⴳⵏ	ⵙⵓⴳⵉⵏ	ⵜⵜⵙⵓⴳⵏ	Trans	
+represent	ⴳⴳⵏⵙⴻⵙ	ⴳⴳⵏⵙⴻⵙ	ⴳⴳⵏⵙⴻⵙ	ⵜⵜⴳⵏⵙⴰⵙ	Trans	
+prepare	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⵓⴳ	Trans	
+justify	ⵙⵙⵏⵥⵓ	ⵙⵙⵏⵥⵉ|ⵙⵙⵏⵥⴰ	ⵙⵙⵏⵥⵉ	ⵙⵙⵏⵥⵓ	Trans	
+evaluate	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⵓⴳ	Trans	
+multiply	ⵙⴳⵜ	ⵙⴳⵜ	ⵙⴳⵜ	ⵙⴳⴰⵜ	Trans	
+subtract	ⴽⴽⵙ	ⴽⴽⵙ	ⴽⴽⵉⵙ	ⵜⵜⴽⴽⵙ	Trans	
+execise	ⵙⵍⵓⵖⵎⵓ	ⵙⵍⵓⵖⵎⵉ|ⵙⵍⵓⵖⵎⴰ	ⵙⵍⵓⵖⵎⵉ	ⵙⵍⵓⵖⵎⵓ	Trans	
+integrate	ⵙⵙⵉⴷⴼ	ⵙⵙⵉⴷⴼ	ⵙⵙⵉⴷⴼ	ⵙⵙⴰⴷⴰⴼ	Trans	
+suggest	ⵙⵙⵓⵎⵔ	ⵙⵙⵓⵎⵔ	ⵙⵙⵓⵎⵔ	ⵙⵙⵓⵎⵓⵔ	Trans	
+practice	ⵍⵍⴰⵍ	ⵍⵍⴰⵍ	ⵍⵍⴰⵍ	ⵜⵜⵍⴰⵍ	Trans	
+express	ⵙⵏⴼⴰⵍⵉ	ⵙⵏⴼⴰⵍⵉ	ⵙⵏⴼⴰⵍⵉ	ⵙⵏⴼⴰⵍⵉⵢ	Trans	
+factorize	ⵙⵎⵙⴽⵔ	ⵙⵎⵙⴽⵔ	ⵙⵎⵙⴽⵉⵔ	ⵙⵎⵙⴽⴰⵔ	Trans	
+arrange	ⵙⵏⵎⴰⵍⴰ	ⵙⵏⵎⴰⵍⴰ	ⵙⵏⵎⴰⵍⴰ	ⵙⵏⵎⴰⵍⴰ	Trans	
+order	ⵜⵜⵔ	ⵜⵜⵔ	ⵜⵜⵔ	ⵜⵜⴻⵜⵜⵔ	Trans	
+demand	ⵜⵜⵔ	ⵜⵜⵔ	ⵜⵜⵔ	ⵜⵜⴻⵜⵜⵔ	Trans	
+organize	ⵙⵙⵓⴷⵙ	ⵙⵙⵓⴷⵙ	ⵙⵙⵓⴷⵙ	ⵙⵙⵓⴷⵓⵙ	Trans	
+compose	ⵙⵓⴷⴷⵙ	ⵙⵙⵓⴷⵙ	ⵙⵙⵓⴷⵙ	ⵙⵙⵓⴷⵓⵙ	Trans	
+conjugate	ⵙⵙⴼⵜⵉ	ⵙⵙⴼⵜⵉ	ⵙⵙⴼⵜⵉ	ⵙⵙⴼⵜⴰⵢ	Trans	
+pronounce	ⵙⵓⵙⵔⵓ	ⵙⵓⵙⵔⵓ	ⵙⵓⵙⵔⵓ	ⵙⵓⵙⵔⵓ	Trans	
+encourage	ⵙⵙⴱⵖⵙ	ⵙⵙⴱⵖⵙ	ⵙⵙⴱⵖⵙ	ⵙⵙⴱⵖⴰⵙ	Trans	
+affect	ⵣⵔⵉⵔ	ⵣⵔⵉⵔ	ⵣⵔⵉⵔ	ⵜⵜⵣⵔⵉⵔ	Intr	ⵖⴼ
+cause	ⵙⵔⴳ	ⵙⵔⴳ	ⵙⵔⵉⴳ	ⵜⵜⵙⵔⴰⴳ	Trans	
+copy	ⵙⵙⵏⵖⵍ	ⵙⵙⵏⵖⵍ	ⵙⵙⵏⵖⵍ	ⵙⵙⵏⵖⴰⵍ	Trans	
+paste	ⵙⵍⵖ	ⵙⵍⵖ	ⵙⵍⵖ	ⵙⵍⴰⵖ	Trans	
+produce	ⴼⴰⵔⵙ	ⴼⴰⵔⵙ	ⴼⴰⵔⵙ	ⵜⵜⴼⴰⵔⴰⵙ	Trans	
+link	ⴰⵙⵖ	ⴰⵙⵖ	ⴰⵙⵖ	ⵜⵜⴰⵙⵖ	Trans	
+construct	ⵥⴽⵓ	ⵥⴽⵉ|ⵥⴽⴰ	ⵥⴽⵉ	ⵜⵜⵥⴽⵓ	Trans	
+educate	ⵙⵙⴳⵎⵉ	ⵙⵙⴳⵎⵉ|ⵙⵙⴳⵎⴰ	ⵙⵙⴳⵎⵉ	ⵙⵙⴳⵎⵓ	Trans	
+execute	ⵣⵣⴳⵔ	ⵣⵣⴳⵔ	ⵣⵣⴳⵔ	ⵣⵣⴳⴰⵔ	Trans	
+demonstrate	ⵙⵙⵏⵥⵓ	ⵙⵙⵏⵥⵉ|ⵙⵙⵏⵥⴰ	ⵙⵙⵏⵥⵉ	ⵙⵙⵏⵥⵓ	Trans	
+publish	ⴼⵙⵔ	ⴼⵙⵔ	ⴼⵙⵉⵔ	ⴼⵙⵙⵔ	Trans	
+comment	ⵖⴼⴰⵡⵍ	ⵖⴼⴰⵡⵍ	ⵖⴼⴰⵡⵍ	ⵜⵜⵖⴼⴰⵡⴰⵍ	Intr	ⵖⴼ/ⴳ
+push	ⴷⵃⴰ	ⴷⵃⵉ|ⴷⵃⴰ	ⴷⵃⵉ	ⴷⵃⵃⴰ	Trans	
+consider	ⵎⴳⴳⵣ/ⵙⵎⵓⵇⵇⵍ	ⵎⴳⴳⵣ/ⵙⵎⵓⵇⵇⵍ	ⵎⴳⴳⵣ/ⵙⵎⵓⵇⵇⵍ	ⵜⵜⵎⴳⴳⴰⵣ/ⵙⵎⵓⵇⵇⵓⵍ	Trans	
+program	ⵙⵙⵉⵀⵍ	ⵙⵙⵉⵀⵍ	ⵙⵙⵉⵀⵍ	ⵙⵙⵉⵀⵉⵍ	Trans	
+hack	ⵙⵖⵏⴷⴼ	ⵙⵖⵏⴷⴼ	ⵙⵖⵏⴷⵉⴼ	ⵙⵖⵏⴷⴰⴼ	Trans	
+activate	ⵙⵔⵎⴷ	ⵙⵔⵎⴷ	ⵙⵔⵎⴷ	ⵙⵔⵎⴰⴷ	Trans	
+correct	ⵙⵏⵎ	ⵙⵏⵎ	ⵙⵏⵎ	ⵙⵏⵓⵎ	Trans	
+rise	ⴰⵍⵉ	ⵓⵍⵉ	ⵓⵍⵉ	ⵜⵜⴰⵍⵉ	Intr	ⴷ
+assist	ⴰⵡⵙ	ⵉⵡⵙ	ⵉⵡⵙ	ⵜⵜⴰⵡⵙ	Intr	ⴰⵙ
+calculate	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵏ	ⵙⵙⵉⴹⵉⵏ	Trans	
+cooperate	ⵎⵢⴰⵡⴰⵙ	ⵎⵢⴰⵡⴰⵙ	ⵎⵢⴰⵡⵉⵙ	ⵜⵜⵎⵢⴰⵡⴰⵙ	Intr	ⴷ/ⴰⴽⴷ
+provide	ⴼⴽ	ⴼⴽⵉ|ⴼⴽⴰ	ⴼⴽⵉ	ⴰⴽⴽⴰ	Trans	
+support	ⵙⵏⴰⵍ	ⵙⵏⴰⵍ	ⵙⵏⴰⵍ	ⵙⵏⴰⵍ	Trans	
+translate	ⵙⵙⵓⵖⵍ	ⵙⵙⵓⵖⵍ	ⵙⵙⵓⵖⵍ	ⵙⵙⵓⵖⵓⵍ	Trans	
+improve	ⵙⴼⴰⵍⴽⵉ	ⵙⴼⵓⵍⴽⵉ	ⵙⴼⵓⵍⴽⵉ	ⵙⴼⴰⵍⴽⴰⵢ	Trans	
+predict	ⵙⵎⵏⵏⵉ	ⵙⵎⵏⵏⵉ	ⵙⵎⵏⵏⵉ	ⵙⵎⵏⵏⴰⵢ	Trans	
+keep	ⴰⵊⵊ	ⵓⵊⵊⵉ|ⵓⵊⵊⴰ	ⵓⵊⵊⵉ	ⵜⵜⴰⵊⵊ	Trans	
+enable	ⵙⵔⵎⴷ	ⵙⵔⵎⴷ	ⵙⵔⵎⴷ	ⵙⵔⵎⴰⴷ	Trans	
+be sure	ⵍⴽⵏ	ⵍⴽⵏ	ⵍⴽⵉⵏ	ⵍⴽⴽⵏ	Intr	ⵎⴰⵙ (that)
+transform	ⵙⵏⴼⵍⵖⴰ	ⵙⵏⴼⵍⵖⴰ	ⵙⵏⴼⵍⵖⴰ	ⵙⵏⴼⵍⵖⴰ	Trans	
+process	ⵙⵎⴽⵍ	ⵙⵎⴽⵍ	ⵙⵎⴽⵍ	ⵙⵎⴽⴰⵍ	Trans	
+recognize	ⴰⴽⵯⵣ	ⵓⴽⵯⵣ	ⵓⴽⵯⵣ	ⵜⵜⴰⴽⵯⵣ	Trans	
+throw	ⴳⵔ	ⴳⵔⵉ|ⴳⵔⴰ	ⴳⵔⵉ	ⴳⴳⴰⵔ	Trans	
+store	ⴽⵛⴰⴷ	ⴽⵛⴰⴷ	ⴽⵛⴰⴷ	ⵜⵜⴽⵛⴰⴷ	Trans	
+install	ⵣⵣⵓⴳⵣ	ⵣⵣⵓⴳⵣ	ⵣⵣⵓⴳⵣ	ⵣⵣⵓⴳⵓⵣ	Trans	
+download	ⵣⴷⵎ	ⵣⴷⵎ	ⵣⴷⵉⵎ	ⵣⴷⴷⵎ	Trans	
+recover	ⵙⵙⵓⵔⵔⵉ	ⵙⵙⵓⵔⵔⵉ	ⵙⵙⵓⵔⵔⵉ	ⵙⵙⵓⵔⵔⵉⵢ	Trans	
+murder	ⵏⵖ	ⵏⵖⵉ|ⵏⵖⴰ	ⵏⵖⵉ	ⵏⵇⵇⴰ	Trans	
+resist	ⵎⵙⵏⴽⴰⵔ	ⵎⵙⵏⴽⴰⵔ	ⵎⵙⵏⴽⴰⵔ	ⵜⵜⵎⵙⵏⴽⴰⵔ	Trans	
+touch	ⴳⴳⵔ	ⴳⴳⵔ	ⴳⴳⵉⵔ	ⵜⵜⴳⴳⵔ	Intr	ⵉ
+hurt	ⴱⵔⵉ	ⴱⵔⵉ	ⴱⵔⵉ	ⴱⵔⵔⵉ	Trans	
+swallow	ⵍⵎⵥ	ⵍⵎⵥ	ⵍⵎⵉⵥ	ⵜⵜⵍⵎⴰⵥ	Trans	
+thank	ⵙⵏⵉⵎⵎⵔ	ⵙⵏⵉⵎⵎⵔ	ⵙⵏⵉⵎⵎⵔ	ⵙⵏⵉⵎⵎⵉⵔ	Trans	
+celebrate	ⵙⴼⵓⴳⵍⵓ	ⵙⴼⵓⴳⵍⵉ|ⵙⴼⵓⴳⵍⴰ	ⵙⴼⵓⴳⵍⵉ	ⵙⴼⵓⴳⵍⵓ	Intr	ⵙ
+pride	ⴱⵓⵔⵣ	ⴱⵓⵔⵣ	ⴱⵓⵔⵣ	ⵜⵜⴱⵓⵔⵓⵣ	Intr	ⵙ
+scare	ⵥⵥⵎⵓ	ⵥⵥⵎⵉ|ⵥⵥⵎⴰ	ⵥⵥⵎⵉ	ⵥⵥⵎⴰⵡ	Trans	
+disappear	ⵏⵜⵍ	ⵏⵜⵍ	ⵏⵜⵉⵍ	ⵏⵜⵜⵍ	Intr	ⴳ/...
+pour	ⴼⴼⵉ	ⴼⴼⵉ	ⴼⴼⵉ	ⵜⵜⴼⴼⵉ	Trans	
+treat	ⵙⵎⴽⵍ	ⵙⵎⴽⵍ	ⵙⵎⴽⵍ	ⵙⵎⴽⴰⵍ	Trans	
+sacrifice	ⵙⴼⴰⵙⴽⴰ	ⵙⴼⴰⵙⴽⴰ	ⵙⴼⴰⵙⴽⴰ	ⵙⴼⴰⵙⴽⴰ	Intr	ⵙ
+smell	ⴽⴹⵓ	ⴽⴹⵉ|ⴽⴹⴰ	ⴽⴹⵉ	ⵜⵜⴽⴹⵓ	Trans	
+shop	ⴳⴷⵣ	ⴳⴷⵣ	ⴳⴷⵉⵣ	ⵜⵜⴳⴷⴰⵣ	Intr	
+wave	ⵙⵉⵍⵍⴼ	ⵙⵉⵍⵍⴼ	ⵙⵉⵍⵍⴼ	ⵙⵉⵍⵍⵉⴼ	Intr	ⵙ
+fail	ⴳⵓⴼ	ⴳⵓⴼ	ⴳⵓⴼ	ⵜⵜⴳⵓⴼ	Intr	ⴳ
+shave	ⵃⴼⴼⴻⴼ	ⵃⴼⴼⴻⴼ	ⵃⴼⴼⵉⴼ	ⵜⵜⵃⴼⴼⴰⴼ	Trans	
+fart	ⵙⴽⵓⵛⵛⵉ	ⵙⴽⵓⵛⵛⵉ	ⵙⴽⵓⵛⵛⵉ	ⵙⴽⵓⵛⵛⵓⵢ	Intr	
+serve	ⵙⵏⴰⵔ	ⵙⵏⴰⵔ	ⵙⵏⴰⵔ	ⵙⵏⴰⵔⴰ	Trans	
+sign	ⵙⵙⴳⵎⴹ	ⵙⵙⴳⵎⴹ	ⵙⵙⴳⵎⴹ	ⵙⵙⴳⵎⴰⴹ	Trans	
+salute	ⵙⵙⴰⵣⵓⵍ	ⵙⵙⴰⵣⵓⵍ	ⵙⵙⴰⵣⵓⵍ	ⵙⵙⴰⵣⵓⵍ	Trans	
+kiss	ⵙⵙⵓⴷⵎ	ⵙⵙⵓⴷⵎ	ⵙⵙⵓⴷⵎ	ⵙⵙⵓⴷⵓⵎ	Trans	
+design	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵉⵙ	Trans	
+punish	ⵙⵎⵔⵔⵜ	ⵙⵎⵔⵔⵜ	ⵙⵎⵔⵔⵜ	ⵙⵎⵔⵔⴰⵜ	Trans	
+reject	ⴰⴳⵯⵉ	ⵓⴳⵯⵉ	ⵓⴳⵯⵉ	ⵜⵜⴰⴳⵯⵉ	Trans	
+underestimate	ⵙⵙⵍⴽⵓ	ⵙⵙⵍⴽⵉ|ⵙⵙⵍⴽⴰ	ⵙⵙⵍⴽⵉ	ⵙⵙⵍⴽⴰⵡ	Trans	
+revive	ⵙⵙⵓⴷⵔ	ⵙⵙⵓⴷⵔ	ⵙⵙⵓⴷⵔ	ⵙⵙⵓⴷⵓⵔ	Trans	
+regret	ⵉⴳⵯⵕⵉⵥ	ⵉⴳⵯⵕⵉⵥ	ⵉⴳⵯⵕⵉⵥ	ⵜⵜⵉⴳⵯⵕⵉⵥ	Trans	
+explode	ⴱⴱⴰⵇⵇⵉ	ⴱⴱⴰⵇⵇⵉ	ⴱⴱⴰⵇⵇⵉ	ⵜⵜⴱⴰⵇⵇⴰⵢ	Intr	ⴳ
+shock	ⵏⴳⵙ	ⵏⴳⵙ	ⵏⴳⵉⵙ	ⵏⴳⴳⵙ	Trans	
+train	ⵙⵍⵍⵓⵖⵎⵜ	ⵙⵍⵍⵓⵖⵎⵜ	ⵙⵍⵍⵓⵖⵎⵜ	ⵙⵍⵍⵓⵖⵎⵜ	Trans	
+lay	ⵥⵥⵍ	ⵥⵥⵍ	ⵥⵥⵉⵍ	ⵜⵜⵥⵥⵍ	Trans	
+exchange	ⵙⵎⵔⴰⵔⴰ	ⵙⵎⵔⴰⵔⵉ|ⵙⵎⵔⴰⵔⴰ	ⵙⵎⵔⴰⵔⵉ	ⵙⵎⵔⴰⵔⴰ	Trans	
+consume	ⵙⵎⵓⵔ	ⵙⵎⴰⵔ	ⵙⵎⴰⵔ	ⵜⵜⵙⵎⵓⵔ	Trans	
+borrow	ⵕⴹⵍ	ⵕⴹⵍ	ⵕⴹⵉⵍ	ⵕⵟⵟⵍ	Trans	
+reach	ⴰⵡⴹ	ⵉⵡⴹ	ⵉⵡⵉⴹ	ⵜⵜⴰⵡⴹ	Trans	
+flow	ⵏⴳⵉ/ⵏⵖⵍ	ⵏⴳⵉ/ⵏⵖⵍ	ⵏⴳⵉ/ⵏⵖⵉⵍ	ⵏⴳⴳⵉ/ⵜⵜⵏⵖⴰⵍ	Intr	
+vomit	ⵔⴰⵔ	ⵔⵓⵔ	ⵔⵓⵔⵉ	ⵜⵜⵔⴰⵔⴰ	Intr	
+respond	ⵙⴷⵎⵔ	ⵙⴷⵎⵔ	ⵙⴷⵎⵉⵔ	ⵙⴷⵎⴰⵔ	Intr	ⵉ
+hunt	ⴳⵎⵔ	ⴳⵎⵔ	ⴳⵎⵉⵔ	ⴳⵎⵎⵔ	Trans	
+warm	ⵙⵙⵔⵖ	ⵙⵙⵔⵖⵉ|ⵙⵙⵔⵖⴰ	ⵙⵙⵔⵖⵉ	ⵙⵙⵔⵖⴰ	Trans	
+cool	ⵙⵙⴽⵔⵎ	ⵙⵙⴽⵔⵎ	ⵙⵙⴽⵔⵎ	ⵙⵙⴽⵔⴰⵎ	Trans	
+sing	ⵉⵔⵉⵔ	ⵉⵔⵉⵔ	ⵉⵔⵉⵔ	ⵜⵜⵉⵔⵉⵔ	Trans	
+look like	ⴳ ⵣⵓⵏ ⴷ	ⴳⵉ|ⴳⴰ ⵣⵓⵏ ⴷ	ⴳⵉ ⵣⵓⵏ ⴷ	ⵜⵜⴳⴳⴰ ⵣⵓⵏ ⴷ	Intr	
+let	ⴰⵊⵊ	ⵓⵊⵊⵉ|ⵓⵊⵊⴰ	ⵓⵊⵊⵉ	ⵜⵜⴰⵊⵊ	Trans	
+be liked	ⵙⵙⵓⵙⵎ	ⵙⵙⵓⵙⵎ	ⵙⵙⵓⵙⵎ	ⵙⵙⵓⵙⵓⵎ	Trans	
+drive	ⵏⴷⵀ	ⵏⴷⵀ	ⵏⴷⵉⵀ	ⵏⴷⴷⵀ	Trans	
+lend	ⵕⴹⵍ (ⵉ)	ⵕⴹⵍ (ⵉ)	ⵕⴹⵉⵍ (ⵉ)	ⵕⵟⵟⵍ (ⵉ)	Trans	
+borrow	ⵕⴹⵍ (ⵙⴳ)	ⵕⴹⵍ (ⵙⴳ)	ⵕⴹⵉⵍ (ⵙⴳ)	ⵕⵟⵟⵍ (ⵙⴳ)	Trans
+rent	ⵖⴼⵔ	ⵖⴼⵔ	ⵖⴼⵉⵔ	ⵖⴼⴼⵔ	Trans	
+talk	ⵙⴰⵡⵍ	ⵙⴰⵡⵍ	ⵙⴰⵡⵉⵍ	ⵙⴰⵡⴰⵍ	Intr	ⵙ/ⴷ
+spend	ⵖⵣⴷ	ⵖⵣⴷ	ⵖⵣⵉⴷ	ⵜⵜⵖⵣⴰⴷ	Trans	
+offer	ⵙⴽⵏ	ⵙⵙⴽⵏ	ⵙⵙⴽⵏ	ⵙⵙⴽⴰⵏ	Trans	
+type	ⴰⵔⴰ	ⵓⵔⵉ|ⵓⵔⴰ	ⵓⵔⵉ	ⵜⵜⴰⵔⴰ	Trans	
+taste	ⵎⵎⴹⵉ	ⵎⵎⴹⵉ	ⵎⵎⴹⵉ	ⵎⵟⵟⵉ	Trans	
+whistle	ⵙⵉⵏⵚⵚⴳ	ⵙⵉⵏⵚⵚⴳ	ⵙⵉⵏⵚⵚⴳ	ⵙⵉⵏⵚⵚⵉⴳ	Intr	ⵉ
+yell	ⵙⵖⵢⵢⵓ	ⵙⵖⵢⵢⵉ|ⵙⵖⵢⵢⴰ	ⵙⵖⵢⵢⵉ	ⵙⵖⵓⵢⵢⵓ	Intr	ⵖⴼ
+wake up (self)	ⵏⴽⵔ (ⴷ)	ⵏⴽⵔ (ⴷ)	ⵏⴽⵉⵔ (ⴷ)	ⵏⴽⴽⵔ (ⴷ)	Intr	
+wake up (someone)	ⵙⵙⵏⴽⵔ (ⴷ)	ⵙⵙⵏⴽⵔ (ⴷ)	ⵙⵙⵏⴽⵉⵔ (ⴷ)	ⵙⵙⵏⴽⴰⵔ (ⴷ)	Trans	
+ride	ⵙⵙⵓⴷⵓ/ⵏⵢ	ⵙⵙⵓⴷⵉ|ⵙⵙⵓⴷⴰ/ⵏⵢⵉ|ⵏⵢⴰ	ⵙⵙⵓⴷⵉ/ⵏⵢⵉ	ⵜⵜⵙⵓⴷⵓ/ⵜⵜⵏⵓⵢ	Trans	
+climb	ⴰⵡⵏ	ⵉⵡⵏ	ⵉⵡⵏ	ⵜⵜⴰⵡⵏ	Intr	ⵉ
+lead	ⴰⵡⵉ (ⴷ)	ⵉⵡⵉ (ⴷ)	ⵉⵡⵉ (ⴷ)	ⵜⵜⴰⵡⵉ (ⴷ)	Trans	
+dance	ⵔⴽⵣ	ⵔⴽⵣ	ⵔⴽⵉⵣ	ⵜⵜⵔⴽⴰⵣ	Intr	
+dream	ⵡⴰⵔⴳⴰ	ⵡⴰⵔⴳⴰ	ⵡⴰⵔⴳⴰ	ⵜⵜⵡⴰⵔⴳⴰ	Intr	
+guess	ⵙⵙⴰⴳⴳⵯ	ⵙⵙⴰⴳⴳⵯ	ⵙⵙⴰⴳⴳⵯ	ⵙⵙⴰⴳⴳⵯⴰ	Trans	
+hug	ⵖⴰⵍⵍⴰ	ⵖⴰⵍⵍⴰ	ⵖⴰⵍⵍⴰ	ⵜⵜⵖⴰⵍⵍⴰ	Trans	
+embrace	ⵃⵎⵎⵥ	ⵃⵎⵎⵥ	ⵃⵎⵎⵉⵥ	ⵜⵜⵃⵎⵎⴰⵥ	Trans	
+pull	ⵣⵣⵓⵖⵔ	ⵣⵣⵓⵖⵔ	ⵣⵣⵓⵖⵔ	ⵣⵣⵓⵖⵓⵔ	Trans	
+promise	ⵇⴰⵡⵍ	ⵇⴰⵡⵍ	ⵇⴰⵡⵍ	ⵜⵜⵇⴰⵡⴰⵍ	Intr	ⵙ
+summarize	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵉⵍ	ⵣⵣⴳⵣⵓⵍ	Trans	
+gather	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏⴰ	Trans	
+deny	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	Trans	
+
+
+
+
+For "Acc" where you find "|":
+the first part is used for "me" and singular "you", and the second part is used for the rest
+For "(...)", they are prepositions or particles that are used with the verb.
