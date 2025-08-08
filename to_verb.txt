@@ -360,5 +360,8 @@ For "(...)", they are prepositions or particles that are used with the verb.
 With 'Intr', sometimes Tamazight uses prepostions different than English, so we defined them here as possible.
 Example:
 I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with 'ⵙⵡⵉⵏⴳⵎ')
+If a verb is 'Intr' and we use 'ⵉ' with it and a pronoun came after it then we use Indirect object pronouns.
+Example:
+I called him. = ⵖⵔⵉⵖ ⴰⵙ. (ⵉ + ⵏⵜⵜⴰ = ⴰⵙ which is Indirect object pronoun)
 
 
