@@ -204,8 +204,8 @@ be present	ⵎⵎⴳⵏⵜ	ⵎⵎⴳⵏⵜ	ⵎⵎⴳⵏⵜ	ⵜⵜⵎⵎⴳⵏⵜ
 introduce	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴷ	ⵙⵙⵏⴽⴰⴷ
 require	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵔ	ⵙⵙⵓⵜⵓⵔ
 manage	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ	ⵙⵡⵓⴷⴷⵓ
-grow	ⵉⵎⵖⵓⵔ
-develop	ⵙⵏⴼⵍⵉ
+grow	ⵉⵎⵖⵓⵔ	ⵎⵇⵇⵓⵔ	ⵎⵇⵇⵓⵔ	ⵜⵜⵉⵎⵖⵓⵔ
+develop	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⴰⵢ
 define	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⴰⵍ
 decide	ⵖⵜⵙ	ⵖⵜⵙ	ⵖⵜⵉⵙ	ⵖⵜⵜⵙ
 create	ⵙⵏⵓⵍⴼⵓ	ⵙⵏⵓⵍⴼⵉ|ⵙⵏⵓⵍⴼⴰ	ⵙⵏⵓⵍⴼⵉ	ⵙⵏⵓⵍⴼⵓ
@@ -218,7 +218,7 @@ plan	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵙ	ⵙⵖⵉⵡⵉⵙ
 clarify	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ	ⵙⵙⵉⵙⴼⵉⵡ
 simplify	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴻⵔ	ⵙⵙⴼⵔⴰⵔ
 imagine	ⵙⵓⴳⵏ	ⵙⵓⴳⵏ	ⵙⵓⴳⵉⵏ	ⵜⵜⵙⵓⴳⵏ
-represent	ⴳⴳⵏⵙⴻⵙ
+represent	ⴳⴳⵏⵙⴻⵙ	ⴳⴳⵏⵙⴻⵙ	ⴳⴳⵏⵙⴻⵙ	ⵜⵜⴳⵏⵙⴰⵙ
 prepare	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⴳ	ⵙⵎⵓⵜⵜⵓⴳ
 justify	ⵙⵙⵏⵥⵓ	ⵙⵙⵏⵥⵉ|ⵙⵙⵏⵥⴰ	ⵙⵙⵏⵥⵉ	ⵙⵙⵏⵥⵓ
 evaluate	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⴳ	ⵙⵙⵓⵜⵓⴳ
@@ -355,4 +355,5 @@ For "Acc" where you find "|":
 the first part is used for "me" and singular "you", and the second part is used for the rest
 
 For "(...)", they are prepositions or particles that are used with the verb.
+
 
