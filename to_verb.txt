@@ -357,3 +357,7 @@ deny	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	Trans
 For "Acc" where you find "|":
 the first part is used for "me" and singular "you", and the second part is used for the rest
 For "(...)", they are prepositions or particles that are used with the verb.
+With 'Intr', sometimes Tamazight uses prepostions different than English, so we defined them here as possible.
+Example:
+I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with 'ⵙⵡⵉⵏⴳⵎ')
+
