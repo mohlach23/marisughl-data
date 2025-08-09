@@ -2272,6 +2272,8 @@ topics: ⵉⵎⵔⵙⴰⵏ
 tortoise: ⵉⴼⴽⵔ
 total: ⴰⵖⵔⵓⴷ
 totally: ⵏⵉⵜ
+tourism: ⵜⴰⵎⴰⵍⵍⴰⵢⵜ
+tourist: ⴰⵎⵍⴰⵍⵍⴰⵢ
 toy: ⵜⴰⵙⵓⵔⴰⵔⵜ
 toys: ⵜⵉⵙⵓⵔⴰⵔⵉⵏ
 trade: ⵜⴰⵙⵜⴰⴳⵜ
@@ -2443,6 +2445,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
