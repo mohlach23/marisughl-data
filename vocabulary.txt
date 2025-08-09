@@ -189,6 +189,7 @@ battery: ⴰⴱⴰⵜⵔⵉ
 bay: ⴰⵙⵍⴰⵍⵍⵓ
 beach: ⵜⴰⵖⴰⵔⵜ ⵏ ⵢⵉⵍⵍ
 bean-shaped: ⵜⴰⵡⵉⵍⴰ ⵏ ⵢⵉⴱⴰⵡⵏ
+bear: ⴰⴱⵓⴱⴱⴰⵣ
 beard: ⵜⴰⵎⴰⵔⵜ
 beautiful: ⵉⵥⵉⵍⵏ
 because: ⴰⵛⴽⵓ
@@ -2442,6 +2443,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
