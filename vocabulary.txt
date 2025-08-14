@@ -650,7 +650,7 @@ edition: ⵜⴰⵥⵕⵉⴳⵜ
 editor: ⴰⵎⵥⵕⴰⴳ
 education: ⴰⵙⴳⵎⵉ
 educational: ⴰⵙⴳⵎⴰⵏ
-effect: ⵜⴰⵣⵔⴰⵔⵜ
+effect: ⵜⴰⵣⵔⵉⵔⵜ
 effective: ⵉⵎⵕⵡⵉ
 effectively: ⵙ ⵜⵕⵡⵉ
 effects: ⵜⵉⵣⵔⴰⵔⵉⵏ
@@ -2450,6 +2450,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
