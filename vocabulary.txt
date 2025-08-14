@@ -1018,7 +1018,7 @@ housework: ⵜⴰⵡⵓⵔⵉ ⵏ ⵜⴳⵎⵎⵉ
 however: ⵎⵇⵇⴰⵔ
 huge: ⴰⴱⴰⵔⴰⵔ
 human: ⴰⴼⴳⴰⵏ
-humans: ⵉⴼⴳⴰⵏⵏ
+humans: ⵎⴷⴷⵏ
 humanity: ⵜⵉⴼⴼⵓⴳⵏⴰ
 humidity: ⴰⴳⵓⵏⴷⵓ
 humour: ⵜⴰⵇⴱⴱⴰⴹⵜ
@@ -2450,6 +2450,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
