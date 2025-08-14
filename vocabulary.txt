@@ -1221,6 +1221,8 @@ life: ⵜⵓⴷⵔⵜ
 light: ⵜⵉⴼⴰⵡⵜ
 lightning: ⵓⵙⵎ
 like: ⵣⵓⵏ ⴷ
+limit: ⴰⵡⵜⵜⵓ
+limits: ⵉⵡⵜⵜⴰ
 line: ⴰⵣⵔⵉⴳ
 linear: ⴰⵎⵣⵉⵔⴳ
 lines: ⵉⵣⵔⵉⴳⵏ
@@ -2447,6 +2449,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
