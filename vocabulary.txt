@@ -264,6 +264,7 @@ bucket: ⴰⴳⴰ
 building: ⵜⵉⵥⴽⵉ
 built-in: ⴰⵎⴰⴷⴰⴼ
 business: ⴰⵎⴰⵀⵉⵍ
+businessman: ⴱⴰⴱ ⵏ ⵜⵡⵓⵔⵉⵡⵉⵏ
 but: ⵎⴰⵛⴰ
 by: ⵙ
 calculation: ⴰⵙⵉⴹⵏ
@@ -2449,6 +2450,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
