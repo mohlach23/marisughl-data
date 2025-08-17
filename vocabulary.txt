@@ -142,7 +142,7 @@ astronomy: ⵜⴰⵙⵏⵉⵜⵔⵉⵜ
 astrophysicist: ⴰⵎⵙⵏⴳⴰⵎⵉⵜⵔⵉ
 astrophysicists: ⵉⵎⵙⵏⴳⴰⵎⵉⵜⵔⵉⵜⵏ
 astrophysics: ⵜⴰⵙⵏⴳⴰⵎⵉⵜⵔⵉⵜ
-at: ⵖ
+at: ⴳ
 atmosphere: ⵜⵉⴳⵏⵡⵜ
 atom: ⴰⴱⵍⴽⵉⵎ
 atomic: ⴰⴱⵍⴽⴰⵎ
@@ -162,6 +162,8 @@ author: ⴰⵎⵙⴽⴰⵔ
 authorities: ⵜⵉⵏⴱⴰⴹⵉⵏ
 authority: ⵜⴰⵏⴱⴰⴹⵜ
 authors: ⵉⵎⵙⴽⴰⵔⵏ
+automatic: ⴰⵡⵓⵔⵎⴰⵏ
+automatically: ⵙ ⵓⵡⵓⵔⵎⴰⵏ
 autumn: ⴰⵎⵡⴰⵏ
 auxiliary: ⴰⵎⴰⵡⴰⵙ
 available: ⴰⵢⵍⵍⴰⵏ
@@ -2450,6 +2452,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
