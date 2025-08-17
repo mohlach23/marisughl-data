@@ -395,7 +395,7 @@ commonly: ⵉⵜⵜⵓⵎⵢⴰⵔ
 communication: ⴰⵎⵢⴰⵡⴰⴹ
 communities: ⴰⵎⵓⵏⵏ
 community: ⴰⵎⵓⵏ
-companies: ⵜⵉⵎⵙⵙⵓⵔⵜⵉⵏ
+companies: ⵜⵉⵎⵙⵙⵓⵔⵉⵏ
 company: ⵜⴰⵎⵙⵙⵓⵔⵜ
 comparison: ⴰⵙⵎⵣⴰⵣⴰⵍ
 comparisons: ⵉⵙⵎⵣⴰⵣⴰⵍⵏ
@@ -2452,6 +2452,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
