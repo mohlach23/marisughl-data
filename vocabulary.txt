@@ -2104,6 +2104,7 @@ strategies: ⵜⵉⵙⵜⵔⴰⵜⵉⵊⵉⵢⵉⵏ
 strategy: ⵜⴰⵙⵜⵔⴰⵜⵉⵊⵉⵜ
 stratigraphy: ⵜⴰⵙⴽⵏⵙⵡⵔⵜ
 strength: ⴰⴷⵡⴰⵙ
+stress: ⴰⴽⵕⴰⵥ
 string: ⴰⵣⵔⴰⵔ
 strings: ⵉⵣⵔⴰⵔⵏ
 strong: ⵉⴷⵓⵙⵏ
@@ -2450,6 +2451,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
