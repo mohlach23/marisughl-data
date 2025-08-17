@@ -6,7 +6,6 @@ Mohamed:  ⵎⵓⵃⵎⵎⴰⴷ
 abilities:  ⵜⵉⵣⵎⵎⴰⵔ
 ability:  ⵜⴰⵣⵎⵔⵜ
 about:  ⵖⴼ
-absorbed: ⵉⵜⵜⵓⵙⵙⵓⵎⵏ
 absolutely: ⵏⵉⵜ
 abstract: ⴰⵎⴷⵡⴰⵏ
 acceleration: ⴰⵏⵉⵎⵎⵔ
@@ -436,7 +435,7 @@ conditions: ⵜⵉⴼⴰⴷⵉⵡⵉⵏ
 conduction: ⴰⵡⵡⴰⵢ
 conference: ⵜⵉⵏⴰⵡⵜ
 configuration: ⴰⵙⵡⵍ
-conflict: ⴰⵎⵜⵔⴼⴰⵙ
+conflict: ⴰⵎⵏⵣⴰⵖ
 connection: ⵜⵓⵇⵇⵏⴰ
 conscience: ⴰⴼⵔⴰⴽ
 consciousness: ⴰⴼⵔⴰⴽ
@@ -2451,6 +2450,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
