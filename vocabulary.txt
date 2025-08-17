@@ -1039,7 +1039,7 @@ ideas: ⵜⵉⵙⵡⵉⵏⴳⵉⵎⵉⵏ
 identification: ⴰⵙⵎⴰⴳⵉ
 identity: ⵜⴰⵎⴰⴳⵉⵜ
 ideology: ⵜⴰⵙⵏⴰⴽⵜⴰ
-if: ⵉⵖ
+if: ⵉⴳ
 illumination: ⴰⵙⵉⴷⴷ
 image: ⵜⵓⴳⵏⴰ
 images: ⵜⵓⴳⵏⵉⵡⵉⵏ
@@ -1189,8 +1189,8 @@ largest: ⴰⴽⴽⵯ ⵉⴳⴰⵏ ⴰⵎⵇⵔⴰⵏ
 last: ⴰⵏⴳⴳⴰⵔⵓ
 laughter: ⵜⴰⴹⵙⴰ
 lava: ⴰⵍⴰⴼⴰ
-law: ⴰⵙⴰⴹⵓⴼ
-laws: ⵉⵙⴰⴹⵓⴼⵏ
+law: ⴰⵙⵍⴳⵏ
+laws: ⵉⵙⵍⴳⵏⵏ
 layer: ⵜⴰⵔⴰⵢⵜ
 layers: ⵜⴰⵔⴰⵢⵉⵏ
 lead: ⴰⵍⴷⵓⵏ
@@ -2450,6 +2450,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
