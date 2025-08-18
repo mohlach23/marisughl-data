@@ -1103,6 +1103,8 @@
 ⵜⴰⵖⴰⵡⵙⴰ ⵉⵥⵉⵍⵏ  شىء جميل
 ⵜⴰⵖⴰⵡⵙⴰ ⵉⵎⵢⴰⵏⴰⵡⵏ  شىء متنوع
 ⵜⴰⵖⴰⵡⵙⴰ ⵉⵥⵍⵉⵏ  شىء خاص
+ⵜⴰⵖⴰⵡⵙⴰ ⵉⵛⵛⴰⵔⵏ  شئ مشترك common thing
+ⴰⵔⵎⵎⵓⵙ ⵉⵏⵖⴷⴰⵏ  مفهوم دقيق precise concept 
 
 Here are 50 sentences using the verb "ⴷⴷⵓ" (to go) in Tamazight, English, French, and Arabic:
 
@@ -1862,3 +1864,4 @@ Here are 100 sentences using the verb "ⵙⵙⵏ" (know / to know):
     ⵓⵔ ⵙⵙⵉⵏⵏⵜ ⵜⴰⵣⵔⵉⵔⵜ ⵏ ⵜⵉⴳⴰⵡⵉⵏ ⵏⵏⵙⵏⵜ.
     Elles ne connaissaient pas l'impact de leurs actions.
     لم يعرفن تأثير أفعالهن.
+
