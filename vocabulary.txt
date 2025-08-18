@@ -900,6 +900,7 @@ gate: ⵜⴰⵡⵡⵓⵔⵜ
 gender: ⵜⴰⵡⵙⵉⵜ
 gene: ⴰⵊⵉⵏ
 general: ⴰⵎⴰⵜⴰⵢ
+generality: ⵜⴰⵎⴰⵜⴰⵢⵜ
 generation: ⵜⴰⵙⵓⵜ
 generations: ⵜⵉⵙⵓⵜⵉⵏ
 generative: ⴰⵔⵡⴰⵏ
@@ -2056,6 +2057,7 @@ space: ⴰⵙⴰⵢⵔⴰⵔ
 spaces: ⵉⵙⴰⵢⵔⴰⵔⵏ
 spacetime: ⴰⵙⴰⵢⵔⴰⵔⴽⵓⴷ
 special: ⵉⵥⵍⵉⵏ
+speciality: ⵜⴰⵥⵍⴰⵢⵜ
 species: ⴰⵏⴰⵡⵏ
 specific: ⴰⵏⵥⵍⴰⵢ
 spectrum: ⴰⵣⵔⴰⵔⴰⴳ
@@ -2452,6 +2454,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
