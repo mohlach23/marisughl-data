@@ -4935,3 +4935,9 @@
 *    ⵓⵔ ⵔⴰⴷ ⵜⵙⴱⴰⵡⴷ ⴰⵢⴰⴷ.
     *    You will not deny this.
     *    Tu ne nieras pas cela.
+
+ⵉⵍⵍⴰ ⴷⴰⵔⵉ ... (I have ...) -> ⵔⴰⴷ ⴷⴰⵔⵉ ⵢⵉⵍⵉ ... (I will have)
+ⵉⵍⵍⴰ ⴷⴰⵔⵙ ... (he has) -> ⵔⴰⴷ ⴷⴰⵔⵙ ⵢⵉⵍⵉ ... (he will have ...)
+ⵉⴽⴽⴰ ⵜⵜ ⵉⵏⵏ ⴷⴰⵔⵉ ... (I had ...)
+ⵜⵍⵍⴰ ⴷⴰⵔⵓⵏ ⵜⵖⴰⵡⵙⴰ ⴰⴷ (you [mas. plur.] have this thing) -> ⵔⴰⴷ ⴷⴰⵔⵓⵏ ⵜⵉⵍⵉ ⵜⵖⴰⵡⵙⴰ ⴰⴷ (you will have this thing)
+(this phrasal verb works similar to "يكون عند (يملك)" in Arabic)
