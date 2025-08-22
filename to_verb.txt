@@ -95,7 +95,7 @@ fill	ⴽⵜⵓⵔ	ⴽⵜⵓⵔ	ⴽⵜⵓⵔ	ⵜⵜⴽⵜⵓⵔ	Trans
 laugh	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	ⴹⵚⵚⴰ	Intr	ⵖⴼ/ⴳ
 cook	ⵙⵙⵏⵓ	ⵙⵙⵏⵡⵉ|ⵙⵙⵏⵡⴰ	ⵙⵙⵏⵡⵉ	ⵙⵙⵏⵡⴰ	Trans		
 complain	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵉ	ⵙⵎⵓⵎⵎⵓⵢ	Intr	ⵖⴼ
-finish	ⴼⴹⴹⵓ	ⴼⴹⴹⵉ|ⴼⴹⴹⴰ	ⴼⴹⴹⵉ	ⵜⵜⴼⴹⴹⵓ	Trans	
+finish	ⴼⴹⴹⵓ	ⴼⴹⴹⵉ|ⴼⴹⴹⴰ	ⴼⴹⴹⵉ	ⵜⵜⴼⴹⴹⵓ	Tⵙⴱⴰⵡ	
 complete	ⵙⵎⴷ	ⵙⵎⴷ	ⵙⵎⵉⴷ	ⵙⵎⴰⴷ	Trans	
 cut	ⴱⴱⵉ	ⴱⴱⵉ	ⴱⴱⵉ	ⵜⵜⴱⴱⵉ	Trans	
 reverse	ⵙⴳⵔⴰⵡⵍ	ⵙⴳⵔⴰⵡⵍ	ⵙⴳⵔⴰⵡⵉⵍ	ⵙⴳⵔⴰⵡⴰⵍ	Trans	
@@ -350,7 +350,7 @@ promise	ⵇⴰⵡⵍ	ⵇⴰⵡⵍ	ⵇⴰⵡⵍ	ⵜⵜⵇⴰⵡⴰⵍ	Intr	ⵙ
 summarize	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵉⵍ	ⵣⵣⴳⵣⵓⵍ	Trans	
 gather	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏⴰ	Trans	
 deny	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	Trans	
-
+be crazy	ⵏⵓⴼⵍ	ⵏⵓⴼⵍ	ⵏⵓⴼⵍ	ⵜⵜⵏⵓⴼⵓⵍ	Intr
 
 
 
@@ -363,5 +363,6 @@ I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with '
 If a verb is 'Intr' and we use 'ⵉ' with it and a pronoun came after it then we use Indirect object pronouns.
 Example:
 I called him. = ⵖⵔⵉⵖ ⴰⵙ. (ⵉ + ⵏⵜⵜⴰ = ⴰⵙ which is Indirect object pronoun)
+
 
 
