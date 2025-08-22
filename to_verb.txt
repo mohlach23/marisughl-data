@@ -351,6 +351,7 @@ summarize	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵍ	ⵣⵣⴳⵣⵉⵍ	ⵣⵣⴳⵣⵓⵍ	
 gather	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏ	ⵙⵎⵓⵏⴰ	Trans	
 deny	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	ⵙⴱⴰⵡ	Trans	
 be crazy	ⵏⵓⴼⵍ	ⵏⵓⴼⵍ	ⵏⵓⴼⵍ	ⵜⵜⵏⵓⴼⵓⵍ	Intr
+record  ⵣⵎⵎⴻⵎ ⵣⵎⵎⴻⵎ ⵣⵎⵎⵉⵎ ⵜⵜⵣⵎⵎⴰⵎ Trans
 
 
 
@@ -363,6 +364,7 @@ I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with '
 If a verb is 'Intr' and we use 'ⵉ' with it and a pronoun came after it then we use Indirect object pronouns.
 Example:
 I called him. = ⵖⵔⵉⵖ ⴰⵙ. (ⵉ + ⵏⵜⵜⴰ = ⴰⵙ which is Indirect object pronoun)
+
 
 
 
