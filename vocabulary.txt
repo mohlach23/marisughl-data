@@ -249,6 +249,7 @@ boys: ⵉⵔⴱⴰⵏ
 brain: ⴰⵏⵍⵉ
 branch: ⵉⵥⵍⵉ
 branches: ⵉⵥⵍⵉⵜⵏ
+brand: ⵜⴰⵎⴰⵜⴰⵔⵜ
 brave: ⴰⵏⴱⵖⵓⵙ
 bread: ⴰⵖⵔⵓⵎ
 breakfast: ⴰⵖⵓⵊⵊⵔ
@@ -451,6 +452,7 @@ constellations: ⵜⵉⵎⵜⵉⵡⴳⵉⵏ
 constituent: ⵉⵙⴳⵔ
 constituents: ⵉⵙⴳⴰⵔ
 construction: ⵜⵉⵥⴽⵉ
+consumer: ⴰⵏⵙⵎⵓⵔ
 consumption: ⴰⵙⵙⵎⴰⵔ
 container: ⴰⵙⴰⵎⵓ
 containers: ⵉⵙⴰⵎⵓⵜⵏ
@@ -2453,6 +2455,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
