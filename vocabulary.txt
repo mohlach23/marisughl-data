@@ -500,7 +500,7 @@ culture: ⵜⴰⴷⵍⵙⴰ
 curds: ⵉⴽⴽⵉⵍ
 currency: ⴰⵇⴰⵕⵉⴹ
 current: ⴰⵎⵣⴰⵣ
-cycle: ⵜⴰⵍⵍⵓⵙⵜ
+cycle: ⵜⵓⵏⵓⴹⵜ
 cytoplasm: ⴰⵙⵉⵜⵓⴼⵍⴰⵥⵎ
 daily: ⴰⴽⵓⵢⴰⵙⵙ
 dam: ⵓⴳⴳⵓⴳ
@@ -777,11 +777,12 @@ fact: ⵉⵎⵊⵕⵉ
 factor: ⴰⵎⵙⴽⴰⵔ
 factors: ⵉⵎⵙⴽⴰⵔⵏ
 facts: ⵉⵎⵊⵕⵉⵜⵏ
+fake: ⵓⵔⵊⵉⵏ
 false: ⵓⵣⴳⵉⵍ
 families: ⵜⴰⵡⵊⵉⵡⵉⵏ
 family: ⵜⴰⵡⵊⴰ
 famine: ⴱⵓⵀⵢⵢⵓⴼ
-famous: ⴰⵏⴼⵓⴳⵍ
+famous: ⵉⵜⵜⵓⵙⵙⴰⵏⵏ
 far: ⵢⴰⴳⴳⵓⴳ
 farm: ⵜⴰⴱⵃⵉⵔⵜ
 fat: ⵜⴰⴷⵓⵏⵜ
@@ -807,7 +808,7 @@ figure: ⵜⵓⵏⵓⵖⵜ
 file: ⴰⴼⴰⵢⵍⵓ
 files: ⵉⴼⴰⵢⵍⵓⵜⵏ
 fin: ⵜⵉⵊⵉⴼⵔⵜ
-finally: ⵖ ⵜⴳⵉⵔⴰ
+finally: ⴳ ⵜⴳⵉⵔⴰ
 finance: ⴰⵥⵕⴼ
 financial: ⴰⵥⵕⴼⴰⵏ
 finding: ⵜⵉⴼⵉⵜ
@@ -818,7 +819,7 @@ finite: ⵉⵎⴷⵏ
 fins: ⵜⵉⵊⵉⴼⴰⵔ
 fire: ⴰⴼⴰ
 first: ⴰⵎⵣⵡⴰⵔⵓ
-firstly: ⵖ ⵜⵉⵣⵡⵉⵔⵉ
+firstly: ⴳ ⵜⵣⵡⵉⵔⵉ
 fish: ⴰⵙⵍⵎ
 fist: ⵜⵓⴽⴽⵉⵎⵜ
 five: ⵙⵎⵎⵓⵙ
@@ -838,7 +839,6 @@ fonts: ⵜⵉⵙⵉⵙⴽⵍⵉⵏ
 food: ⴰⵎⵜⵛⵓ
 foot: ⴰⴹⴰⵕ
 football: ⵜⴰⵡⵊⵊⴰ ⵏ ⵓⴹⴰⵕ
-for: ⵖⴼ
 force: ⴰⴷⵡⴰⵙ
 forces: ⵉⴷⵡⴰⵙⵏ
 forehead: ⴰⵏⵢⵉⵔ
@@ -877,7 +877,7 @@ frog: ⴰⴳⵔⵓ
 frogs: ⵉⴳⵯⵔⴰ
 frost: ⵉⵡⵔⵉ
 from: ⵙⴳ
-front of: ⵎⵉⵏⴷ
+front of: ⵎⵉⵏⴷ ⵏ
 fruit: ⴰⴳⵓⵎⵎⵓ
 fruits: ⵉⴳⵓⵎⵎⴰ
 full: ⵉⵎⴷⵏ
@@ -889,8 +889,8 @@ fundamentals: ⵜⵉⵙⵉⵍⴰⵡⵉⵏ
 future: ⵉⵎⴰⵍ
 galaxies: ⵉⵎⴰⵣⵍⵍⴰⵡⵏ
 galaxy: ⴰⵎⴰⵣⵍⵍⴰⵡ
-game: ⵜⵓⵔⴰⵔⵜ
-games: ⵜⵓⵔⴰⵔⵉⵏ
+game: ⵜⴰⵙⵓⵔⴰⵔⵜ
+games: ⵜⵉⵙⵓⵔⴰⵔⵉⵏ
 garden: ⵜⵓⵔⵜⵉⵜ
 gardens: ⵜⵓⵔⵜⵉⵜⵉⵏ
 garlic: ⵜⵉⵙⴽⵔⵜ
@@ -1519,7 +1519,6 @@ on: ⵖⴼ
 once: ⴰⴷ ⵓⴽⴰⵏ
 oncology: ⵜⴰⵙⵏⴼⴰⴼⵜ
 one: ⵢⴰⵏ
-ones: ⵡⵉⴷ
 onions: ⴰⵥⴰⵍⵉⵎ
 online: ⴳ ⵓⵣⵔⵉⴳ
 only: ⵖⵙ
@@ -2454,6 +2453,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
