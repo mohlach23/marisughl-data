@@ -210,6 +210,9 @@ develop	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⵉ	ⵙⵏⴼⵍⴰⵢ	Trans
 define	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⵍ	ⵙⵏⵎⴰⵍ	Trans	
 decide	ⵖⵜⵙ	ⵖⵜⵙ	ⵖⵜⵉⵙ	ⵖⵜⵜⵙ	Trans	
 create	ⵙⵏⵓⵍⴼⵓ	ⵙⵏⵓⵍⴼⵉ|ⵙⵏⵓⵍⴼⴰ	ⵙⵏⵓⵍⴼⵉ	ⵙⵏⵓⵍⴼⵓ	Trans	
+control ⴱⴰⴹ ⴱⴰⴹ ⴱⴰⴹ ⵜⵜⴱⴰⴹ  ⴳ
+command ⴱⴰⴹ ⴱⴰⴹ ⴱⴰⴹ ⵜⵜⴱⴰⴹ  ⴳ
+govern  ⵏⴱⴹ ⵏⴱⴹ ⵏⴱⴹ ⵜⵜⵏⴱⴰⴹ  ⴳ
 invent	ⵙⵏⵓⵍⴼⵓ	ⵙⵏⵓⵍⴼⵉ|ⵙⵏⵓⵍⴼⴰ	ⵙⵏⵓⵍⴼⵉ	ⵙⵏⵓⵍⴼⵓ	Trans	
 apply	ⵙⵏⵙ	ⵙⵏⵙ	ⵙⵏⵉⵙ	ⵙⵏⴰⵙ	Trans	
 answer	ⵔⴰⵔ	ⵔⵓⵔ	ⵔⵓⵔⵉ	ⵜⵜⵔⴰⵔⴰ	Intr	ⵖⴼ/ⵉ
@@ -364,6 +367,7 @@ I am thinking about = ⴰⵔ ⵙⵡⵉⵏⴳⵉⵎⵖ ⴳ. (we used 'ⴳ' with '
 If a verb is 'Intr' and we use 'ⵉ' with it and a pronoun came after it then we use Indirect object pronouns.
 Example:
 I called him. = ⵖⵔⵉⵖ ⴰⵙ. (ⵉ + ⵏⵜⵜⴰ = ⴰⵙ which is Indirect object pronoun)
+
 
 
 
