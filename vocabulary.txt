@@ -159,8 +159,8 @@ audio: ⴰⵎⵙⵍⴰⵡ
 auditeur: ⴰⵎⵙⵙⴼⵍⵉⴷ
 audition: ⵜⴰⵙⵍⴰ
 author: ⴰⵎⵙⴽⴰⵔ
-authorities: ⵜⵉⵏⴱⴰⴹⵉⵏ
-authority: ⵜⴰⵏⴱⴰⴹⵜ
+authorities: ⵉⴷⴰⴱⵓⵜⵏ
+authority: ⴰⴷⴰⴱⵓ
 authors: ⵉⵎⵙⴽⴰⵔⵏ
 automatic: ⴰⵡⵓⵔⵎⴰⵏ
 automatically: ⵙ ⵓⵡⵓⵔⵎⴰⵏ
@@ -389,6 +389,7 @@ comets: ⵜⵉⵎⵙⵔⵉⵡⵉⵏ
 comma: ⵜⵉⵙⴽⵔⵜ
 commas: ⵜⵉⵙⴽⵔⵉⵏ
 command: ⴰⵏⴰⴹ
+commands: ⴰⵏⴰⴹⵏ
 comment: ⴰⵖⴼⴰⵡⴰⵍ
 comments: ⵉⵖⴼⴰⵡⴰⵍⵏ
 common: ⵉⵙⵙⴰⵔⵏ
@@ -465,7 +466,7 @@ context: ⴰⵙⴰⵜⴰⵍ
 contexts: ⵉⵙⴰⵜⴰⵍⵏ
 continent: ⴰⵎⵏⵥⴰⵡ
 continents: ⵉⵎⵏⵥⴰⵡⵏ
-control: ⵜⴰⴱⴰⴹⵉⵜ
+control: ⴰⵏⴱⴰⴹ
 convert: ⵙⵏⴼⵍⵖⴰ
 converts: ⵉⵏⴼⵍⵖⴰ
 convolutional: ⴰⵎⵙⵉⵙⴰⵏ
@@ -937,6 +938,9 @@ gold: ⵓⵔⵖ
 good: ⵉⴼⵓⵍⴽⵉⵏ
 goodbye: ⴰⵔ ⵜⵉⵎⵏⵉⵍⵉⵜ
 Google: ⴳⵓⴳⵍ
+governance: ⵜⵉⵏⵏⵓⴱⴹⴰ
+government: ⵜⴰⵏⴱⴰⴹⵜ
+governor: ⴰⵏⴱⴱⴰⴹ
 gracefully: ⵙ ⵓⵙⵓⵔⴼ
 grain: ⴰⵇⵇⴰ
 grain: ⴰⵇⵇⴰⵢⵏ
@@ -2455,6 +2459,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
