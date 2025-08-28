@@ -1087,6 +1087,7 @@ infinite: ⴰⵔⴳⵉⵔⴰⵏ
 infinity: ⵜⴰⵔⴳⵉⵔⴰ
 influence: ⵉⵣⵔⵉⵔⵉⵏ
 information: ⵓⵎⵍⴰⵏ
+infrastructure: ⵜⴰⴷⵓⵥⴽⵉⵡⵜ
 inhabitance: ⵉⵎⵣⴷⴰⵖ
 inheritance: ⵜⴰⵢⵙⵉ
 initiation: ⴰⵙⵏⵜⵉ
@@ -2471,6 +2472,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
