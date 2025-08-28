@@ -330,6 +330,8 @@ characteristic: ⵜⴰⴼⵔⵉⵙⵜ
 characteristics: ⵜⵉⴼⵔⵉⵙⵉⵏ
 characters: ⵉⵙⴽⴽⵉⵍⵏ
 charge: ⵜⴰⵙⴽⵜⵔⵜ
+charger: ⴰⵎⵙⴽⵜⵔ
+charging: ⴰⵙⴽⵜⵔ
 cheek: ⴰⵎⴰⴷⵍ
 chemical: ⴰⴽⵔⵓⵔⴰⵏ
 chemistry: ⵜⴰⴽⵔⵓⵔⴰ
@@ -679,6 +681,7 @@ electromagnetic: ⴰⵍⵉⴽⵜⵕⵓⵎⵖⵏⴰⵟⵉⵙ
 electromagnetism: ⵜⴰⵍⵉⴽⵜⵕⵓⴷⴽⵉⵔⵜ
 electron: ⴰⵍⵉⴽⵜⵕⵓⵏ
 electrons: ⵉⵍⵉⴽⵜⵕⵓⵏⵏ
+elegant: ⴰⵎⵀⵢⴰⵔ
 element: ⴰⴼⵔⴷⵉⵙ
 elements: ⵉⴼⵔⴷⵉⵙⵏ
 elimination: ⴰⵙⵉⵜⵜⵉ
@@ -697,6 +700,7 @@ encoding: ⴰⵙⵏⴳⵍ
 encouragement: ⴰⵙⵙⴱⵖⵙ
 end: ⵜⵉⴳⵉⵔⴰ
 endless: ⵜⴰⵔⴳⵉⵔⴰ
+enemy: ⴰⵛⵏⴳⵓ
 energies: ⵜⵉⴼⴰⵙⴰⵜⵉⵏ
 energy: ⵜⴰⴼⴰⵙⴰ
 engine: ⴰⵏⵙⵎⴰⵙⵙⵓ
@@ -1645,6 +1649,8 @@ phone: ⵜⵉⵍⵉⴼⵓⵏ
 phonetics: ⵜⵉⵎⵙⵉⵙⵍⵉⵜ
 phonic: ⴰⵎⵙⵉⵙⵍⴰⵏ
 phonology: ⵜⴰⵙⵏⵎⵙⵍⵉⵜ
+photo: ⵜⴰⵡⵍⴰⴼⵜ
+photography: ⵜⴰⵙⴽⵏⴼⴰⵡⵜ
 photosynthesis: ⵜⴰⵙⵓⴷⴼⴰⵡⵜ
 phrase: ⵜⴰⵏⴼⴰⵍⵉⵜ
 phrases: ⵜⵉⵏⴼⴰⵍⵉⵢⵉⵏ
@@ -2352,6 +2358,7 @@ usage: ⴰⵙⵙⵎⵔⵙ
 used: ⵉⵜⵜⵓⵙⵙⵎⵔⴰⵙⵏ
 useful: ⵓⵎⵔⵉⵙ
 useless: ⴰⵔⵓⵎⵔⵉⵙ
+user: ⴰⵙⵎⵔⴰⵙ
 using: ⵙ ⵓⵙⵙⵎⵔⵙ
 vagina: ⵉⴱⵛⵛⵉ
 validity: ⵜⵉⵏⵏⵣⴳⵉⵜ
@@ -2464,26 +2471,6 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
-enemy: ⴰⵛⵏⴳⵓ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
