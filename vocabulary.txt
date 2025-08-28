@@ -638,6 +638,7 @@ each: ⴽⵓ
 eagle: ⵉⴳⵉⴷⵔ
 ear: ⴰⵎⵥⵥⵓⵖ
 early: ⵣⵉⴽⴽ
+earphone: ⵜⵉⵙⵉⵙⵍⵉⵜ
 ears: ⵉⵎⵣⴳⴰⵏ
 earth: ⴰⴽⴰⵍ
 earthquake: ⴰⵏⴷⵓⴷⵉ ⵏ ⵡⴰⴽⴰⵍ
@@ -2041,6 +2042,7 @@ small: ⴰⵎⵥⵢⴰⵏ
 smaller: ⴰⵎⵥⵢⴰⵏ
 smallest: ⴰⴽⴽⵯ ⵉⴳⴰⵏ ⴰⵎⵥⵢⴰⵏ
 smart: ⴰⵎⵉⵖⵉⵙ
+smartphone: ⴰⵜⵉⵍⵉⴼⵓⵏ ⴰⵎⵉⵖⵉⵙ
 snake: ⵉⴼⵉⵖⵔ
 social: ⴰⵏⴰⵎⵓⵏ
 society: ⴰⵎⵓⵏ
@@ -2463,6 +2465,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
