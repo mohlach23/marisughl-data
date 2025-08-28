@@ -1819,6 +1819,7 @@ reality: ⵜⵉⵍⴰⵡⵜ
 realization: ⴰⵙⵙⵉⵍⵉ
 really: ⵏⵉⵜ
 reason: ⴰⵙⵔⴰⴳ
+reasonable: ⴰⵎⵏⵍⵍⵉ
 reasons: ⵉⵙⵔⴰⴳⵏ
 recepter: ⴰⵎⴰⵟⵟⴰⴼ
 reception: ⵓⴹⵓⴼ
@@ -2459,6 +2460,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
