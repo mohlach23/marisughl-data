@@ -1723,6 +1723,7 @@ presentation: ⴰⵙⵏⴽⴷ
 pressure: ⴰⴷⴷⴰⵔ
 preview: ⵜⴰⵙⴽⴰⵏⵜ
 prevision: ⴰⴹⴽⴰⴹ
+price(s): ⴰⵜⵉⴳ(ⵏ)
 primary: ⴰⵎⵏⵣⴰⵢ
 principal: ⴰⵙⵉⵍⴰⵏ
 principle: ⴰⵎⵏⵣⴰⵢ
@@ -2022,6 +2023,8 @@ situation: ⴰⵙⵓⵔⵙ
 situations: ⵉⵙⵓⵔⴰⵙ
 seven: ⵙⴰ
 seventy: ⵙⴰⵎⵔⴰⵡ
+sight: ⵉⵥⵕⵉ
+sign: ⵜⴰⵎⴰⵜⴰⵔⵜ
 six: ⵚⴹⵉⵚ
 sixty: ⵙⴹⵉⵎⵔⴰⵡ
 size: ⵜⵉⴷⴷⵉ
@@ -2460,6 +2463,7 @@ yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
 enemy: ⴰⵛⵏⴳⵓ
+
 
 
 
