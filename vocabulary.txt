@@ -1702,6 +1702,7 @@ polymorphism: ⵜⴰⴳⵜⴰⵍⵖⴰ
 pond: ⴰⵎⴷⴰ
 popular: ⴰⵖⵔⴼⴰⵏ
 porcupine: ⴰⵔⵓⵢ
+portable: ⵉⵜⵜⵢⴰⵙⴰⵢⵏ
 portfolio: ⴰⵙⴷⴰⵡ ⵏ ⵜⵙⵓⴳⴰⵔ
 portfolios: ⵉⵙⴷⴰⵡⵏ ⵏ ⵜⵙⵓⴳⴰⵔ
 positive: ⵓⵎⵏⵉⴳ
@@ -2472,6 +2473,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
