@@ -1435,6 +1435,7 @@ mutations: ⵜⵉⴹⵕⵎⵉⵙⵉⵏ
 my: ⵉⵏⵓ
 mysterious: ⵉⵎⴷⵔⴳ
 myth: ⵓⵎⵉⵢ
+naivety: ⵜⴰⴱⵓⵊⴰⴷⵉⵜ
 name: ⵉⵙⵎ
 nanotechnologies: ⵜⴰⵏⴰⵏⵓⵙⵏⵜⵡⵉⵍⵉⵏ
 nanotechnology: ⵜⴰⵏⴰⵏⵓⵙⵏⵜⵡⵉⵍⵜ
@@ -1885,6 +1886,7 @@ response: ⵜⴰⵔⴰⵔⵉⵜ
 responses: ⵜⵉⵔⴰⵔⵉⵜⵉⵏ
 responsible: ⴰⵎⴰⵖⵍⴰⴼ
 responsive: ⴰⵎⵔⴰⵔⴰⵏ
+restaurant: ⴰⵙⴰⵛⵛⵓ
 restriction: ⴰⵙⵏⵢⵓⵎⵓ
 result: ⵜⴰⵢⴰⴼⵓⵜ
 results: ⵜⵉⵢⴰⴼⵓⵜⵉⵏ
@@ -1893,7 +1895,7 @@ reusable: ⵜⴰⵍⵙⵎⵔⴰⵙⵜ
 revolution: ⵜⴰⴳⵔⴰⵡⵍⴰ
 reward: ⴰⵎⵔⴽⵉⴷ
 rewards: ⵉⵎⵔⴽⵉⴷⵏ
-rhythm: ⴰⵏⵢⴰ
+rhythm: ⴰⵏⵢⴰⵉ
 rich: ⴰⵏⴱⵖⵓⵔ
 richness: ⵜⴰⴱⵖⵔⵜ
 riddle: ⵜⴰⵎⵙⴼⵔⵓⵜ
@@ -2092,6 +2094,7 @@ sports: ⵜⵓⵏⵏⵓⵏⵉⵏ
 spring: ⵜⴰⴼⵙⵓⵜ
 square: ⴰⵎⴽⴽⵓⵥ
 squares: ⵉⵎⴽⴽⵓⵥⵏ
+snail: ⴱⵓⵊⵖⵍⴰⵍ
 stability: ⵜⵉⵣⴳⵉ
 stable: ⵉⵎⵣⴳⵉ
 stadium: ⴰⵙⵓⵔⴰⵔ
@@ -2473,6 +2476,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
