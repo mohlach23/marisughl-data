@@ -14,7 +14,7 @@ accelerators: ⵉⵎⵙⵉⵎⵎⴰⵔ
 access: ⴰⴷⴷⴰⴼ
 account: ⴰⵎⵉⴹⴰⵏ
 accounts: ⵉⵎⵉⴹⴰⵏⵏ
-accuracy: ⵜⵉⵙⴷⴷⵉ
+accuracy: ⴰⵏⵖⴰⴷ
 acid: ⴰⵙⵎⵎⴰⵎ
 acids: ⵉⵙⵎⵎⴰⵎⵏ
 action: ⵜⵉⴳⴰⵡⵜ
@@ -768,7 +768,7 @@ exploitation: ⴰⵙⵎⴰⵀⵍ
 exploration: ⵉⵏⵉⴳ
 explorations: ⵉⵏⵉⴳⵏ
 exploring: ⵉⵏⵉⴳ
-exponential: ⴰⵙⵓⵣⵎⵉⵔ
+exponential: ⴰⵙⵏⵏⴼⵙⴰⵔ
 expression: ⵜⴰⵏⴼⴰⵍⵉⵜ
 expressions: ⵜⵉⵏⴼⴰⵍⵉⵢⵉⵏ
 extended: ⵉⵜⵜⵓⵥⵥⴰⵍⵏ
@@ -1702,6 +1702,7 @@ pollution: ⵜⵉⵎⵔⴽⵉⵜ
 polymorphism: ⵜⴰⴳⵜⴰⵍⵖⴰ
 pond: ⴰⵎⴷⴰ
 popular: ⴰⵖⵔⴼⴰⵏ
+population: ⵜⴰⵎⵣⴷⵓⵖⵜ
 porcupine: ⴰⵔⵓⵢ
 portable: ⵉⵜⵜⵢⴰⵙⴰⵢⵏ
 portfolio: ⴰⵙⴷⴰⵡ ⵏ ⵜⵙⵓⴳⴰⵔ
@@ -2476,6 +2477,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
