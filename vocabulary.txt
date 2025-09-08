@@ -19,11 +19,13 @@ acid: ⴰⵙⵎⵎⴰⵎ
 acids: ⵉⵙⵎⵎⴰⵎⵏ
 action: ⵜⵉⴳⴰⵡⵜ
 actions: ⵜⵉⴳⴰⵡⵉⵏ
-activation: ⴰⵙⵔⵎⴷ
-activities: ⵉⵔⵎⵓⴷⵏ
-activity: ⴰⵔⵎⵓⴷ
-adaptation: ⴰⵙⵙⵣⴳⵉ
-adapter: ⴰⵎⵙⵙⵣⴳⵉ
+active: ⵓⵥⵡⵉⵕ
+activation: ⴰⵥⵉⵥⵡⵕ
+activist: ⵓⵥⵡⵉⵕ
+activities: ⵉⵥⵡⴰⵕⵏ
+activity: ⴰⵥⵡⴰⵕ
+adaptation: ⴰⵙⵎⵢⴰⵣⴳⴰ
+adapter: ⴰⵎⵙⵎⵢⴰⵣⴳⴰ
 addition: ⴰⵙⵎⵔⵏⵉ
 additional: ⴰⵎⵔⵏⴰⵡ
 additivity: ⵜⴰⵎⵔⵏⴰ
@@ -1115,12 +1117,13 @@ instructions: ⵜⴰⵏⴰⴹⵉⵏ
 instrument: ⴰⵍⵍⴰⵍ
 insufficient: ⴰⵔⵎⵓⴷⵉ
 insufficiently: ⵙ ⵓⵔⵎⵓⴷⵉ
+integral: ⴰⵎⵖⵔⵓⴷ
 integration: ⴰⵙⵉⴷⴼ
-intellectual: ⴰⵎⴰⴳⴳⴰⴳ
+intellectual: ⴰⵎⴷⵍⴰⵙ, ⴰⵎⵙⵡⵉⵏⴳⵎ
 intellectuals: ⵉⵎⴷⵍⴰⵙⵏ
 intelligence: ⵜⵉⵖⵉⵙⵜ
 intelligent: ⴰⵎⵉⵖⵉⵙ
-intensity: ⵜⵉⴽⵔⵥⵉ
+intensity: ⵜⵉⴽⵕⵥⵉ
 interaction: ⴰⵎⵢⴰⴳⴳⴰ
 interactions: ⵉⵎⵢⴰⴳⴳⴰⵜⵏ
 interactive: ⴰⵏⵎⵢⴰⴳⴳⴰ
@@ -1147,6 +1150,8 @@ invention: ⴰⵙⵏⵓⵍⴼⵓ
 inventions: ⵉⵙⵏⵓⵍⴼⵓⵜⵏ
 investing: ⴰⵙⵙⴰⵔⵡ
 investment: ⴰⵙⵙⴰⵔⵡ
+implication: ⴰⵙⵙⵓⵖⵏ
+important: ⴰⵣⴰⵍⴰⵏ
 iron: ⵓⵣⵣⴰⵍ
 irregular: ⴰⵔⵍⵓⴳⵏⴰⵏ
 island: ⵜⴰⴳⵣⵉⵔⵜ
@@ -2483,6 +2488,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
