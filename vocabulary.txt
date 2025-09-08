@@ -326,8 +326,8 @@ chapter: ⵜⴰⴳⵟⵟⵓⵎⵜ
 chapter: ⵜⴰⴳⵣⵣⵓⵎⵜ
 chapters: ⵜⵉⴳⵟⵟⵓⵎⵉⵏ
 character: ⴰⵙⴽⴽⵉⵍ
-characteristic: ⵜⴰⴼⵔⵉⵙⵜ
-characteristics: ⵜⵉⴼⵔⵉⵙⵉⵏ
+characteristic: ⵜⴰⵎⵙⵖⴰⵔⴰ
+characteristics: ⵜⵉⵎⵙⵖⴰⵔⴰⵜⵉⵏ
 characters: ⵉⵙⴽⴽⵉⵍⵏ
 charge: ⵜⴰⵙⴽⵜⵔⵜ
 charger: ⴰⵎⵙⴽⵜⵔ
@@ -619,6 +619,7 @@ documentation: ⴰⵙⵏⵜⵎ
 documented: ⵓⵏⵜⵉⵎ
 documents: ⵜⵉⵏⵜⴰⵎⵉⵏ
 dog: ⴰⵢⴷⵉ
+dogma: ⵜⴰⴷⵎⵎⴰⵡⵜ
 dogs: ⵉⵢⴷⴰⵏ
 donkey: ⴰⵖⵢⵓⵍ
 door: ⵜⴰⴳⴳⵓⵔⵜ
@@ -1333,9 +1334,9 @@ metaphysics: ⵜⴰⴼⵔⴳⴰⵎⴰ
 metathesis: ⵜⵉⵎⵍⴻⵍⵍⵉⵜ
 meteor: ⴰⵣⵔⵉⵜ
 meteors: ⵉⵣⵔⵉⵜⵏ
-method: ⵜⴰⴱⵔⵉⴷⵜ
-methodology: ⵜⴰⵙⵏⴱⵔⵉⴷⵜ
-methods: ⵜⵉⴱⵔⵉⴷⵉⵏ
+method: ⵜⴰⵖⴰⵔⴰⵙⵜ
+methodology: ⵜⴰⴱⵔⵉⴷⵜ
+methods: ⵜⵉⵖⴰⵔⴰⵙⵉⵏ
 metonymy: ⵜⴰⵢⴹⵉⵙⵎ
 metrology: ⵜⴰⵙⵏⵙⵖⵉⵍⵜ
 mice: ⵉⵖⵔⴷⴰⵢⵏ
@@ -1598,8 +1599,8 @@ paragraph: ⵜⴰⵙⴷⴷⴰⵔⵜ
 parallel: ⴰⵏⵎⵙⴰⴷⴰⵖ
 parent: ⴰⵎⴰⵔⴰⵡ
 parents: ⵉⵎⴰⵔⴰⵡⵏ
-parser: ⴰⵎⵙⵍⴰⴹ
-parsing: ⴰⵙⵍⴰⴹ
+parser: ⴰⵎⵚⵍⴰⴹ
+parsing: ⴰⵚⵍⴰⴹ
 part: ⴰⴳⵣⵣⵓⵎ
 particle: ⴰⴼⴽⴽⵉⵡ
 particles: ⵉⴼⴽⴽⵉⵡⵏ
@@ -1639,7 +1640,7 @@ periodic: ⴰⵡⴰⵍⴰⵏ
 permission: ⴰⵜⵔⵓⴳ
 permissions: ⵉⵜⵔⵓⴳⵏ
 person: ⵓⴳⴳⵉⴷ
-personal: ⴰⵏⵉⵎⴰⵏ
+personal: ⵓⴷⵎⴰⵡⴰⵏ
 personality: ⵜⵉⵡⵡⵓⵔⴽⴰ
 perception: ⴰⵎⵏⵉⴷ
 pharmacy: ⵜⴰⵙⴰⵙⴼⵔⵜ
@@ -1776,7 +1777,7 @@ proof: ⴰⵏⵥⴰ
 proofs: ⴰⵏⵥⴰⵜⵏ
 propagation: ⴰⵏⴼⵓⴼⴷ
 properties: ⵜⵉⵙⴼⵍⵙⵉⵏ
-property: ⵜⴰⵙⴼⵍⵙⵜ
+property: ⵜⴰⴼⵔⵉⵙⵜ
 proportionality: ⴰⵎⵢⴰⵙⴰⵖ
 protein: ⴰⴼⵕⵓⵟⵉⵏ
 proteins: ⵉⴼⵕⵓⵟⵉⵏⵏ
@@ -1977,6 +1978,7 @@ sender: ⴰⵎⵙⵙⵉⴼⴹ
 sense: ⵜⴰⵙⴼⵔⴽⵜ
 sensing: ⵜⵉⴼⴼⵓⵔⴽⴰ
 sensitivity: ⵜⵉⴼⴼⵓⵔⴽⴰ
+sensor: ⴰⵏⴰⵟⵟⴰⴼ
 sensory: ⴰⴼⵔⵢⴰⵏ
 sentence: ⵜⴰⵡⵉⵏⵙⵜ
 sentences: ⵜⵉⵡⵉⵏⴰⵙ
@@ -1999,7 +2001,9 @@ shapes: ⵜⵉⵡⵉⵍⴰⵡⵉⵏ
 share: ⴷⵔⵓ
 shared: ⵉⵜⵜⵓⴷⵔⴰⵏ
 she: ⵏⵜⵜⴰⵜ
-sheep: ⴰⴽⵔⴰⵔ
+sheep(group): ⵓⵍⵍⵉ
+sheep(sing. fem): ⵜⵉⵍⵉ
+sheep(sing. mas): ⵉⵣⵉⵎⵔ
 sheet: ⵜⵉⴼⵔⵜ
 sheets: ⵜⵉⴼⵔⵜⵉⵏ
 shepherd: ⴰⵎⴽⵙⴰ
@@ -2259,6 +2263,7 @@ there: ⵖⵉⵏⵏ
 therefore: ⵉⵍⵎⵎⴰ
 thermodynamics: ⵜⴰⵣⵖⵍⵎⵓⵙⵙⵓⵜ
 these: ⵡⵉⴷ
+thesis: ⵜⵓⵙⵔⵉⵙⵜ
 they: ⵏⵜⵜⵏⵉ
 thick: ⴰⵣⵓⵔⴰⵏ
 thigh: ⵜⴰⵖⵎⴰ
@@ -2478,6 +2483,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
