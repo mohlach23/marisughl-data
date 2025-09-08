@@ -1594,6 +1594,7 @@ pants: ⴰⴽⵔⴱⴰⵢ
 paper: ⴰⴼⵔⴽⵓⴽ
 paradigm: ⴰⵎⵖⴰⵡⴰⵍ
 paradigms: ⵉⵎⵖⴰⵡⴰⵍⵏ
+paragraph: ⵜⴰⵙⴷⴷⴰⵔⵜ
 parallel: ⴰⵏⵎⵙⴰⴷⴰⵖ
 parent: ⴰⵎⴰⵔⴰⵡ
 parents: ⵉⵎⴰⵔⴰⵡⵏ
@@ -2477,6 +2478,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
