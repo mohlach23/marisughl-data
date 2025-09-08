@@ -440,7 +440,8 @@ condition: ⵜⴰⴼⴰⴷⴰ
 conditional: ⴰⴼⴰⴷⴰⵏ
 conditionals: ⵉⴼⴰⴷⴰⵏⵏ
 conditions: ⵜⵉⴼⴰⴷⵉⵡⵉⵏ
-conduction: ⴰⵡⵡⴰⵢ
+conduction: ⴰⵣⵣⵔⴰⵢ
+conductor: ⴰⵎⵣⵣⵔⴰⵢ
 conference: ⵜⵉⵏⴰⵡⵜ
 configuration: ⴰⵙⵡⵍ
 conflict: ⴰⵎⵏⵣⴰⵖ
@@ -468,11 +469,10 @@ content: ⵜⵓⵎⴰⵢⵜ
 contents: ⵜⵓⵎⴰⵢⵉⵏ
 context: ⴰⵙⴰⵜⴰⵍ
 contexts: ⵉⵙⴰⵜⴰⵍⵏ
+contextual: ⴰⵡⵙⴰⵜⴰⵍ
 continent: ⴰⵎⵏⵥⴰⵡ
 continents: ⵉⵎⵏⵥⴰⵡⵏ
 control: ⴰⵏⴱⴰⴹ
-convert: ⵙⵏⴼⵍⵖⴰ
-converts: ⵉⵏⴼⵍⵖⴰ
 convolutional: ⴰⵎⵙⵉⵙⴰⵏ
 cool: ⵉⵥⵉⵍⵏ
 copy: ⵙⵙⵏⵖⵍ
@@ -492,6 +492,7 @@ couple: ⵜⴰⵢⵓⴳⴰ
 course: ⵜⴰⵙⵓⵜⵍⵜ
 courses: ⵜⵉⵙⵓⵜⴰⵍ
 cow: ⵜⴰⴼⵓⵏⴰⵙⵜ
+current(courant): ⴰⵎⴰⵣⵣⵍ
 crazy: ⴰⵏⴰⴼⴰⵍ
 creation: ⴰⵙⵏⵓⵍⴼⵓ
 creative: ⴰⵎⵙⵏⵓⵍⴼⵓ
@@ -1295,6 +1296,7 @@ management: ⴰⵙⵡⵓⴷⴷⵓ
 manifestation: ⵜⴰⵎⵙⴽⴰⵏⵜ
 manifold: ⴰⵎⵙⴳⵔⵓ
 manipulation: ⴰⵙⵎⵙⵓⵔⴰⵔ
+manual: ⴰⵡⴼⵓⵙ
 many: ⵎⵏⵏⴰⵡ
 march: ⵎⴰⵕⵚ
 marginalization: ⴰⵙⵙⵉⵏⴼ
@@ -1473,8 +1475,8 @@ neuron: ⵜⴰⵖⵔⴰⵙⵜ ⵜⴰⵏⵣⵍⵓⵎⵜ
 neurons: ⵜⵉⵖⵔⴰⵙⵉⵏ ⵜⵉⵏⵣⵍⵓⵎⵉⵏ
 neutral: ⴰⵔⴰⵡⵙⴰⵏ
 neutrality: ⵜⴰⵔⴰⵡⵙⵉⵜ
-neutron: ⴰⵏⵢⵓⵜⵕⵓⵏ
-neutrons: ⵉⵏⵢⵓⵜⵕⵓⵏⵏ
+neutron: ⴰⵏⵓⵟⵕⵓⵏ
+neutrons: ⵉⵏⵓⵟⵕⵓⵏⵏ
 new: ⴰⵎⴰⵢⵏⵓ
 news: ⵉⵏⵖⵎⵉⵙⵏ
 newspaper: ⴰⵖⵎⵉⵙ
@@ -1801,7 +1803,8 @@ purpose: ⴰⵙⴰⵖⴷ
 pursuit: ⴰⴹⴼⴼⵓⵕ
 pyramid: ⴰⵣⴰⵎⵓⴳ
 pyramids: ⵉⵣⴰⵎⵓⴳⵏ
-python: pⵢⵜⵀoⵏ
+python: ⴱⴰⵢⵟⵓⵏ
+qualitative: ⴰⵖⴰⵔⴰⵏ
 qualities: ⵜⵉⵖⴰⵔⵉⵡⵉⵏ
 quality: ⵜⴰⵖⴰⵔⴰ
 quantifiable: ⴰⵣⵎⵔⵙⴽⵜⴰⵏ
@@ -2488,6 +2491,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
