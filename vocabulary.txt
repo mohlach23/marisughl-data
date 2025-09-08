@@ -578,8 +578,8 @@ differently: ⵙ ⵓⵎⵣⴰⵔⴰⵢ
 difficult: ⵉⵎⵔⴰⵏ
 difficulty: ⵜⴰⵎⴰⵔⴰ
 diffusion: ⵜⴰⵏⵣⵡⵉⵜ
-digit: ⴰⵣⵡⵉⵍ
-digits: ⵉⵣⵡⵉⵍⵏ
+digit: ⵉⵣⵡⵍ
+digits: ⵉⵣⵡⴰⵍ
 dignity: ⴰⴳⵎⵎⵉⵔ
 dimension: ⵜⴰⵙⴽⵜⴰ
 dimensional: ⴰⵙⴽⵜⴰⵏ
@@ -2483,6 +2483,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
