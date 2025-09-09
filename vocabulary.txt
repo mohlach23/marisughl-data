@@ -170,6 +170,7 @@ autumn: ⴰⵎⵡⴰⵏ
 auxiliary: ⴰⵎⴰⵡⴰⵙ
 available: ⴰⵢⵍⵍⴰⵏ
 awareness: ⴰⴽⴰⵣ
+axial: ⴰⵡⴳⵍⵍⵓⵙ
 back: ⵜⴰⴷⴰⵡⵜ
 background: ⵜⴰⴼⵔⴳⵯⵏⵉⵜ
 backgrounds: ⵜⵉⴼⵔⴳⵯⵏⵉⵢⵉⵏ
@@ -475,6 +476,7 @@ continents: ⵉⵎⵏⵥⴰⵡⵏ
 control: ⴰⵏⴱⴰⴹ
 convolutional: ⴰⵎⵙⵉⵙⴰⵏ
 cool: ⵉⵥⵉⵍⵏ
+coordinates: ⵉⵎⵙⵉⴷⴰⴳⵏ
 copy: ⵙⵙⵏⵖⵍ
 core: ⴰⵖⵢⴰⵢ
 corn: ⴰⵇⵇⴰⵢⵏ
@@ -531,7 +533,6 @@ deeper: ⵉⵏⵖⴱⵉ
 defeat: ⴰⵜⵜⵡⴰⵔⵏⵓ
 defender: ⴰⵏⵎⵣⴰⵖ
 defenders: ⵉⵏⵎⵣⴰⵖⵏ
-define: ⵙⵏⵎⵍ
 definition: ⴰⵙⵏⵎⵍ
 definitely: ⵏⵏⵉⵛⴰⵏ
 deform: ⵙⵍⵓⵅⵛⵓ
@@ -564,6 +565,7 @@ developer: ⴰⵎⵙⵏⴼⵍⵉ
 developers: ⵉⵎⵙⵏⴼⵍⵉⵢⵏ
 developing: ⴰⵙⵏⴼⵍⵉ
 development: ⵜⴰⵏⴼⵍⵉⵜ
+development (math): ⴰⵙⵏⴼⵍⵉ
 device: ⴰⵍⵍⴰⵍ
 devices: ⴰⵍⵍⴰⵍⵏ
 diabetic: ⴰⵎⴰⴹⵓⵏ ⵏ ⵓⵙⴽⴽⵯⴰⵔ
@@ -761,6 +763,7 @@ execution: ⴰⵣⵣⴳⵉⵔ
 exercise: ⴰⵍⴰⵖⵎⵓ
 exercises: ⵉⵍⵓⵖⵎⴰ
 existence: ⵜⵉⵍⵍⵉⵜ
+existential: ⴰⵎⵙⵉⵍⴰⵡ
 expected: ⵜⵜⵓⴹⴽⴰⴹ
 experience: ⵜⵓⵔⵎⵉⵜ
 experiences: ⵜⵓⵔⵎⵉⵢⵉⵏ
@@ -1584,7 +1587,8 @@ origin: ⴰⵙⴰⵍⴰ
 original: ⴰⵙⴰⵍⴰⵏ
 origins: ⵉⵙⴰⵍⴰⵜⵏ
 orthogonal: ⴰⴱⴷⴷⴰⵢ
-other: ⵢⴰⴹⵏ
+orthogonality: ⴰⵎⵙⴱⴷⴰⴷ
+other [...]: [...] ⵢⴰⴹⵏⵉⵏ
 others: ⵡⵉⵢⵢⴰⴹ
 otherwise: ⵎⴽ ⵓⵀⵓ
 our: ⵏⵏⵖ
@@ -1604,6 +1608,7 @@ paradigm: ⴰⵎⵖⴰⵡⴰⵍ
 paradigms: ⵉⵎⵖⴰⵡⴰⵍⵏ
 paragraph: ⵜⴰⵙⴷⴷⴰⵔⵜ
 parallel: ⴰⵏⵎⵙⴰⴷⴰⵖ
+parallelism: ⴰⵎⵙⴰⴷⴰⵖ
 parent: ⴰⵎⴰⵔⴰⵡ
 parents: ⵉⵎⴰⵔⴰⵡⵏ
 parser: ⴰⵎⵚⵍⴰⴹ
@@ -1808,6 +1813,7 @@ qualitative: ⴰⵖⴰⵔⴰⵏ
 qualities: ⵜⵉⵖⴰⵔⵉⵡⵉⵏ
 quality: ⵜⴰⵖⴰⵔⴰ
 quantifiable: ⴰⵣⵎⵔⵙⴽⵜⴰⵏ
+quantifier: ⴰⵏⵙⵎⴽⵜⴰ
 quantities: ⵜⵉⵙⵎⴽⵜⴰⵡⵉⵏ
 quantity: ⵜⴰⵙⵎⴽⵜⴰ
 quantum: ⵜⴰⴽⵡⴰⵏⵟⵉⵜ
@@ -1991,10 +1997,9 @@ sensory: ⴰⴼⵔⵢⴰⵏ
 sentence: ⵜⴰⵡⵉⵏⵙⵜ
 sentences: ⵜⵉⵡⵉⵏⴰⵙ
 sequence: ⵜⴰⴳⵣⵣⵓⵎⵜ
-sequence: ⵜⴰⵏⴳⵣⵓⵎⵜ
-sequence: ⵜⴰⵏⴳⵣⵓⵎⵜ
-sequences: ⵜⵉⵏⴳⵣⵓⵎⵉⵏ
-sequential: ⴰⵏⵓⴳⵣⵉⵎ
+sequence (suite, math): ⵜⴰⵎⵙⴹⴼⵕⵜ
+sequences: ⵜⵉⴳⵣⵎⵉⵏ
+sequential: ⴰⵎⵙⴷⴷⵉ
 series: ⵉⵙⴷⴷⵉⵜⵏ
 service: ⵜⴰⵏⴰⴼⵓⵜ
 services: ⵜⵉⵏⵓⴼⴰ
@@ -2202,6 +2207,7 @@ sweet: ⴰⵥⵉⴷⴰⵏ
 sword: ⴰⴳⵙⵜⵓⵔ
 symbol: ⵉⵏⵉⴳⵍ
 symbols: ⵉⵏⴰⴳⵍⵉⵡⵏ
+symmetry: ⵜⴰⵣⵓⵢⵉ
 symptom: ⴰⵙⴽⵏ
 symptoms: ⵉⵙⴽⵏⴰ
 synchronising: ⴰⵎⵢⴰⴽⵓⴷ
@@ -2329,6 +2335,7 @@ trajectory: ⴰⵙⴰⴽⴰ
 transcription: ⴰⵙⴻⵙⴽⵍ
 transformation: ⵜⴰⵏⴼⵍⴰⵍⵖⴰ
 transformations: ⵜⵉⵏⴼⵍⴰⵍⵖⵉⵡⵉⵏ
+translation (geometry): ⴰⵙⵉⴽⵎⵉⵔ
 translation: ⴰⵙⵓⵖⵍ
 translations: ⵜⵉⵙⵓⵖⴰⵍ
 translator: ⴰⵎⵙⵓⵖⵍ
@@ -2491,6 +2498,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
