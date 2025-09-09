@@ -1,11 +1,13 @@
 DNA: ⵙⵎⴽ
-English:  ⵜⴰⵏⴳⵍⵉⵣⵜ
+English:  ⵜⵉⵏⴳⵍⵉⵣⵜ
 Maris: ⵎⴰⵔⵉⵙ
 Marisughl:  ⵎⴰⵔⵉⵙⵓⵖⵍ
 Mohamed:  ⵎⵓⵃⵎⵎⴰⴷ
 abilities:  ⵜⵉⵣⵎⵎⴰⵔ
 ability:  ⵜⴰⵣⵎⵔⵜ
 about:  ⵖⴼ
+abscissa: ⵓⴳⵣⵉⵎ
+abscissas: ⵓⴳⵣⵉⵎⵏ
 absolutely: ⵏⵉⵜ
 abstract: ⴰⵎⴷⵡⴰⵏ
 acceleration: ⴰⵏⵉⵎⵎⵔ
@@ -495,6 +497,7 @@ course: ⵜⴰⵙⵓⵜⵍⵜ
 courses: ⵜⵉⵙⵓⵜⴰⵍ
 cow: ⵜⴰⴼⵓⵏⴰⵙⵜ
 current(courant): ⴰⵎⴰⵣⵣⵍ
+Curvilinear: ⴰⴽⵏⵓⵣⵔⵉⴳ
 crazy: ⴰⵏⴰⴼⴰⵍ
 creation: ⴰⵙⵏⵓⵍⴼⵓ
 creative: ⴰⵎⵙⵏⵓⵍⴼⵓ
@@ -790,6 +793,7 @@ facebook: ⴼⴰⵢⵙⴱⵓⴽ
 faculty: ⵜⴰⵖⵉⵡⴰⵏⵜ
 fact: ⵉⵎⵊⵕⵉ
 factor: ⴰⵎⵙⴽⴰⵔ
+factorization: ⴰⵙⵎⵙⴽⵔ
 factors: ⵉⵎⵙⴽⴰⵔⵏ
 facts: ⵉⵎⵊⵕⵉⵜⵏ
 fake: ⵓⵔⵊⵉⵏ
@@ -1152,6 +1156,7 @@ introduction: ⵜⴰⵏⴽⴷⴰ
 intuition: ⴰⴽⴰⵣ
 invention: ⴰⵙⵏⵓⵍⴼⵓ
 inventions: ⵉⵙⵏⵓⵍⴼⵓⵜⵏ
+inverse: ⴰⵏⵡⴷⵉⵎ
 investing: ⴰⵙⵙⴰⵔⵡ
 investment: ⴰⵙⵙⴰⵔⵡ
 implication: ⴰⵙⵙⵓⵖⵏ
@@ -1311,7 +1316,7 @@ mass: ⵜⴰⵙⴰⴽⴰⵢⵜ
 math: ⵜⵓⵙⵏⴰⴽⵜ
 mathematical: ⴰⵙⵏⴰⴽⵜⴰⵏ
 mathematics: ⵜⵓⵙⵏⴰⴽⵜ
-matrix: ⵉⵙⵉⵔⵡ
+matrix: ⵜⴰⵙⴰⵔⵡⵜ
 matter: ⵜⴰⵏⴳⴰ
 maybe: ⵢⴰⵍⵍⴼⵓⵙ
 meaning: ⴰⵏⴰⵎⴽ
@@ -2400,7 +2405,9 @@ variety: ⵜⴰⵎⵣⴰⵔⴰⵢⵜ
 various: ⵎⵏⵏⴰⵡ
 vast: ⴰⵎⵉⵔⵉⵡ
 vector: ⴰⵎⴰⵡⴰⵢ
+vectorial: ⴰⵎⴰⵡⵢⴰⵏ
 vectors: ⵉⵎⴰⵡⴰⵢⵏ
+vehicle: ⵜⴰⵎⵙⵙⵓⴷⵓⵜ
 velocity: ⵜⵉⵎⵎⵔⵉ
 venus: ⴰⵎⴰⴹⴰⵏ
 verification: ⴰⵙⵙⵉⴷⵜ
@@ -2411,7 +2418,6 @@ versions: ⵜⵓⵏⵖⵉⵍⵉⵏ
 very: ⴱⴰⵀⵔⴰ
 vibration: ⴰⵏⴷⵓⴷⵉ
 vibrations: ⵉⵏⴷⵓⴷⵉⵢⵏ
-vehicle: ⵜⴰⵎⵙⵙⵓⴷⵓⵜ
 video: ⴰⴼⵉⴷⵢⵓ
 videos: ⵉⴼⵉⴷⵢⵓⵜⵏ
 village: ⴰⵙⵓⵏ
@@ -2424,6 +2430,7 @@ vocabulary: ⵜⴰⵏⵙⵉⵡⴰⵍⵜ
 voice: ⵉⵎⵙⵍⵉ
 void: ⵜⵓⴳⴰⵡⵜ
 voids: ⵜⵓⴳⴰⵡⵉⵏ
+vs.: ⵎⴳⴰⵍ
 wall: ⴰⵖⵔⴰⴱ
 walls: ⵉⵖⵔⴱⴰⵏ
 war: ⵉⵎⵏⵖⵉ
@@ -2498,6 +2505,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
