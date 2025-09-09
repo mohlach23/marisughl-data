@@ -115,7 +115,7 @@ area: ⵜⴰⵊⵓⵎⵎⴰ
 areas: ⵜⵉⵊⵓⵎⵎⴰⵡⵉⵏ
 argument: ⵜⵉⵖⵉⵔⵜ
 arguments: ⵜⵉⵖⵉⵔⵉⵏ
-arithmetic: ⵜⴰⵙⵏⵎⴹⴰⵏⵜ
+arithmetic (adj): ⴰⵙⵏⵎⴹⴰⵏ
 arm: ⵉⵖⵉⵔ
 arms: ⵉⵖⴰⵔⵉⵡⵏ
 array: ⵜⴰⴼⵍⵡⵉⵜ
@@ -173,6 +173,8 @@ auxiliary: ⴰⵎⴰⵡⴰⵙ
 available: ⴰⵢⵍⵍⴰⵏ
 awareness: ⴰⴽⴰⵣ
 axial: ⴰⵡⴳⵍⵍⵓⵙ
+axis: ⴰⴳⵍⵍⵓⵙ
+axiom: ⵜⵉⵎⴷⴳⴳⵉⵜ
 back: ⵜⴰⴷⴰⵡⵜ
 background: ⵜⴰⴼⵔⴳⵯⵏⵉⵜ
 backgrounds: ⵜⵉⴼⵔⴳⵯⵏⵉⵢⵉⵏ
@@ -531,18 +533,20 @@ decimal: ⴰⵏⵎⵔⴰⵡ
 decision: ⵜⴰⵖⵜⴰⵙⵜ
 decisions: ⵜⵉⵖⵜⴰⵙⵉⵏ
 decoding: ⴰⴽⵙⵏⴳⵍ
+decrease (n): ⴰⵏⵓⵙⵔⵓ
+decreasing (adj): ⴰⵎⵏⵓⵙⵔⵓⵢ
 deep: ⵉⵖⴱⵉⵏ
 deeper: ⵉⵏⵖⴱⵉ
-defeat: ⴰⵜⵜⵡⴰⵔⵏⵓ
+defeat (n): ⴰⵜⵜⵡⴰⵔⵏⵓ
 defender: ⴰⵏⵎⵣⴰⵖ
 defenders: ⵉⵏⵎⵣⴰⵖⵏ
 definition: ⴰⵙⵏⵎⵍ
 definitely: ⵏⵏⵉⵛⴰⵏ
-deform: ⵙⵍⵓⵅⵛⵓ
-deform: ⵙⵎⵎⵊⴳⵔ
+deform (v): ⵙⵎⵎⵊⴳⵔ
 degree: ⵜⴰⵙⴽⵯⴼⵍⵜ
 demand: ⴰⵙⵓⵜⵔ
-demands: ⵉⵙⵓⵜⴰⵔ
+demands: ⵉⵙⵓⵜⵓⵔⵏ
+demonstration: ⴰⵙⵖⵥⵏ
 density: ⵜⵉⵏⵥⵥⵉ
 derivability: ⵜⴰⵣⵎⵔⵡⴰⴼⵓⵖⵜ
 derivation: ⵜⴰⵡⴰⴼⵓⵖⵜ
@@ -778,6 +782,7 @@ exploitation: ⴰⵙⵎⴰⵀⵍ
 exploration: ⵉⵏⵉⴳ
 explorations: ⵉⵏⵉⴳⵏ
 exploring: ⵉⵏⵉⴳ
+Exponent of: ⵙ ⵓⵏⴼⵙⴰⵔ
 exponential: ⴰⵙⵏⵏⴼⵙⴰⵔ
 expression: ⵜⴰⵏⴼⴰⵍⵉⵜ
 expressions: ⵜⵉⵏⴼⴰⵍⵉⵢⵉⵏ
@@ -1081,6 +1086,7 @@ in: ⵖ
 income: ⴰⵎⴰⵖⵓⵍ
 incorrect: ⵓⵔ ⵉⵖⵜⵉⵏ
 increase: ⴰⵏⵏⵔⵏⵉ
+increasing (adj): ⴰⵏⵔⵏⴰⵢ
 indefinite: ⴰⵔⵓⵏⵎⵉⵍ
 independence: ⴰⵣⴰⵔⵓⴳ
 independent: ⴰⵎⵣⴰⵔⵓⴳ
@@ -1758,6 +1764,7 @@ primary: ⴰⵎⵏⵣⴰⵢ
 principal: ⴰⵙⵉⵍⴰⵏ
 principle: ⴰⵎⵏⵣⴰⵢ
 principles: ⵉⵎⵏⵣⴰⵢⵏ
+prism: ⵜⴰⴳⵜⴰⵙⵏⴰ
 prison: ⴰⵣⵖⵓ
 privacy: ⵜⵉⵏⵏⵓⵜⵍⴰ
 probability: ⵜⴰⵙⵇⵇⴰⵔⵜ
@@ -2149,6 +2156,7 @@ store: ⵜⴰⵃⴰⵏⵓⵜ
 storm: ⵜⴰⵎⵊⵉⵡⵛⵜ
 story: ⵜⵓⵍⵍⵉⵙⵜ
 straight: ⴰⵎⴰⵖⵓⴷ
+straight line: ⵜⴰⵖⴷⴰ
 strategies: ⵜⵉⵙⵜⵔⴰⵜⵉⵊⵉⵢⵉⵏ
 strategy: ⵜⴰⵙⵜⵔⴰⵜⵉⵊⵉⵜ
 stratigraphy: ⵜⴰⵙⴽⵏⵙⵡⵔⵜ
@@ -2505,6 +2513,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
