@@ -1416,6 +1416,8 @@ molecule: ⵜⴰⵏⵛⵜⵉⵡⵜ
 molecules: ⵜⵉⵏⵛⵜⵉⵡⵉⵏ
 momentum: ⵜⵉⵔⵎⵍⵜ ⵜⵉⵎⵙⴷⴷⵓⵜ
 money: ⵉⴷⵔⵉⵎⵏ
+monotone (adj): ⴰⵢⵏⴼⵍⵉ
+monotonicity: ⵜⴰⵢⵏⴼⵍⴰ
 month: ⴰⵢⵢⵓⵔ
 months: ⵉⵔⵏ
 monday: ⴰⵢⵏⴰⵙ
@@ -2513,6 +2515,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
