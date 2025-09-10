@@ -1256,7 +1256,7 @@ libraries: ⵜⵉⵙⴷⵍⵉⵙⵉⵏ
 library: ⵜⴰⵙⴷⵍⵉⵙⵜ
 licence: ⵜⵓⵔⴰⴳⵜ
 life: ⵜⵓⴷⵔⵜ
-lift (n): ⴰⵙⴰⵍⵢ
+lift (n): ⴰⵙⴰⵜⵜⵉ
 light: ⵜⵉⴼⴰⵡⵜ
 lightning: ⵓⵙⵎ
 like: ⵣⵓⵏ ⴷ
@@ -2521,6 +2521,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
