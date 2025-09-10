@@ -959,6 +959,7 @@ goatskin: ⴰⴳⴷⴷⵉⴷ
 gold: ⵓⵔⵖ
 good: ⵉⴼⵓⵍⴽⵉⵏ
 goodbye: ⴰⵔ ⵜⵉⵎⵏⵉⵍⵉⵜ
+goods: ⵜⵉⵏⵣⵣⵓⵜⵉⵏ
 Google: ⴳⵓⴳⵍ
 governance: ⵜⵉⵏⵏⵓⴱⴹⴰ
 government: ⵜⴰⵏⴱⴰⴹⵜ
@@ -2516,6 +2517,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
