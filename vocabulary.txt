@@ -1256,6 +1256,7 @@ libraries: ⵜⵉⵙⴷⵍⵉⵙⵉⵏ
 library: ⵜⴰⵙⴷⵍⵉⵙⵜ
 licence: ⵜⵓⵔⴰⴳⵜ
 life: ⵜⵓⴷⵔⵜ
+lift (n): ⴰⵙⴰⵍⵢ
 light: ⵜⵉⴼⴰⵡⵜ
 lightning: ⵓⵙⵎ
 like: ⵣⵓⵏ ⴷ
@@ -1824,6 +1825,7 @@ purism: ⵜⴰⵥⵕⴰⵣⴷⵉⴳⵜ
 purist: ⴰⵎⵥⵕⴰⵣⴷⵉⴳ
 purpose: ⴰⵙⴰⵖⴷ
 pursuit: ⴰⴹⴼⴼⵓⵕ
+push (n): ⴰⵏⵜⵜⴰⵡ
 pyramid: ⴰⵣⴰⵎⵓⴳ
 pyramids: ⵉⵣⴰⵎⵓⴳⵏ
 python: ⴱⴰⵢⵟⵓⵏ
@@ -2519,6 +2521,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
