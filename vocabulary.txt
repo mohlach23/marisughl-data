@@ -1,11 +1,11 @@
 DNA: ⵙⵎⴽ
-English:  ⵜⵉⵏⴳⵍⵉⵣⵜ
+English: ⵜⵉⵏⴳⵍⵉⵣⵜ
 Maris: ⵎⴰⵔⵉⵙ
-Marisughl:  ⵎⴰⵔⵉⵙⵓⵖⵍ
-Mohamed:  ⵎⵓⵃⵎⵎⴰⴷ
-abilities:  ⵜⵉⵣⵎⵎⴰⵔ
-ability:  ⵜⴰⵣⵎⵔⵜ
-about:  ⵖⴼ
+Marisughl: ⵎⴰⵔⵉⵙⵓⵖⵍ
+Mohamed: ⵎⵓⵃⵎⵎⴰⴷ
+abilities: ⵜⵉⵣⵎⵎⴰⵔ
+ability: ⵜⴰⵣⵎⵔⵜ
+about: ⵖⴼ
 abscissa: ⵓⴳⵣⵉⵎ
 abscissas: ⵓⴳⵣⵉⵎⵏ
 absolutely: ⵏⵉⵜ
@@ -1637,6 +1637,7 @@ parts: ⵉⴳⵣⵣⵓⵎⵏ
 party: ⵜⴰⵎⵖⵔⴰ
 passcode: ⵜⴰⵏⴳⴰⵍⵜ ⵏ ⵓⵣⵔⴰⵢ
 passcodes: ⵜⴰⵏⴳⴰⵍⵉⵏ ⵏ ⵓⵣⵔⴰⵢ
+passenger: ⴰⵎⵙⵙⵓⴷⵓ
 passion: ⴰⵏⵏⵖⵣⵍ
 passions: ⵉⵏⵏⵖⵣⴰⵍ
 password: ⵜⴰⴳⵓⵔⵉ ⵏ ⵓⵣⵔⴰⵢ
@@ -1695,6 +1696,7 @@ piece: ⵜⴰⴳⵣⵣⵓⵎⵜ
 pier: ⴰⵙⴰⵍⵉ
 pigeon: ⴰⵜⴱⵉⵔ
 pillow: ⵜⴰⵙⵓⵎⵜⴰ
+pilot: ⴰⵎⵙⵙⴰⵢⵍ
 pitchfork: ⵜⴰⵣⵣⴰⵔⵜ
 place: ⴰⴷⵖⴰⵔ
 plain: ⴰⵣⴰⵖⴰⵔ
@@ -2517,6 +2519,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
