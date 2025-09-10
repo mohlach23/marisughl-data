@@ -47,6 +47,7 @@ age: ⴰⵡⵜⴰⵢ
 ages: ⵉⵡⵜⴰⵢⵏ
 agriculture: ⵜⴰⴽⵔⵣⴰ
 air: ⴰⵣⵡⵓ
+airplane: ⵜⴰⵢⵍⴰⵍⵜ
 airport: ⴰⵣⴰⴳⵯⵣ
 alfalfa: ⴰⵡⵔⵉ
 algebra: ⴰⵍⵊⵉⴱⵔ
@@ -2515,6 +2516,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
