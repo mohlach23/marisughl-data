@@ -353,8 +353,8 @@ choices: ⵉⵙⵜⴰⵢⵏ
 cinema: ⵙⵙⵉⵏⵉⵎⴰ
 circle: ⵜⴰⵡⵔⴻⵔⵔⴰⵢⵜ
 circles: ⵜⵉⵡⵔⴻⵔⵔⴰⵢⵉⵏ
-circuit: ⴰⵙⵓⵏⵏⴰⴹ
-circuits: ⵉⵙⵓⵏⵏⴰⴹⵏ
+circuit: ⵜⵓⵜⵓⵢⵜ
+circuits: ⵜⵓⵜⵓⵢⵉⵏ
 circumstance: ⵜⴰⵎⵙⵓⵜⵍⵜ
 circumstances: ⵜⴰⵎⵙⵓⵜⴰⵍ
 cities: ⵜⵉⵖⵔⵎⵉⵏ
@@ -2521,6 +2521,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
