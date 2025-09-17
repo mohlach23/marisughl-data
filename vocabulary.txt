@@ -971,7 +971,8 @@ gram: ⴳⵕⴰⵎ
 grammar: ⵜⴰⵊⵕⵕⵓⵎⵜ
 grandeur: ⴰⵏⵛⵜ
 grapes: ⴰⴹⵉⵍ
-graphic: ⵜⴰⵡⵏⵖⴰ
+graphic (n): ⵜⴰⵡⵏⵖⴰ
+graphic (adj): ⴰⵎⵙⴽⴰⵏ
 graphics: ⵜⵉⵡⵏⵖⵉⵡⵉⵏ
 grass: ⵜⵓⴳⴰ
 grave: ⴰⵥⴽⴽⴰ
@@ -1552,7 +1553,7 @@ ocean: ⴰⴳⴰⵔⴰⵡ
 oceans: ⵉⴳⴰⵔⴰⵡⵏ
 of: ⵏ
 official: ⴰⵎⴰⴷⴷⴰⴷ
-ok: ⵎⵢⵢⴰ ⵏ ⵄⵍⴰ ⵅⵉⵔ
+ok (response): ⵡⴰⵅⵅⴰ
 old: ⴰⵡⵙⵙⴰⵔ
 olives: ⴰⵣⵎⵎⵓⵔ
 on: ⵖⴼ
@@ -1678,7 +1679,7 @@ phases: ⵜⵉⴼⵔⴽⵉⵡⵉⵏ
 phenomena: ⵜⵓⵎⴰⵏⵉⵏ
 phenomenon: ⵜⵓⵎⴰⵏⵜ
 philosophy: ⵜⴰⴼⵍⵙⴰⴼⵜ
-phone: ⵜⵉⵍⵉⴼⵓⵏ
+phone: ⴰⵜⵉⵍⵉⴼⵓⵏ
 phonetics: ⵜⵉⵎⵙⵉⵙⵍⵉⵜ
 phonic: ⴰⵎⵙⵉⵙⵍⴰⵏ
 phonology: ⵜⴰⵙⵏⵎⵙⵍⵉⵜ
@@ -2521,6 +2522,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
