@@ -744,6 +744,8 @@ especially: ⵙⵍⴰⵡⴰⵏ
 essence: ⵜⵓⵎⴰⵙⵜ
 essential: ⴰⵏⵓⵎⴰⵙ
 etc: ⴰⵜⴳ
+ethical: ⴰⵔⴼⵙⴰⵏ
+ethics: ⵉⵔⴼⵙⴰⵏ
 etymology: ⵜⴰⵙⵏⴰⵥⵖⵓⵕⵜ
 evaluation: ⴰⵙⵓⵜⴳ
 event: ⵜⴰⵎⵙⴰⵔⵜ
@@ -2527,6 +2529,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
