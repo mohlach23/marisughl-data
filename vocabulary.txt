@@ -133,7 +133,7 @@ asia: ⴰⵙⵢⴰ
 aspect: ⴰⵎⴰⵖⵏⵓ
 aspects: ⵉⵎⴰⵖⵏⵓⵜⵏ
 assembly: ⴰⵙⴳⵔⵓ
-assertion: ⴰⵇⵇⵉⵔ
+assertion: ⴰⵙⵙⵍⴽⵏ
 assigning: ⴰⵙⴷⵓⴽⴽⵍ
 assignment: ⴰⵙⴷⵓⴽⴽⵍ
 assimilation: ⵜⴰⵎⵙⵔⵜⵉⵜ
@@ -178,12 +178,12 @@ awareness: ⴰⴽⴰⵣ
 axial: ⴰⵡⴳⵍⵍⵓⵙ
 axis: ⴰⴳⵍⵍⵓⵙ
 axiom: ⵜⵉⵎⴷⴳⴳⵉⵜ
-back: ⵜⴰⴷⴰⵡⵜ
+back (body): ⵜⴰⴷⴰⵡⵜ
 background: ⵜⴰⴼⵔⴳⵯⵏⵉⵜ
 backgrounds: ⵜⵉⴼⵔⴳⵯⵏⵉⵢⵉⵏ
 bacteria: ⴰⴱⴰⴽⵜⵉⵔⵢⴰ
 bacteria: ⴰⴱⴰⴽⵜⵉⵔⵢⴰ
-bad: ⴳⴰⵔ
+bad [...]: ⴳⴰⵔ [...]
 bag: ⵜⴰⵛⵛⴽⴰⵕⵜ
 balance: ⴰⵎⵢⴰⵙ
 ball: ⵜⴰⵡⵊⵊⴰ
@@ -2524,6 +2524,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
