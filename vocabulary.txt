@@ -515,7 +515,7 @@ criticizable: ⵓⵣⵖⵉⵏ
 crow: ⴰⴳⵔⴼⵉⵡ
 crucial: ⴰⵎⵖⵜⴰⵙ
 culture: ⵜⴰⴷⵍⵙⴰ
-curds: ⵉⴽⴽⵉⵍ
+curdled milk: ⵉⴽⴽⵉⵍ
 currency: ⴰⵇⴰⵕⵉⴹ
 current: ⴰⵎⵣⴰⵣ
 cycle: ⵜⵓⵏⵓⴹⵜ
@@ -805,7 +805,7 @@ factorization: ⴰⵙⵎⵙⴽⵔ
 factors: ⵉⵎⵙⴽⴰⵔⵏ
 facts: ⵉⵎⵊⵕⵉⵜⵏ
 fake: ⵓⵔⵊⵉⵏ
-false: ⵓⵣⴳⵉⵍ
+false: ⴰⵔⵎⵉⴷⵉ
 families: ⵜⴰⵡⵊⵉⵡⵉⵏ
 family: ⵜⴰⵡⵊⴰ
 famine: ⴱⵓⵀⵢⵢⵓⴼ
@@ -1379,7 +1379,7 @@ microwave: ⵜⴰⵎⵥⵉⵢⵢⵓⵖⵜ
 middle: ⵜⵓⵥⵥⵓⵎⵜ
 midnight: ⵜⵓⵥⵥⵓⵎⵜ ⵏ ⵢⵉⴹ
 migration: ⴰⵣⵡⴰⴳ
-milk: ⴰⴽⴼⴼⴰⵢ
+milk: ⴰⴽⵯⴼⴰⵢ
 mill: ⵜⵉⵙⵉⵔⵜ
 million: ⴰⴳⵏⴷⵉⴷ
 millions: ⵉⴳⵏⴷⵉⴷⵏ
@@ -2524,6 +2524,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
