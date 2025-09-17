@@ -108,12 +108,13 @@ approaches: ⵜⵉⵎⵢⴰⴷⴰⵙⵉⵏ
 appropriate: ⵉⴱⵓⵏⴰⵏ
 appropriate: ⵉⴱⵓⵏⴰⵏ
 approximately: ⵙ ⵡⴰⵜⵜⴰⵢⵏ
+approximation: ⵜⴰⵙⴰⵥⵉⵜ
 apps: ⵜⵉⵙⵏⵙⵉⵡⵉⵏ
 april: ⵉⴱⵔⵉⵔ
 arabic: ⵜⴰⵄⵕⴰⴱⵜ
 architecture: ⵜⴰⵙⴳⴷⴰ
 area: ⵜⴰⵊⵓⵎⵎⴰ
-areas: ⵜⵉⵊⵓⵎⵎⴰⵡⵉⵏ
+areas: ⵜⵉⵊⵓⵎⵎⵉⵡⵉⵏ
 argument: ⵜⵉⵖⵉⵔⵜ
 arguments: ⵜⵉⵖⵉⵔⵉⵏ
 arithmetic (adj): ⴰⵙⵏⵎⴹⴰⵏ
@@ -121,12 +122,13 @@ arm: ⵉⵖⵉⵔ
 arms: ⵉⵖⴰⵔⵉⵡⵏ
 array: ⵜⴰⴼⵍⵡⵉⵜ
 arrays: ⵜⵉⴼⵍⵡⵉⵏ
-art: ⵜⴰⵥⵓⵔⵉ
+art: ⵜⴰⵥⵓⵕⵉ
 article: ⴰⵎⴳⵔⴰⴷ
 articles: ⵉⵎⴳⵔⴰⴷⵏ
 articulation: ⴰⴳⵙⵓⵙⵔⵓ
 artificial: ⴰⵙⵎⴳⵓⵔ
 artistic: ⴰⵥⵓⵕⴰⵏ
+arts: ⵜⵉⵥⵓⵕⵉⵡⵉⵏ
 asia: ⴰⵙⵢⴰ
 aspect: ⴰⵎⴰⵖⵏⵓ
 aspects: ⵉⵎⴰⵖⵏⵓⵜⵏ
@@ -2522,6 +2524,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
