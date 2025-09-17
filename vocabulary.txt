@@ -907,6 +907,7 @@ from: ⵙⴳ
 front of: ⵎⵉⵏⴷ ⵏ
 fruit: ⴰⴳⵓⵎⵎⵓ
 fruits: ⵉⴳⵓⵎⵎⴰ
+fuel: ⴰⵙⵔⵖⵓ
 full: ⵉⵎⴷⵏ
 function: ⵜⴰⵙⵖⵏⵜ
 functionality: ⵜⴰⵎⵙⵖⵏⵜ
@@ -1105,6 +1106,7 @@ individuals: ⵉⴼⵔⵉⴷⵏ
 induction: ⵜⴰⵎⵙⴳⵍⵓⵜ
 industry: ⵜⴰⵎⴳⵓⵔⵉ
 inequality: ⵜⴰⵙⵎⵢⵉⴳⵉⵔⵜ
+inertia: ⴰⴳⵍⵓⴳⵍ
 infinite: ⴰⵔⴳⵉⵔⴰⵏ
 infinity: ⵜⴰⵔⴳⵉⵔⴰ
 influence: ⵉⵣⵔⵉⵔⵉⵏ
@@ -1153,6 +1155,7 @@ interests: ⵉⵏⵏⵣⴳⵓⵎⵏ
 interface: ⴰⴳⵔⵓⴷⵎ
 interference: ⴰⵎⵛⴽⵛⴰⵎ
 intermediate: ⴰⵏⴰⵎⵎⴰⵙ
+internal: ⴰⴳⵏⵙⴰⵏ
 international: ⴰⴳⵔⴰⵖⵍⴰⵏ
 interne: ⴰⴳⵏⵙⴰⵏ
 internet: ⴰⵏⵜⵉⵔⵏⵉⵜ
@@ -1179,7 +1182,6 @@ islands: ⵜⵉⴳⵣⵉⵔⵉⵏ
 isometry: ⵜⴰⵣⵓⴽⵜⵉⵜ
 isotope: ⴰⴽⵏⵉⴷⴳ
 isotopes: ⵉⴽⵏⵉⴷⴳⵏ
-it: ⵏⵜⵜⴰ
 item: ⴰⴼⵔⴷⵉⵙ
 items: ⵉⴼⵔⴷⵉⵙⵏ
 iterating: ⴰⵍⵍⴰⵙ
@@ -1271,6 +1273,7 @@ lines: ⵉⵣⵔⵉⴳⵏ
 link: ⴰⵙⵖⵓⵏ
 links: ⵉⵙⵖⵓⵏⵏ
 lion: ⵉⵣⵎ
+lions: ⵉⵣⵎⴰⵡⵏ
 liquid: ⴰⴱⵍⵓⵍⵓ
 list: ⵜⴰⵍⴳⴰⵎⵜ
 lists: ⵜⵉⵍⴳⴰⵎⵉⵏ
@@ -2524,6 +2527,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
