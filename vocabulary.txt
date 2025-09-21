@@ -1816,7 +1816,7 @@ promotion: ⴰⵙⵉⵍⵉ
 proof: ⴰⵏⵥⴰ
 proofs: ⴰⵏⵥⴰⵜⵏ
 propagation: ⴰⵏⴼⵓⴼⴷ
-properties: ⵜⵉⵙⴼⵍⵙⵉⵏ
+properties: ⵜⵉⴼⵔⵉⵙⵉⵏ
 property: ⵜⴰⴼⵔⵉⵙⵜ
 proportionality: ⴰⵎⵢⴰⵙⴰⵖ
 protein: ⴰⴼⵕⵓⵟⵉⵏ
@@ -2531,6 +2531,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
