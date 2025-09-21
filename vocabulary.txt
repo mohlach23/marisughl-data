@@ -758,6 +758,7 @@ everything: ⴽⵔⴰⵢⴳⴰⵜⵜ ⵜⴰⵖⴰⵡⵙⴰ
 evidence: ⴰⵏⵥⴰ
 evidences: ⴰⵏⵥⴰⵜⵏ
 evolution: ⵜⴰⵣⵣⵉⴳⵣⵜ
+ewe: ⵜⵉⵍⵉ
 exact: ⵏⵉⵜ
 exactly: ⵏⵏⵉⵛⴰⵏ
 exam: ⵉⵔⵉⵎ
@@ -2045,7 +2046,6 @@ share: ⴷⵔⵓ
 shared: ⵉⵜⵜⵓⴷⵔⴰⵏ
 she: ⵏⵜⵜⴰⵜ
 sheep(group): ⵓⵍⵍⵉ
-sheep(sing. fem): ⵜⵉⵍⵉ
 sheep(sing. mas): ⵉⵣⵉⵎⵔ
 sheet: ⵜⵉⴼⵔⵜ
 sheets: ⵜⵉⴼⵔⵜⵉⵏ
@@ -2532,6 +2532,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
