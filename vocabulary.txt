@@ -1234,8 +1234,9 @@ largest: ⴰⴽⴽⵯ ⵉⴳⴰⵏ ⴰⵎⵇⵔⴰⵏ
 last: ⴰⵏⴳⴳⴰⵔⵓ
 laughter: ⵜⴰⴹⵙⴰ
 lava: ⴰⵍⴰⴼⴰ
-law: ⴰⵙⵍⴳⵏ
-laws: ⵉⵙⵍⴳⵏⵏ
+law: ⴰⵙⴰⴹⵓⴼ
+law (code): ⴰⵙⵍⴳⵏ
+laws: ⵉⵙⴰⴹⵓⴼⵏ
 layer: ⵜⴰⵔⴰⵢⵜ
 layers: ⵜⴰⵔⴰⵢⵉⵏ
 lead: ⴰⵍⴷⵓⵏ
@@ -2531,6 +2532,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
