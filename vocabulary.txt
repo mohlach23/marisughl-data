@@ -2359,6 +2359,7 @@ toys: ⵜⵉⵙⵓⵔⴰⵔⵉⵏ
 trade: ⵜⴰⵙⵜⴰⴳⵜ
 tradition: ⵜⴰⵡⵔⴳⵍⴰⵜ
 traditions: ⵜⵉⵡⵔⴳⵍⴰⵜⵉⵏ
+train (n): ⴰⵍⴰⵡⴰⵢ
 training: ⴰⵙⵍⵓⵖⵎⵓ
 trajectory: ⴰⵙⴰⴽⴰ
 transcription: ⴰⵙⴻⵙⴽⵍ
@@ -2529,6 +2530,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
