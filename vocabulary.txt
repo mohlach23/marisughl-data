@@ -88,7 +88,7 @@ animation: ⴰⵙⵎⵓⵙⵙⵓ
 animations: ⵉⵙⵎⵓⵙⵙⵓⵜⵏ
 annulation: ⵜⵓⵙⵙⵔⴰ
 anonymous: ⵓⴷⵔⵉⴳ
-another: ⵢⴰⴹⵏ
+another ...: ... ⵢⴰⴹⵏⵉⵏ
 ant: ⵜⴰⵡⵟⵟⵓⴼⵜ
 ants: ⵜⵉⵡⴹⴼⵉⵏ
 antibody: ⴰⵎⴳⵍⴼⴽⴽⴰ
@@ -2531,6 +2531,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
