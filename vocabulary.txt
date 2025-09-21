@@ -502,7 +502,7 @@ course: ⵜⴰⵙⵓⵜⵍⵜ
 courses: ⵜⵉⵙⵓⵜⴰⵍ
 cow: ⵜⴰⴼⵓⵏⴰⵙⵜ
 current(courant): ⴰⵎⴰⵣⵣⵍ
-Curvilinear: ⴰⴽⵏⵓⵣⵔⵉⴳ
+curvilinear: ⴰⴽⵏⵓⵣⵔⵉⴳ
 crazy: ⴰⵏⴰⴼⴰⵍ
 creation: ⴰⵙⵏⵓⵍⴼⵓ
 creative: ⴰⵎⵙⵏⵓⵍⴼⵓ
@@ -594,6 +594,7 @@ difficult: ⵉⵎⵔⴰⵏ
 difficulty: ⵜⴰⵎⴰⵔⴰ
 diffusion: ⵜⴰⵏⵣⵡⵉⵜ
 digit: ⵉⵣⵡⵍ
+digital: ⴰⵎⵓⵟⵟⵓⵏ
 digits: ⵉⵣⵡⴰⵍ
 dignity: ⴰⴳⵎⵎⵉⵔ
 dimension: ⵜⴰⵙⴽⵜⴰ
@@ -2530,6 +2531,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
