@@ -1573,8 +1573,7 @@ one: ⵢⴰⵏ
 onions: ⴰⵥⴰⵍⵉⵎ
 online: ⴳ ⵓⵣⵔⵉⴳ
 only: ⵖⵙ
-open-source: ⵜⴰⵔⵥⵎⵙⴰⴳⵎⵜ
-open: ⵔⵥⵎ
+open-source: ⴰⵕⵥⵎⵙⴰⴳⵎ
 operating: ⴰⵙⵎⴰⵀⵍ
 operation: ⵜⴰⵎⵀⵍⵜ
 operations: ⵜⵉⵎⵀⵍⵉⵏ
@@ -2119,8 +2118,8 @@ soon: ⵢⴰⵥ
 sophistication: ⵜⴰⵏⴼⵍⵉⵜ
 sound: ⵉⵎⵙⵍⵉ
 sounds: ⵉⵎⵙⵍⵉⵜⵏ
-source: ⴰⵖⴱⴰⵍⵓ
-sources: ⵉⵖⴱⴰⵍⵓⵜⵏ
+source: ⴰⵙⴰⴳⵎ
+sources: ⵉⵙⵓⴳⴰⵎ
 sourmilk: ⵉⵖⵉ
 south: ⴰⵏⵥⵓⵍ
 space: ⴰⵙⴰⵢⵔⴰⵔ
@@ -2532,6 +2531,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
