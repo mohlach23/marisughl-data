@@ -791,7 +791,7 @@ exploitation: ⴰⵙⵎⴰⵀⵍ
 exploration: ⵉⵏⵉⴳ
 explorations: ⵉⵏⵉⴳⵏ
 exploring: ⵉⵏⵉⴳ
-Exponent of: ⵙ ⵓⵏⴼⵙⴰⵔ
+exponent of: ⵙ ⵓⵏⴼⵙⴰⵔ
 exponential: ⴰⵙⵏⵏⴼⵙⴰⵔ
 expression: ⵜⴰⵏⴼⴰⵍⵉⵜ
 expressions: ⵜⵉⵏⴼⴰⵍⵉⵢⵉⵏ
@@ -1163,6 +1163,7 @@ interface: ⴰⴳⵔⵓⴷⵎ
 interference: ⴰⵎⵛⴽⵛⴰⵎ
 intermediate: ⴰⵏⴰⵎⵎⴰⵙ
 internal: ⴰⴳⵏⵙⴰⵏ
+internalization: ⴰⵙⵉⴷⴼ
 international: ⴰⴳⵔⴰⵖⵍⴰⵏ
 interne: ⴰⴳⵏⵙⴰⵏ
 internet: ⴰⵏⵜⵉⵔⵏⵉⵜ
@@ -2542,6 +2543,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
