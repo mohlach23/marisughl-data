@@ -93,6 +93,7 @@ ant: ⵜⴰⵡⵟⵟⵓⴼⵜ
 ants: ⵜⵉⵡⴹⴼⵉⵏ
 antibody: ⴰⵎⴳⵍⴼⴽⴽⴰ
 anus: ⴰⵚⵓⴹ
+anxiety: ⴰⵏⵏⵓⵖⵊⴼ
 any: ⴽⵔⴰⵢⴳⴰⵜⵜ
 anybody: ⴽⵔⴰ ⵏ ⵢⴰⵏ
 anyone: ⴽⵔⴰ ⵏ ⵢⴰⵏ
@@ -546,6 +547,7 @@ defenders: ⵉⵏⵎⵣⴰⵖⵏ
 definition: ⴰⵙⵏⵎⵍ
 definitely: ⵏⵏⵉⵛⴰⵏ
 deform (v): ⵙⵎⵎⵊⴳⵔ
+degrading: ⴰⵙⵙⵍⴽⵓ
 degree: ⵜⴰⵙⴽⵯⴼⵍⵜ
 demand: ⴰⵙⵓⵜⵔ
 demands: ⵉⵙⵓⵜⵓⵔⵏ
@@ -1060,6 +1062,7 @@ human: ⴰⴼⴳⴰⵏ
 humans: ⵎⴷⴷⵏ
 humanity: ⵜⵉⴼⴼⵓⴳⵏⴰ
 humidity: ⴰⴳⵓⵏⴷⵓ
+humiliation: ⴰⵙⵉⵣⴷⵔ
 humour: ⵜⴰⵇⴱⴱⴰⴹⵜ
 hundred: ⵜⵉⵎⵉⴹⵉ
 hundreds: ⵜⵉⵎⴰⴹ
@@ -1092,7 +1095,7 @@ implementing: ⴰⵣⵣⴳⵉⵔ
 importance: ⵜⵉⵅⵅⵓⵜⵔⵜ
 important: ⴰⵣⴰⵍⴰⵏ
 impulse: ⵜⴰⵙⵏⴹⵡⵜ
-in: ⵖ
+in: ⴳ
 income: ⴰⵎⴰⵖⵓⵍ
 incorrect: ⵓⵔ ⵉⵖⵜⵉⵏ
 increase: ⴰⵏⵏⵔⵏⵉ
@@ -1398,6 +1401,7 @@ mine(ore): ⴰⵣⴰⵖⵓⵣ
 mineral: ⴰⵎⵖⵓⵣ
 mineralogy: ⵜⴰⵙⵏⵎⵖⵓⵣⵜ
 minerals: ⵉⵎⵖⵓⵣⵏ
+minimization: ⴰⵙⵉⴷⵔⵓⵙ
 minorities: ⵜⵉⴷⵔⵓⵙⵉⵏ
 minority: ⵜⴰⴷⵔⵓⵙⵜ
 minute: ⵜⵓⵙⴷⵉⴷⵜ
@@ -2012,6 +2016,7 @@ sector: ⵜⴰⴳⵎⵎⵓⵏⵜ
 security: ⵜⴰⵖⵍⵙⵜ
 securities: ⵜⴰⵖⵍⵍⵉⵙⵉⵏ
 self-awareness: ⵜⴰⴼⵔⴽⵉⵎⴰⵏⵜ
+self-worth: ⴰⵣⴰⵍ ⴰⵏⵉⵎⴰⵏ
 semantic: ⴰⵏⴰⵎⴽⴰⵏ
 semantics: ⵜⴰⵙⵏⴰⵏⴰⵎⴽⵜ
 semi-autonomous: ⴰⵣⵏⵙⵉⵎⴰⵏ
@@ -2039,6 +2044,7 @@ settings: ⵜⵉⵙⵖⴰⵍ
 several: ⵜⵓⴳⵜ
 sex: ⴰⴳⵏⵓⵙ
 shadow: ⴰⵎⴰⵍⵓ
+shame: ⴰⵣⵡⴰⵔ
 shape: ⵜⴰⵡⵉⵍⴰ
 shapes: ⵜⵉⵡⵉⵍⴰⵡⵉⵏ
 share: ⴷⵔⵓ
@@ -2065,6 +2071,8 @@ sides: ⵜⴰⵙⴳⵉⵡⵉⵏ
 sight: ⵉⵥⵕⵉ
 signal: ⵜⴰⵎⴰⵜⴰⵔⵜ
 signals: ⵜⵉⵎⴰⵜⴰⵔⵉⵏ
+silence: ⵉⴼⵙⵜⵉ
+silencing: ⴰⵙⴼⵙⵙ
 silently: ⵙ ⵢⵉⴼⵙⵜⵉ
 silver: ⴰⵥⵕⴼ
 similar: ⵉⵔⵡⴰⵙⵏ
@@ -2082,6 +2090,7 @@ situation: ⴰⵙⵓⵔⵙ
 situations: ⵉⵙⵓⵔⴰⵙ
 seven: ⵙⴰ
 seventy: ⵙⴰⵎⵔⴰⵡ
+shame: ⴰⵣⵡⴰⵔ
 sight: ⵉⵥⵕⵉ
 sign: ⵜⴰⵎⴰⵜⴰⵔⵜ
 six: ⵚⴹⵉⵚ
@@ -2373,6 +2382,7 @@ translator: ⴰⵎⵙⵓⵖⵍ
 translators: ⵉⵎⵙⵓⵖⵍⵏ
 transmission: ⴰⵙⵎⵓⵜⵜⵉ
 transmissions: ⵉⵙⵎⵓⵜⵜⵉⵢⵏ
+trauma: ⵜⴰⵏⴳⴰⵙⵜ
 treatment: ⴰⵙⵎⴽⵍ
 treatments: ⵉⵙⵎⴽⴰⵍ
 tree: ⵜⴰⴷⴷⴰⴳⵜ
@@ -2517,6 +2527,7 @@ worlds: ⵉⵎⴰⴹⴰⵍⵏ
 worldwide: ⴰⵎⴰⴹⵍⴰⵏ
 worm: ⵜⴰⵡⴽⴽⴰ
 worry: ⴰⵏⵣⴳⵓⵎ
+wound: ⴰⴱⵔⴰⵢ
 wrong: ⴰⵣⴳⴰⵍ
 year: ⴰⵙⴳⴳⵯⴰⵙ
 years: ⵉⵙⴳⴳⵯⴰⵙⵏ
@@ -2531,6 +2542,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
