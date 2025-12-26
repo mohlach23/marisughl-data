@@ -72,9 +72,9 @@ amoeba: ⴰⵎⵉⴱⴰ
 amphibian: ⴰⵎⴽⴰⵍⵎⴰⵏ
 amphibians: ⵉⵎⴽⴰⵍⵎⴰⵏⵏ
 analogy: ⵜⴰⵔⵡⵙⵜ
-analysing: ⴰⵚⵍⴰⴹ
-analysis: ⴰⵚⵍⴰⴹ
-analyzing: ⴰⵚⵍⴰⴹ
+analysing: ⴰⵙⵍⴰⴹ
+analysis: ⴰⵙⵍⴰⴹ
+analyzing: ⴰⵙⵍⴰⴹ
 anatomical: ⴰⴼⵍⴰⵢⴰⵏ
 anatomy: ⴰⴼⵍⴰⵢ
 ancient: ⴰⵇⴱⵓⵔ
@@ -98,6 +98,7 @@ any: ⴽⵔⴰⵢⴳⴰⵜⵜ
 anybody: ⴽⵔⴰ ⵏ ⵢⴰⵏ
 anyone: ⴽⵔⴰ ⵏ ⵢⴰⵏ
 anything: ⵜⵖⴰⵡⵙⴰ ⵏⵏⴰ
+aorist: ⵓⵔⵎⵉⵔ
 app: ⵜⵉⵙⵏⵙⵉ
 apple: ⵜⴰⴷⴼⴼⵓⵢⵜ
 apples: ⵜⵉⴷⴼⴼⵓⵢⵉⵏ
@@ -2543,6 +2544,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
