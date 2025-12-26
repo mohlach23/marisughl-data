@@ -740,8 +740,8 @@ equation: ⵜⴰⴳⴷⴰ
 equations: ⵜⴰⴳⴷⵉⵡⵉⵏ
 equivalence: ⵜⴰⴳⴷⴰⵣⴰⵍⵜ
 equivalent: ⴰⵎⴳⴷⴰⵣⴰⵍ
-error: ⴰⵣⴳⴰⵍ
-errors: ⵉⵣⴳⴰⵍⵏ
+error: ⵜⴰⵣⴳⵍⵜ
+errors: ⵜⵉⵣⴳⵍⵉⵏ
 escape: ⵔⵡⵍ
 especially: ⵙⵍⴰⵡⴰⵏ
 essence: ⵜⵓⵎⴰⵙⵜ
@@ -1413,8 +1413,8 @@ mirror: ⵜⵉⵙⵉⵜ
 mirrors: ⵜⵉⵙⵉⵜⵉⵏ
 mission: ⵜⴰⵖⵍⵉⴼⵜ
 missions: ⵜⵉⵖⵍⵉⴼⵉⵏ
-mistake: ⴰⵣⴳⴰⵍ
-mistakes: ⵉⵣⴳⴰⵍⵏ
+mistake: ⵜⴰⵣⴳⵍⵜ
+mistakes: ⵜⵉⵣⴳⵍⵉⵏ
 mitochondria: ⴰⵎⵉⵜⵓⴽⵓⵏⴷⵔⵉ
 mitochondrial: ⴰⵎⵉⵜⵓⴽⵓⵏⴷⵔⵉ
 mixing: ⴰⵙⵎⵙⵢ
@@ -2543,6 +2543,7 @@ yours: ⵡⵉⵏⵏⴽ
 yourself: ⵉⵖⴼ ⵏⵏⴽ
 zone: ⴰⴷⵖⴰⵔ
 zones: ⵉⴷⵖⴰⵔⵏ
+
 
 
 
