@@ -745,7 +745,6 @@ equivalent: ⴰⵎⴳⴷⴰⵣⴰⵍ
 erosion: ⵜⴰⵣⵓⵣⵣⴼⵜ
 error: ⵜⴰⵣⴳⵍⵜ
 errors: ⵜⵉⵣⴳⵍⵉⵏ
-escape: ⵔⵡⵍ
 especially: ⵙⵍⴰⵡⴰⵏ
 essence: ⵜⵓⵎⴰⵙⵜ
 essential: ⴰⵏⵓⵎⴰⵙ
