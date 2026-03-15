@@ -1092,7 +1092,7 @@ imagination: ⵜⴰⵙⵓⴳⵉⵏⵜ
 immediately: ⵏⵏⵉⵛⴰⵏ
 immigrant: ⴰⵎⵣⵡⴰⴳ
 immigration: ⴰⵣⵡⴰⴳ
-impact: ⵜⴰⵣⵔⴰⵔⵜ
+impact: ⵜⵓⵙⵓⵔⵜ
 implementation: ⴰⵣⵣⴳⵉⵔ
 implementing: ⴰⵣⵣⴳⵉⵔ
 importance: ⵜⵉⵅⵅⵓⵜⵔⵜ
@@ -1119,7 +1119,7 @@ inequality: ⵜⴰⵙⵎⵢⵉⴳⵉⵔⵜ
 inertia: ⴰⴳⵍⵓⴳⵍ
 infinite: ⴰⵔⴳⵉⵔⴰⵏ
 infinity: ⵜⴰⵔⴳⵉⵔⴰ
-influence: ⵉⵣⵔⵉⵔⵉⵏ
+influence: ⵜⴰⵣⵔⵉⵔⵜ
 information: ⵓⵎⵍⴰⵏ
 infrastructure: ⵜⴰⴷⵓⵥⴽⵉⵡⵜ
 inhabitance: ⵉⵎⵣⴷⴰⵖ
@@ -2013,6 +2013,8 @@ seas: ⵉⵍⵍⵏ
 season: ⵉⵎⵉⵔ
 seasons: ⵉⵎⵉⵔⵏ
 second: ⵡⵉⵙⵙ ⵙⵉⵏ
+second (time): ⵜⴰⵙⵉⵏⵜ
+secondary: ⴰⵙⵉⵏⴰⵏ
 secret: ⵓⴼⴼⵉⵔ
 secrets: ⵓⴼⴼⵉⵔⵏ
 section: ⴰⴳⵎⵎⵓⵏ
