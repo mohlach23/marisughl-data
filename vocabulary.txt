@@ -1,7 +1,6 @@
 DNA: ⵙⵎⴽ
 English: ⵜⵉⵏⴳⵍⵉⵣⵜ
 Maris: ⵎⴰⵔⵉⵙ
-Marisughl: ⵎⴰⵔⵉⵙⵓⵖⵍ
 Mohamed: ⵎⵓⵃⵎⵎⴰⴷ
 abilities: ⵜⵉⵣⵎⵎⴰⵔ
 ability: ⵜⴰⵣⵎⵔⵜ
@@ -411,6 +410,7 @@ commonly: ⵉⵜⵜⵓⵎⵢⴰⵔ
 communication: ⴰⵎⵢⴰⵡⴰⴹ
 communities: ⴰⵎⵓⵏⵏ
 community: ⴰⵎⵓⵏ
+compaction: ⴰⵙⵓⴷⴷⵣ
 companies: ⵜⵉⵎⵙⵙⵓⵔⵉⵏ
 company: ⵜⴰⵎⵙⵙⵓⵔⵜ
 comparison: ⴰⵙⵎⵣⴰⵣⴰⵍ
@@ -516,6 +516,7 @@ criticism: ⴰⵣⵖⴰⵏ
 criticizable: ⵓⵣⵖⵉⵏ
 crow: ⴰⴳⵔⴼⵉⵡ
 crucial: ⴰⵎⵖⵜⴰⵙ
+crust: ⵜⵉⴼⵔⴽⵉⵜ
 culture: ⵜⴰⴷⵍⵙⴰ
 curdled milk: ⵉⴽⴽⵉⵍ
 currency: ⴰⵇⴰⵕⵉⴹ
@@ -741,6 +742,7 @@ equation: ⵜⴰⴳⴷⴰ
 equations: ⵜⴰⴳⴷⵉⵡⵉⵏ
 equivalence: ⵜⴰⴳⴷⴰⵣⴰⵍⵜ
 equivalent: ⴰⵎⴳⴷⴰⵣⴰⵍ
+erosion: ⵜⴰⵣⵓⵣⵣⴼⵜ
 error: ⵜⴰⵣⴳⵍⵜ
 errors: ⵜⵉⵣⴳⵍⵉⵏ
 escape: ⵔⵡⵍ
@@ -1369,6 +1371,7 @@ message: ⵜⴰⴱⵔⴰⵜ
 messages: ⵜⵉⴱⵔⴰⵜⵉⵏ
 metabolic: ⴰⵎⵉⵜⴰⴱⵓⵍⵉ
 metabolism: ⴰⵎⵉⵜⴰⴱⵓⵍⵉⵣⵎ
+metamorphic: ⴰⵙⵏⴰⵍⵖⴰⵏ
 metaphysical: ⴰⴼⵔⴳⴰⵎⴰⵏ
 metaphysics: ⵜⴰⴼⵔⴳⴰⵎⴰ
 metathesis: ⵜⵉⵎⵍⴻⵍⵍⵉⵜ
@@ -1779,7 +1782,7 @@ preparation: ⴰⵙⵎⵓⵜⵜⴳ
 presence: ⴰⵎⵎⴳⵏⵜ
 present: ⴰⵎⵉⵍⴰⵏ
 presentation: ⴰⵙⵏⴽⴷ
-pressure: ⴰⴷⴷⴰⵔ
+pressure: ⵓⴷⵓⵣ
 preview: ⵜⴰⵙⴽⴰⵏⵜ
 prevision: ⴰⴹⴽⴰⴹ
 price(s): ⴰⵜⵉⴳ(ⵏ)
@@ -2016,7 +2019,8 @@ section: ⴰⴳⵎⵎⵓⵏ
 sections: ⵉⴳⵎⵎⵓⵏⵏ
 sector: ⵜⴰⴳⵎⵎⵓⵏⵜ
 security: ⵜⴰⵖⵍⵙⵜ
-securities: ⵜⴰⵖⵍⵍⵉⵙⵉⵏ
+securities: ⵜⵉⵖⵍⵙⵉⵏ
+sedimentation: ⵜⴰⵔⴰⵙⴰ
 self-awareness: ⵜⴰⴼⵔⴽⵉⵎⴰⵏⵜ
 self-worth: ⴰⵣⴰⵍ ⴰⵏⵉⵎⴰⵏ
 semantic: ⴰⵏⴰⵎⴽⴰⵏ
@@ -2468,6 +2472,7 @@ vocabulary: ⵜⴰⵏⵙⵉⵡⴰⵍⵜ
 voice: ⵉⵎⵙⵍⵉ
 void: ⵜⵓⴳⴰⵡⵜ
 voids: ⵜⵓⴳⴰⵡⵉⵏ
+volcan: ⴰⴱⵓⵔⴽⴰⵏ
 vs.: ⵎⴳⴰⵍ
 wall: ⴰⵖⵔⴰⴱ
 walls: ⵉⵖⵔⴱⴰⵏ
