@@ -896,12 +896,13 @@ fortunately: ⵙ ⵜⵓⵎⵔⵜ
 forty: ⴽⴽⵓⵎⵔⴰⵡ
 forum: ⴰⵙⴳⵔⴰⵡ
 forums: ⵉⵙⴳⵔⴰⵡⵏ
-fossil: ⵜⴰⵏⴽⴼⵓⵍⵜ
-fossils: ⵜⵉⵏⴽⴼⵓⵍⵉⵏ
+fossil: ⴰⵎⴰⵖⵓⵣ
+fossils: ⵉⵎⴰⵖⵓⵣⵏ
 foundation: ⵜⵉⵎⵔⵙⵍⵜ
 founder: ⴰⵎⵙⵙⵔⵙⵍ
 four-dimensional: ⴰⴽⵡⴰⵙⴽⵜⴰⵏ
 four: ⴽⴽⵓⵥ
+fox: ⴰⴱⴰⵖⵓⵖ
 frame: ⴰⵙⴰⵜⵉ
 free: ⵉⵍⴻⵍⵍⵉ
 frequency: ⴰⵙⵏⴰⴳⴰⵔ
