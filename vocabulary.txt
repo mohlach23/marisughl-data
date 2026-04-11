@@ -506,6 +506,7 @@ couple: ⵜⴰⵢⵓⴳⴰ
 course: ⵜⴰⵙⵓⵜⵍⵜ
 courses: ⵜⵉⵙⵓⵜⴰⵍ
 cow: ⵜⴰⴼⵓⵏⴰⵙⵜ
+cube: ⴰⴳⴰⵙⴰⵙ
 current(courant): ⴰⵎⴰⵣⵣⵍ
 curvilinear: ⴰⴽⵏⵓⵣⵔⵉⴳ
 crazy: ⴰⵏⴰⴼⴰⵍ
@@ -1348,6 +1349,7 @@ mathematical: ⴰⵙⵏⴰⴽⵜⴰⵏ
 mathematics: ⵜⵓⵙⵏⴰⴽⵜ
 matrix: ⵜⴰⵙⴰⵔⵡⵜ
 matter: ⵜⴰⵏⴳⴰ
+maximum: ⴰⵏⴰⴼⵍⵍⴰ
 maybe: ⵢⴰⵍⵍⴼⵓⵙ
 meaning: ⴰⵏⴰⵎⴽ
 meaningful: ⴰⵎⵙⵏⵓⵎⴽ
@@ -1410,6 +1412,7 @@ mineral: ⴰⵎⵖⵓⵣ
 mineralogy: ⵜⴰⵙⵏⵎⵖⵓⵣⵜ
 minerals: ⵉⵎⵖⵓⵣⵏ
 minimization: ⴰⵙⵉⴷⵔⵓⵙ
+minimum: ⴰⵎⴰⵣⴷⴰⵔ
 minorities: ⵜⵉⴷⵔⵓⵙⵉⵏ
 minority: ⵜⴰⴷⵔⵓⵙⵜ
 minute: ⵜⵓⵙⴷⵉⴷⵜ
@@ -1822,7 +1825,7 @@ programming: ⴰⵙⵉⵀⵍ
 programs: ⴰⵀⵉⵍⵏ
 progress: ⴰⵏⵏⵔⵏⵉ
 project: ⴰⵙⵏⴼⴰⵔ
-projection: ⴰⵙⵏⵥⵕ
+projection: ⵜⴰⵙⴹⵓⵕⵉ
 projects: ⵉⵙⵏⴼⴰⵔⵏ
 promoting: ⴰⵙⵉⵍⵉ
 promotion: ⴰⵙⵉⵍⵉ
