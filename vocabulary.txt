@@ -7,6 +7,7 @@ ability: ⵜⴰⵣⵎⵔⵜ
 about: ⵖⴼ
 abscissa: ⵓⴳⵣⵉⵎ
 abscissas: ⵓⴳⵣⵉⵎⵏ
+absolute: ⴰⵎⵏⵏⵓⴼⵙⵍ
 absolutely: ⵏⵉⵜ
 abstract: ⴰⵎⴷⵡⴰⵏ
 acceleration: ⴰⵏⵉⵎⵎⵔ
@@ -123,6 +124,7 @@ arm: ⵉⵖⵉⵔ
 arms: ⵉⵖⴰⵔⵉⵡⵏ
 array: ⵜⴰⴼⵍⵡⵉⵜ
 arrays: ⵜⵉⴼⵍⵡⵉⵏ
+arrival: ⴰⵡⴰⴹ
 art: ⵜⴰⵥⵓⵕⵉ
 article: ⴰⵎⴳⵔⴰⴷ
 articles: ⵉⵎⴳⵔⴰⴷⵏ
@@ -212,6 +214,7 @@ been: ⵢⴰⴷⵍⵍⵉ
 before: ⴷⴰⵜ
 beginner: ⴰⵎⵙⵙⵏⵜⵉ
 beginners: ⵉⵎⵙⵙⵏⵜⵉⵢⵏ
+beginning: ⵜⵉⵣⵡⵉⵔⵉ
 behavior: ⴰⵎⵓⴳⴳⵉ
 behaviors: ⵉⵎⵓⴳⴳⵉⵜⵏ
 behaviour: ⴰⵎⵓⴳⴳⵉ
@@ -1207,6 +1210,7 @@ job: ⵜⴰⵡⵓⵔⵉ
 journal: ⴰⵖⵎⵉⵙ
 journal: ⴰⵖⵎⵉⵙ
 journey: ⵜⴰⵏⵢⵓⴷⴷⵓⵜ
+joy: ⵜⴰⴷⴰⵡⵉⵜ
 joyful: ⵉⵎⵎⵔⵏ
 jugement: ⴰⵣⴰⵔⴰⴼ
 jugements: ⵉⵣⴰⵔⴰⴼⵏ
@@ -2475,6 +2479,7 @@ void: ⵜⵓⴳⴰⵡⵜ
 voids: ⵜⵓⴳⴰⵡⵉⵏ
 volcan: ⴰⴱⵓⵔⴽⴰⵏ
 vs.: ⵎⴳⴰⵍ
+walking: ⵜⴰⵡⴰⴷⴰ
 wall: ⴰⵖⵔⴰⴱ
 walls: ⵉⵖⵔⴱⴰⵏ
 war: ⵉⵎⵏⵖⵉ
